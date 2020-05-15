@@ -39,3 +39,19 @@ The Communication Research Experience Undergraduate Seminar
 
 
 ## Conference Presentations
+*July 2020*<br>
+* **Mukerjee,  S.**, Jaidka,  K., & Lelkes, Y. (accepted) The Ideological Landscape of American Elites on Twitter. *The 6th International Conference on Computational Social Science*<br>MIT, Cambridge, MA, USA
+
+* **Mukerjee,  S.**,  (accepted)  Understanding Audience Fragmentation by a Community Extraction Method: Evidence from India. *The 6th International Conference on Computational Social Science* <br>
+MIT, Cambridge, MA, USA
+
+*May 2020*<br>
+* **Mukerjee, S.**, & Yang, T. (accepted) A Conjoint Experimental Study on the Effectsof Social Media Cues on Selective Exposure. *The 70th Annual Conference of the International Conference Association* <br>
+Gold Coast, Australia
+
+* **Mukerjee,  S.**,  (accepted)  News Reading Publics and Audience Fragmentation in a Multi-Lingual Political Context: Evidence from Online India (2014-2018). *The 70th Annual Conference of the International Conference Association* <br>
+Gold Coast, Australia
+
+* **Mukerjee,  S.**,  Jaidka,  K.,  &  Lelkes,  Y.  (accepted)  The Ideological Landscape of American Elites on Twitter. *The 70th Annual Conference of the International Communication Association* <br>
+Gold Coast, Australia
+
