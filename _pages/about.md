@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+======
+
 I am a PhD candidate at the <a href="https://www.asc.upenn.edu" target="_blank">Annenberg School for Communication </a> of the <a href="http://www.upenn.edu" target="_blank">University of Pennsylvania </a>.
 
 I am advised by <a href="https://www.asc.upenn.edu/node/648" target="_blank">Dr. Sandra Gonzalez-Bailon </a>, and am a member of the <a href="http://dimenet.asc.upenn.edu/" target="_blank">DiMeNet research lab </a> and the <a href="https://www.asc.upenn.edu/research/working-groups/democracy-information-group" target="_blank">DIG working group.</a>
