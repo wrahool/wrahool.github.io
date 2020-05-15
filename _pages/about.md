@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This site is under maintenance! Most things don't work (yet)"
+title: "This site is under construction! Most things don't work (yet)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
