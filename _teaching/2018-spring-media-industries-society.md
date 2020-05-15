@@ -3,7 +3,7 @@ title: "Media Industries and Society"
 collection: teaching
 type: "Undergraduate course"
 venue: "Annenberg School for Communication, University of Pennsylvania"
-date: 2017-01-01
+date: 2018-01-01
 location: "Philadelphia, PA, USA"
 ---
 
