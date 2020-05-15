@@ -3,7 +3,7 @@ title: "Understanding Social Networks"
 collection: teaching
 type: "Undergraduate course"
 venue: "Annenberg School for Communication, University of Pennsylvania"
-date: Spring 2017
+date: 2017-01-01
 location: "Philadelphia, PA, USA"
 ---
 
