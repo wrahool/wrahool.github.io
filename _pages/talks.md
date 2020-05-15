@@ -8,6 +8,9 @@ author_profile: true
 {% include base_path %}
 
 ## Invited Lectures
+
+### 2020 
+
 *April 2020*<br>
 * Massachusetts Institute of Technology, Cambridge, MA, USA<br>
 Human Cooperation Lab<br>
@@ -26,6 +29,7 @@ Microsoft Research Seminar
 * New York University, New York City, NY, USA<br>
 The Center for Social Media and Politics<br>
 
+### 2018
 *December 2018*<br>
 * Praxis Business School, Kolkata, India<br>
 Business Analytics MBA course
@@ -76,7 +80,7 @@ Duke University, Durham, NC, USA
 Duke University, Durham, NC, USA
 
 *May 2019*
-* Yang, T., Majo-Vazquez, **S.,Mukerjee, S.**, & Gonzalez-Bailon, S. (2019) Niche News and Peripheral Fragmentation: A Network Percolation Approach to the Analysis of News Consumption. *The 69th Annual Conference of the International Com-munication Association*<br>
+* Yang, T., Majo-Vazquez, S., **Mukerjee, S.**, & Gonzalez-Bailon, S. (2019) Niche News and Peripheral Fragmentation: A Network Percolation Approach to the Analysis of News Consumption. *The 69th Annual Conference of the International Com-munication Association*<br>
 Washington, DC, USA
 
 *July 2018*
