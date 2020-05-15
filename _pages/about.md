@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my webpage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am a PhD candidate at the <a href="https://www.asc.upenn.edu" target="_blank">Annenberg School for Communication </a> of the <a href="http://www.upenn.edu" target="_blank">University of Pennsylvania </a>. </p>
-								<p>I am advised by <a href="https://www.asc.upenn.edu/node/648" target="_blank">Dr. Sandra Gonzalez-Bailon </a>, and am a member of the <a href="http://dimenet.asc.upenn.edu/" target="_blank">DiMeNet research lab </a> and the <a href="https://www.asc.upenn.edu/research/working-groups/democracy-information-group" target="_blank">DIG working group.</a></p>
-								<p>My area of research, broadly construed, is computational social science. To learn more, check out the <a href="#research"> Research </a> section.
-								<p>My interest in the field of computational social science stems largely from my love for Isaac Asimov's <i>Foundation</i> trilogy from a very young age. As a result, I generally tend to ponder ways in which large scale social phenomena can be usefully and formally modeled. </p>
-								<p> I completed my Bachelor of Engineering degree in Computer Science, and a Master of Science degree in Mathematics, from <a href="https://www.bits-pilani.ac.in/" target = "_blank"> BITS Pilani </a>, India. As part of my PhD program, I completed a Master of Arts degree in Communication from Penn. </p>
-								<p>I make up for not being very physically active by watching sports. I follow  <a href="http://formula1.com/" target="_blank">Formula 1</a>, and am a supporter of <a href="https://www.arsenal.com/" target="_blank">Arsenal Football Club</a>. Yes, it's football, not soccer.</p>
-								<p>I love to read, write, and think, not necessarily in that order.</p>
+I am a PhD candidate at the <a href="https://www.asc.upenn.edu" target="_blank">Annenberg School for Communication </a> of the <a href="http://www.upenn.edu" target="_blank">University of Pennsylvania </a>.
+I am advised by <a href="https://www.asc.upenn.edu/node/648" target="_blank">Dr. Sandra Gonzalez-Bailon </a>, and am a member of the <a href="http://dimenet.asc.upenn.edu/" target="_blank">DiMeNet research lab </a> and the <a href="https://www.asc.upenn.edu/research/working-groups/democracy-information-group" target="_blank">DIG working group.</a>
+My area of research, broadly construed, is computational social science. To learn more, check out the <a href="#research"> Research </a> section.
+My interest in the field of computational social science stems largely from my love for Isaac Asimov's <i>Foundation</i> trilogy from a very young age. As a result, I generally tend to ponder ways in which large scale social phenomena can be usefully and formally modeled.
+I completed my Bachelor of Engineering degree in Computer Science, and a Master of Science degree in Mathematics, from <a href="https://www.bits-pilani.ac.in/" target = "_blank"> BITS Pilani </a>, India. As part of my PhD program, I completed a Master of Arts degree in Communication from Penn.
+I make up for not being very physically active by watching sports. I follow  <a href="http://formula1.com/" target="_blank">Formula 1</a>, and am a supporter of <a href="https://www.arsenal.com/" target="_blank">Arsenal Football Club</a>. Yes, it's football, not soccer.
+I love to read, write, and think, not necessarily in that order.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
