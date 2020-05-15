@@ -7,23 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
-## Referred Publications
+## Refereed Publications
 
 ### 2020
 
-* **Mukerjee, S.** & Yang, T. Choosing to Avoid? A Conjoint Experimental Study to Understand Selective Exposure and Avoidance on Facebook.<br>
-Forthcoming in *Political Communication*
+* **Mukerjee, S.** & Yang, T. Choosing to Avoid? A Conjoint Experimental Study to Understand Selective Exposure and Avoidance on Facebook.
+Forthcoming in *Political Communication*. [Preprint](https://osf.io/hc2vs/)
 
 
 ### 2018
 
-* **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. Networks of audience overlap in the consumption of digital news.<br>
-Journal of Communication
+* **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. [Networks of audience overlap in the consumption of digital news](https://academic.oup.com/joc/article-abstract/68/1/26/4858530). *Journal of Communication*, 68(1), 26-50.
 
 ### 2016
 
-* **Mukerjee, S.**.  Net neutrality, Facebook, and India’s battle to #SaveTheInternet.<br>
-Communication and the Public
+* **Mukerjee, S.**. [Net neutrality, Facebook, and India’s battle to #SaveTheInternet](https://journals.sagepub.com/doi/abs/10.1177/2057047316665850). *Communication and the Public*, 1(3), 356–361.
 
 ## Other Publications
 
