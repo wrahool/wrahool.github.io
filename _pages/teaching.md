@@ -9,12 +9,11 @@ author_profile: true
 
 ## Experience
 
-###Media Industries and Society
-Spring 2018 
+**Media Industries and Society**<br>
+*Spring 2018*<br>
+Teaching Fellow for Prof. Joseph Turow, University of Pennsylvania
 
-(undergraduate course), *Teaching Fellow for Prof. Joseph Turow*, University of Pennsylvania
 
-###Understanding Social Networks
-Spring 2017
-
-(undergraduate course), *Lab Assistant for Prof. Sandra Gonzalez-Bailon*, University of Pennsylvania
+**Understanding Social Networks**<br>
+*Spring 2017*<br>
+*Lab Assistant for Prof. Sandra Gonzalez-Bailon*, University of Pennsylvania
