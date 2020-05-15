@@ -9,33 +9,33 @@ author_profile: true
 
 ## Invited Lectures
 *April 2020*<br>
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Massachusetts Institute of Technology, Cambridge, MA, USA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Human Cooperation Lab<br>
+* Massachusetts Institute of Technology, Cambridge, MA, USA<br>
+Human Cooperation Lab<br>
 
 *March 2020*<br>
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Wisconsin-Madison, Madison, WI, USA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computational Communication Research Graduate Seminar<br>
+* University of Wisconsin-Madison, Madison, WI, USA<br>
+Computational Communication Research Graduate Seminar<br>
 
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National University of Singapore, Singapore<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty of Arts and Social Sciences<br>
+* National University of Singapore, Singapore<br>
+Faculty of Arts and Social Sciences<br>
 
 *January 2020*<br>
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft Research, New York City, NY, USA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft Research Seminar
+* Microsoft Research, New York City, NY, USA<br>
+Microsoft Research Seminar
 
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York University, New York City, NY, USA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Center for Social Media and Politics<br>
+* New York University, New York City, NY, USA<br>
+The Center for Social Media and Politics<br>
 
 *December 2018*<br>
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Praxis Business School, Kolkata, India<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Business Analytics MBA course
+* Praxis Business School, Kolkata, India<br>
+Business Analytics MBA course
 
 *March 2018*<br>
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Pennsylvania, Philadelphia, PA, USA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Methods for a Fragmented Media Environment Graduate Seminar<br>
+* University of Pennsylvania, Philadelphia, PA, USA<br>
+Research Methods for a Fragmented Media Environment Graduate Seminar<br>
 
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Pennsylvania, Philadelphia PA, USA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Communication Research Experience Undergraduate Seminar
+* University of Pennsylvania, Philadelphia PA, USA<br>
+The Communication Research Experience Undergraduate Seminar
 
 
 ## Conference Presentations
