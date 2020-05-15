@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download latest CV here.
+Click [here]{/files/sm_cv.pdf} to download latest CV.
