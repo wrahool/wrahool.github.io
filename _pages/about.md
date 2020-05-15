@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my webpage"
+title: "This site is under maintenance! Most things don't work (yet)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -32,6 +32,6 @@ I am a computational social scientist, interested in studying news consumption a
 
 3. Running online experiments to understand the microdynamics of partisan news selection.
 
-4. Running online experiments to understand the effects of partisan information consumption on social media. </p>
+4. Running online experiments to understand the effects of partisan information consumption on social media.
 
 Check out my publications and working papers <a href="#projects">here</a>.
