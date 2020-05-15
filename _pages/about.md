@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "This site is under construction! Most things don't work (yet)"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About Me
-======
 
 I am a PhD candidate at the <a href="https://www.asc.upenn.edu" target="_blank">Annenberg School for Communication </a> of the <a href="http://www.upenn.edu" target="_blank">University of Pennsylvania </a>.
 
