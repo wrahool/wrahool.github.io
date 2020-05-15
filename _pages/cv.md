@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Communication, University of Pennsylvania, 2020 (expected)
+* M.A. in Communication, University of Pennsylvania, 2017
+* M.Sc. in Mathematics, Birla Institute of Technology and Science (BITS) Pilani, India, 2014
+* B.E. in Computer Science, Birla Institute of Technology and Science (BITS) Pilani, India, 2014
 
 Work experience
 ======
