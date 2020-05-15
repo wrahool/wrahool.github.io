@@ -27,17 +27,14 @@ Forthcoming in *Political Communication*. [Preprint](https://osf.io/hc2vs/)
 
 ### 2019
 
-* **Mukerjee. S.** & Gonalez-Bailon, S. Social Media Data: Quantitative Analysis.<br>
-In P. Atkinson, S. Delamont, A. Cernat, J.W. Sakshaug, & R.A. Williams (Eds.), SAGE Research Methods Foundations
+* **Mukerjee. S.** & Gonalez-Bailon, S. [Social Media Data: Quantitative Analysis](https://methods.sagepub.com/foundations/social-media-data-quantitative-analysis). In P. Atkinson, S. Delamont, A. Cernat, J.W. Sakshaug, & R.A. Williams (Eds.), *SAGE Research Methods Foundations*
 
-* Majo-Vazquez, S., **Mukerjee, S**, Ahmed Neyazi T., & Nielsen, R. K. Online Audience Engagement with Legacy and Digital-Born News Media in the 2019 IndianElections.<br>
-Reuters Institute for the Study of Journalism Factsheet. Media coverage.
+* Majo-Vazquez, S., **Mukerjee, S**, Ahmed Neyazi T., & Nielsen, R. K. [Online Audience Engagement with Legacy and Digital-Born News Media in the 2019 Indian Elections](https://reutersinstitute.politics.ox.ac.uk/our-research/online-audience-engagement-legacy-and-digital-born-news-media-2019-indian-elections).
+Reuters Institute for the Study of Journalism Factsheet. [Media coverage](https://indianexpress.com/article/india/online-readers-didnt-polarise-during-lok-sabha-polls-study-5799902/).
 
-* **Mukerjee, S**. & Majo-Vazquez, S. During the Indian election, news audiences consumed a wide and diverse range of sources.<br>
-Nieman Lab blog
+* **Mukerjee, S**. & Majo-Vazquez, S. [During the Indian election, news audiences consumed a wide and diverse range of sources](https://www.niemanlab.org/2019/06/during-the-indian-election-news-audiences-consumed-a-wide-and-diverse-range-of-sources/). Nieman Lab blog.
 
 ### 2018
 
-* **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. Response to Webster and Taneja's Response to Networks of audience overlap in the consumption of digital news.<br>
-Journal of Communication
+* **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. [Response to Webster and Taneja's Response to Networks of audience overlap in the consumption of digital news](https://academic.oup.com/joc/article-abstract/68/3/E15/5025982.) *Journal of Communication*, 68(3), E15-E18.
 
