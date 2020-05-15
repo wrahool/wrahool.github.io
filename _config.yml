@@ -90,7 +90,6 @@ author:
   email            : "mail@subhayan.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  publons          : "https://publons.com/researcher/3546407/subhayan-mukerjee/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -99,7 +98,7 @@ author:
   foursquare       :
   github           : "wrahool"
   google_plus      :
-  keybase          :
+  keybase          : "wrahool"
   instagram        : "wrahool"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : "wrahool"
@@ -107,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-1885-5440"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/1123924/wrahool"
   steam            :
   tumblr           :
   twitter          : "wrahool"
