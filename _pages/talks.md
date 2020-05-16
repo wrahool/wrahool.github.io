@@ -98,8 +98,6 @@ Prague, Czech Republic
 * **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. Are AudiencesFragmented in How They Consume News Online? *The 67th Annual Conference ofthe International Communication Association*<br>
 San Diego, CA, USA
 
-<br/><br/><br/><br/>
-
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2NzY0NTI4NjYsMjA2NDY0OTQxMV19
 -->
