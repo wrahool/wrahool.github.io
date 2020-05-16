@@ -23,11 +23,13 @@ Some of my favorite (fiction and non-fiction) books/authors -
 - *A World Without Time* by Palle Yourgrau
 - *The Murder on the Orient Express* by Agatha Christie
 - *The Martian* by Andy Weir
+- *The Last Lecture* by Randy Pausch
 - *One, Two, Three ... Infinity* by George Gamow
 - *Physics for Entertainment* by Yakov Perelman
 - *The Count of Monte Cristo* by Alexandre Dumas
 - Short stories by R. K. Narayan
 - Short stories by Ruskin Bond
+- Byomkesh stories by Sharadindu Bandyopadhyay
 - Anything by Roald Dahl
 - Anything by P. G. Wodehouse
 
@@ -107,6 +109,7 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzQwNzM4OCwtNzgyNDI0Mjg1LC0xMj
-Y0MjA1OTMzLDExNDg5Njg1MjIsNjAyNjQzNTA2XX0=
+eyJoaXN0b3J5IjpbLTIwNzYyNTQyMDIsMTA3NzQwNzM4OCwtNz
+gyNDI0Mjg1LC0xMjY0MjA1OTMzLDExNDg5Njg1MjIsNjAyNjQz
+NTA2XX0=
 -->
