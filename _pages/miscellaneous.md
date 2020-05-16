@@ -12,8 +12,9 @@ Some of my favorite (fiction and non-fiction) books -
 - *Logicomix* by Apostolos Doxiadis and Christos Papadimitriou
 - *The Emperor of all Maladies* by Siddhartha Mukherjee
 - *Harry Potter* by J. K. Rowling
-- *The Adventures of Tintin* by Herge
--  
+- *The Adventures of Tintin* by Hergé
+- *Asterix and Obelix* by  Albert Uderzo and René Goscinny
+- *The Black Swan* by Nassim Nicholas Taleb
 
 ### TV shows
 Some TV shows that I have enjoyed (and enjoy) watching -
@@ -89,5 +90,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjUxNjQxNl19
+eyJoaXN0b3J5IjpbLTEyMjcyNzE1MTZdfQ==
 -->
