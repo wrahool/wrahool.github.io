@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Invited Lectures
+## Invited Lectures [Conference Presentations](./#conference presentations)
 
 ### 2020 
 
@@ -98,3 +98,6 @@ Prague, Czech Republic
 
 * **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. Are AudiencesFragmented in How They Consume News Online? *The 67th Annual Conference ofthe International Communication Association*<br>
 San Diego, CA, USA
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA2NDY0OTQxMV19
+-->
