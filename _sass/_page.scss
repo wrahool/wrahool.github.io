@@ -197,7 +197,7 @@
 
 .page__share {
   margin-top: 1em;
-  padding-top: 1em;
+  padding-top: 0em;
   border-top: 1px solid $border-color;
 
   @include breakpoint(max-width $small) {
@@ -215,7 +215,7 @@
 }
 
 .page__share-title {
-  margin-bottom: 5px;
+  margin-bottom: 2px;
   font-size: $type-size-6;
   text-transform: uppercase;
 }
