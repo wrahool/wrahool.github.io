@@ -20,11 +20,16 @@ Here are some podcasts I typically listen to -
 - [Science Vs](https://gimletmedia.com/shows/science-vs)
 - [Throughline](https://www.npr.org/podcasts/510333/throughline)
 - [Today Explained](https://www.vox.com/today-explained)
+- [Artificial Intelligence Podcast](https://lexfridman.com/ai/)
+
+This list would be incomplete without the auditory staples for all Arsenal fans -
+
+- [Arsecast](https://arseblog.com/arsecasts/)
 - 
 
 ### Stuff worth a read
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTYyMjI5NjZdfQ==
+eyJoaXN0b3J5IjpbLTIwNDkwMjgwMF19
 -->
