@@ -21,12 +21,12 @@ List of a few movies that left a mark on me -
 Here are some podcasts I typically listen to -
 
 - [In Our Time - BBC](https://www.bbc.co.uk/programmes/b006qykl)
-- [Stuff You Should Know - iHeartR](https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/)
-- [Quanta Science Podcast](https://www.quantamagazine.org/tag/podcast)
-- [The Joy of x Podcast](https://www.quantamagazine.org/tag/the-joy-of-x)
-- [Science Vs](https://gimletmedia.com/shows/science-vs)
-- [Throughline](https://www.npr.org/podcasts/510333/throughline)
-- [Today Explained](https://www.vox.com/today-explained)
+- [Stuff You Should Know - iHeartRadio](https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/)
+- [Science Podcast - Quanta Magazine](https://www.quantamagazine.org/tag/podcast)
+- [The Joy of x Podcast - Quanta Magazine](https://www.quantamagazine.org/tag/the-joy-of-x)
+- [Science Vs - Gimlet](https://gimletmedia.com/shows/science-vs)
+- [Throughline - NPR](https://www.npr.org/podcasts/510333/throughline)
+- [Today Explained - Vox](https://www.vox.com/today-explained)
 - [Artificial Intelligence Podcast](https://lexfridman.com/ai/)
 - [Attention Pliss!](https://anchor.fm/appodcast)
 
@@ -39,5 +39,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTg3OTM0N119
+eyJoaXN0b3J5IjpbLTU4MDI2MDY2Ml19
 -->
