@@ -20,6 +20,7 @@ Some of my favorite (fiction and non-fiction) books -
 - *Contact* by Carl Sagan
 - *The Black Swan* by Nassim Nicholas Taleb
 - *A World Without Time* by Palle Yourgrau
+- *The Martian* by Andy Weir
 - *One, Two, Three ... Infinity* by George Gamow
 - *Physics for Entertainment* by Yakov Perelman
 - Almost anything by P. G. Wodehouse
@@ -68,6 +69,7 @@ Here are a few movies that left a mark on me -
 - Back to the Future
 - Lion King
 - Coco
+- Ben Hur
 - Monty Python and the Holy Grail
 - Piku
 - Monty Python and the Life of Brian
@@ -99,5 +101,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc1MzEwNjldfQ==
+eyJoaXN0b3J5IjpbNjAyNjQzNTA2XX0=
 -->
