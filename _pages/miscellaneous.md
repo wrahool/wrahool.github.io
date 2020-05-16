@@ -16,6 +16,7 @@ Some of my favorite (fiction and non-fiction) books -
 - *Asterix and Obelix* by  Albert Uderzo and René Goscinny
 - *The Black Swan* by Nassim Nicholas Taleb
 - *A World Without Time* by Palle Yourgrau
+- *One, Two, Three ... Infinity* by Geor
 - Any book by P. G. Wodehouse
 
 ### TV shows
@@ -92,5 +93,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTA1MjA3N119
+eyJoaXN0b3J5IjpbLTI1MjI5MjQ0OF19
 -->
