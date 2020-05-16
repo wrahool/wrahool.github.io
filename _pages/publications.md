@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-
 ## Refereed Publications
 
 ### 2020
@@ -38,3 +36,6 @@ Reuters Institute for the Study of Journalism Factsheet. [Media coverage](https:
 
 * **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. [Response to Webster and Taneja's Response to Networks of audience overlap in the consumption of digital news](https://academic.oup.com/joc/article-abstract/68/3/E15/5025982.) *Journal of Communication*, 68(3), E15-E18.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ1OTgyNTc1NV19
+-->
