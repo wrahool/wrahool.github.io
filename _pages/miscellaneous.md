@@ -1,7 +1,8 @@
 
 ---
-permalink: /miscellaneous/
+layout: archive
 title: "Miscellaneous"
+permalink: /miscellaneous/
 author_profile: true
 ---
 
@@ -104,13 +105,3 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 
 - [Arsecast](https://arseblog.com/arsecasts/)
 - [The Arsenal Vision Podcast](https://www.arsenalvisionpodcast.com/)
-
-<!--- ### Stuff worth a read
-- Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
-
->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE4OTU2OTUsLTEwMjEyMDEzMDEsLT
-IwNzYyNTQyMDIsMTA3NzQwNzM4OCwtNzgyNDI0Mjg1LC0xMjY0
-MjA1OTMzLDExNDg5Njg1MjIsNjAyNjQzNTA2XX0=
--->
