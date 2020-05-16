@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% include base_path %}
-
 ##### Quick links: [Invited Lectures](./#invited-lectures) - [Conference Presentations](./#conference-presentations)
 
 ## Invited Lectures
