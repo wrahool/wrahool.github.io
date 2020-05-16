@@ -12,12 +12,14 @@ author_profile: true
 List of a few movies that left a mark on me -
 
 - 2001: A Space Odyssey
+- Dead Poets Society
 - Interstellar
 - Hugo
 - Blade Runner
 - Blade Runner 2049
 - Back to the Future
-- 
+- Lion King
+- Coco
 
 ### Podcasts
 Here are some podcasts I typically listen to -
@@ -41,5 +43,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM0MDI5MTVdfQ==
+eyJoaXN0b3J5IjpbLTIxMjQyODE3MV19
 -->
