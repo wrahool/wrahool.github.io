@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Click [here](/files/sm_cv.pdf) to download my latest CV.
+
+<br/><br/><br/><br/>
