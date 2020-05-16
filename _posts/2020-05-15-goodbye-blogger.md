@@ -6,7 +6,7 @@ tags:
   - personal
 ---
 
-This is my first blog post on GitHub!
+This is my first blog post on GitHub Pages!
 
 I will subsequently be transitioning away from my previous Blogger based web-blog at <https://blog.subhayan.com/> to this GitHub pages site.
 
@@ -20,5 +20,5 @@ Thank you, Blogger.
 
 ------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4ODMxNDgxXX0=
+eyJoaXN0b3J5IjpbNTYzNDQ4ODI5LDMxODgzMTQ4MV19
 -->
