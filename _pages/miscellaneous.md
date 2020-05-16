@@ -10,6 +10,9 @@ Some of my favorite (fiction and non-fiction) books -
 
 - *Foundation trilogy* by Issac Asimov
 - *Logicomix* by Apostolos Doxiadis and Christos Papadimitriou
+- *The Emperor of all Maladies* by Siddhartha Mukherjee
+- *Harry Potter* by J. K. Rowling
+- *The Adventures of Tintin* by Herge
 -  
 
 ### TV shows
@@ -86,5 +89,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwMDA2MjBdfQ==
+eyJoaXN0b3J5IjpbLTc4MjUxNjQxNl19
 -->
