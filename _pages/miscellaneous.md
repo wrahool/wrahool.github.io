@@ -14,7 +14,7 @@ Some of my favorite (fiction and non-fiction) books/authors -
 - *Foundation trilogy* by Issac Asimov
 - *Logicomix* by Apostolos Doxiadis and Christos Papadimitriou
 - *The Emperor of all Maladies* by Siddhartha Mukherjee
-- *Harry Potter* by J. K. Rowling
+- *The Harry Potter Series* by J. K. Rowling
 - *The Adventures of Tintin* by Hergé
 - *Asterix and Obelix* by  Albert Uderzo and René Goscinny
 - *Contact* by Carl Sagan
@@ -27,11 +27,15 @@ Some of my favorite (fiction and non-fiction) books/authors -
 - *One, Two, Three ... Infinity* by George Gamow
 - *Physics for Entertainment* by Yakov Perelman
 - *The Count of Monte Cristo* by Alexandre Dumas
-- Short stories by R. K. Narayan
-- Short stories by Ruskin Bond
-- Byomkesh stories by Sharadindu Bandyopadhyay
-- Anything by Roald Dahl
-- Anything by P. G. Wodehouse
+- *Chronotantra* by Prithwis Mukerjee
+
+This list would be incomplete without mentioning some writers whose books and stories I enjoy in general. These include:
+
+- R. K. Narayan
+- Ruskin Bond
+- Sharadindu Bandyopadhyay
+- Roald Dahl
+- P. G. Wodehouse
 
 ### TV shows
 TV shows that I have enjoyed (and enjoy) watching -
