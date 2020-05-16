@@ -6,6 +6,11 @@ author_profile: true
 ---
 ### Books
 
+Some of my favorite (fiction and non-fiction) books -
+
+- Foundation trilogy by Issac Asimov
+- 
+
 ### TV shows
 Some TV shows that I have enjoyed (and enjoy) watching -
 
@@ -32,7 +37,12 @@ Some TV shows that I have enjoyed (and enjoy) watching -
 - Stranger Things
 - The Handmaid's Tale
 - Black Mirror
-- Brooklyn Nine Nin
+- Brooklyn Nine Nine
+- Firefly
+- BoJack Horseman
+- Seinfeld
+- A Bit of Fry and Laurie
+- Monty Python's Flying Circus
 
 ### Movies
 Here are a few movies that left a mark on me -
@@ -74,5 +84,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDY1MzI4Nl19
+eyJoaXN0b3J5IjpbLTg0OTU2OTkzNl19
 -->
