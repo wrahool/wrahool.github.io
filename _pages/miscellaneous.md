@@ -4,6 +4,9 @@ permalink: /miscellaneous/
 title: ""
 author_profile: true
 ---
+
+[Books](./#books) | [TV shows](./#tv-shows) |[Movies](.#movies)|
+
 ### Books
 
 Some of my favorite (fiction and non-fiction) books -
@@ -96,5 +99,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyNTYyOTM1XX0=
+eyJoaXN0b3J5IjpbLTEwMDkxMjM3NzBdfQ==
 -->
