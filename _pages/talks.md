@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Invited Lectures | [Conference Presentations](./#conference-presentations)
+## Invited Lectures
 
 ### 2020 
 
@@ -36,8 +36,7 @@ Research Methods for a Fragmented Media Environment Graduate Seminar<br>
 * University of Pennsylvania, Philadelphia PA, USA<br>
 The Communication Research Experience Undergraduate Seminar
 
-
-## [Invited Talks](./#invited-talks) | Conference Presentations
+## Conference Presentations
 
 ### 2020
 
@@ -99,5 +98,5 @@ Prague, Czech Republic
 * **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. Are AudiencesFragmented in How They Consume News Online? *The 67th Annual Conference ofthe International Communication Association*<br>
 San Diego, CA, USA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MjQ2NDEzNCwyMDY0NjQ5NDExXX0=
+eyJoaXN0b3J5IjpbLTE2NzY0NTI4NjYsMjA2NDY0OTQxMV19
 -->
