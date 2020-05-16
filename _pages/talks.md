@@ -39,8 +39,6 @@ The Communication Research Experience Undergraduate Seminar
 
 ## [Invited Talks](./#invited-talks) | Conference Presentations
 
-### [2020](./#2020) | [2019](./#2019) |
-
 ### 2020
 
 * **Mukerjee, S.**, Jaidka, K., & Lelkes, Y. (accepted) The Ideological Landscape of American Elites on Twitter. *The 6th International Conference on Computational Social Science*<br>MIT, Cambridge, MA, USA
@@ -101,5 +99,5 @@ Prague, Czech Republic
 * **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. Are AudiencesFragmented in How They Consume News Online? *The 67th Annual Conference ofthe International Communication Association*<br>
 San Diego, CA, USA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjc3NzQ5OSwyMDY0NjQ5NDExXX0=
+eyJoaXN0b3J5IjpbLTY1MjQ2NDEzNCwyMDY0NjQ5NDExXX0=
 -->
