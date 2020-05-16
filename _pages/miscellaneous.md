@@ -23,7 +23,7 @@ Some of my favorite (fiction and non-fiction) books -
 - *The Martian* by Andy Weir
 - *One, Two, Three ... Infinity* by George Gamow
 - *Physics for Entertainment* by Yakov Perelman
-- *The Count of Monte Cristo*
+- *The Count of Monte Cristo* by Alexandre Dumas
 - Short stories by R. K. Narayan
 - Short stories by Ruskin Bond
 - Short stories by Roald Dahl
@@ -105,5 +105,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzAzMzY3Nyw2MDI2NDM1MDZdfQ==
+eyJoaXN0b3J5IjpbLTE0MTk3NjIwMzAsNjAyNjQzNTA2XX0=
 -->
