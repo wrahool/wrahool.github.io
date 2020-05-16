@@ -5,7 +5,7 @@ title: ""
 author_profile: true
 ---
 
-##### Quick links: [Books](./#books) - [TV shows](./#tv-shows) - [Movies](.#movies) - [Podcasts](./#podcasts) - [Stuff Worth A Read](.#stuff-worth-a-read)
+##### Quick links: [Books](./#books) - [TV shows](./#tv-shows) - [Movies](.#movies) - [Podcasts](./#podcasts) 
 
 ### Books
 
@@ -105,11 +105,12 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - [Arsecast](https://arseblog.com/arsecasts/)
 - [The Arsenal Vision Podcast](https://www.arsenalvisionpodcast.com/)
 
-### Stuff worth a read
+<!--- ### Stuff worth a read
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
-- 
+
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYyNTQyMDIsMTA3NzQwNzM4OCwtNz
-gyNDI0Mjg1LC0xMjY0MjA1OTMzLDExNDg5Njg1MjIsNjAyNjQz
-NTA2XX0=
+eyJoaXN0b3J5IjpbLTEwMjEyMDEzMDEsLTIwNzYyNTQyMDIsMT
+A3NzQwNzM4OCwtNzgyNDI0Mjg1LC0xMjY0MjA1OTMzLDExNDg5
+Njg1MjIsNjAyNjQzNTA2XX0=
 -->
