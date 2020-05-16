@@ -18,6 +18,7 @@ Some of my favorite (fiction and non-fiction) books -
 - *The Adventures of Tintin* by Hergé
 - *Asterix and Obelix* by  Albert Uderzo and René Goscinny
 - *Contact* by Carl Sagan
+- *And Then There were None*
 - *The Black Swan* by Nassim Nicholas Taleb
 - *A World Without Time* by Palle Yourgrau
 - *The Martian* by Andy Weir
@@ -26,8 +27,8 @@ Some of my favorite (fiction and non-fiction) books -
 - *The Count of Monte Cristo* by Alexandre Dumas
 - Short stories by R. K. Narayan
 - Short stories by Ruskin Bond
-- Stuff by Roald Dahl
-- Almost anything by P. G. Wodehouse
+- Anything by Roald Dahl
+- Anything by P. G. Wodehouse
 
 ### TV shows
 TV shows that I have enjoyed (and enjoy) watching -
@@ -105,6 +106,6 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzEzMTYyMSwxMTQ4OTY4NTIyLDYwMj
-Y0MzUwNl19
+eyJoaXN0b3J5IjpbLTEyNjQyMDU5MzMsMTE0ODk2ODUyMiw2MD
+I2NDM1MDZdfQ==
 -->
