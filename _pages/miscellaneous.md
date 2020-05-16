@@ -104,7 +104,7 @@ Here are some podcasts I typically listen to -
 - [Philosophize This!](http://philosophizethis.org/)
 - [Rationally Speaking](http://rationallyspeakingpodcast.org/)
 
-This list would be incomplete without what are the auditory staples for all Arsenal fans -
+This list would be incomplete without mentioning the auditory staples for all Arsenal fans -
 
 - [Arsecast](https://arseblog.com/arsecasts/)
 - [The Arsenal Vision Podcast](https://www.arsenalvisionpodcast.com/)
