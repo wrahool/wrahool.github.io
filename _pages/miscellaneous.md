@@ -7,7 +7,7 @@ author_profile: true
 ### Books
 
 ### TV shows
-Some TV shows that I have enjoyed watching
+Some TV shows that I have enjoyed watching -
 
 - The Office (US)
 - Battlestar Galactica
@@ -53,5 +53,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDc4MDE3M119
+eyJoaXN0b3J5IjpbLTIxMTMwNTg4ODBdfQ==
 -->
