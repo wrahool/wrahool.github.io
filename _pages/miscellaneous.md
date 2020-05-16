@@ -14,6 +14,8 @@ List of a few movies that left a mark on me -
 - 2001: A Space Odyssey
 - Interstellar
 - Hugo
+- Blade Runner
+- Blade Runner 2049
 - Back to the Future
 - 
 
@@ -39,5 +41,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDI2MDY2Ml19
+eyJoaXN0b3J5IjpbLTE1MjM0MDI5MTVdfQ==
 -->
