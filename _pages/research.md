@@ -1,11 +1,9 @@
 ---
 permalink: /research/
 title: "Research"
-excerpt: "About Me"
+
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 I am a computational social scientist, interested in studying news consumption as a socio-political process. My research areas include the following:
@@ -20,7 +18,7 @@ I am a computational social scientist, interested in studying news consumption a
 
 Check out my publications [here](./publications).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczNDAyNzQ3LDQzNDc3NTkxNyw4NzExNz
-c5NDQsLTIwMjk4Nzk2MzksLTcyMjU3ODc3OSwtMjAyOTg3OTYz
-OV19
+eyJoaXN0b3J5IjpbLTE0ODUzMjE4ODgsNDM0Nzc1OTE3LDg3MT
+E3Nzk0NCwtMjAyOTg3OTYzOSwtNzIyNTc4Nzc5LC0yMDI5ODc5
+NjM5XX0=
 -->
