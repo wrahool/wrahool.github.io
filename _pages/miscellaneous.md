@@ -9,7 +9,7 @@ author_profile: true
 
 ### Books
 
-Some of my favorite (fiction and non-fiction) books -
+Some of my favorite (fiction and non-fiction) books/authors -
 
 - *Foundation trilogy* by Issac Asimov
 - *Logicomix* by Apostolos Doxiadis and Christos Papadimitriou
@@ -107,6 +107,6 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjQyNDI4NSwtMTI2NDIwNTkzMywxMT
-Q4OTY4NTIyLDYwMjY0MzUwNl19
+eyJoaXN0b3J5IjpbMTA3NzQwNzM4OCwtNzgyNDI0Mjg1LC0xMj
+Y0MjA1OTMzLDExNDg5Njg1MjIsNjAyNjQzNTA2XX0=
 -->
