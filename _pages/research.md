@@ -18,7 +18,6 @@ I am a computational social scientist, interested in studying news consumption a
 
 Check out my publications [here](./../publications).
 
-<br/><br/><br/><br/>
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3ODUyODQ5MTUsLTE0ODUzMjE4ODgsND
 M0Nzc1OTE3LDg3MTE3Nzk0NCwtMjAyOTg3OTYzOSwtNzIyNTc4

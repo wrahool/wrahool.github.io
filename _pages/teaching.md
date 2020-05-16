@@ -14,4 +14,3 @@ Teaching Fellow (undergraduate course) for Prof. Joseph Turow
 * Understanding Social Networks<br>
 Lab Assistant (undergraduate course) for Prof. Sandra Gonzalez-Bailon
 
-<br/><br/><br/><br/>
