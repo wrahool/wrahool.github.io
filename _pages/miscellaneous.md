@@ -14,9 +14,11 @@ Some of my favorite (fiction and non-fiction) books -
 - *Harry Potter* by J. K. Rowling
 - *The Adventures of Tintin* by Hergé
 - *Asterix and Obelix* by  Albert Uderzo and René Goscinny
+- *Contact* by Carl Sagan
 - *The Black Swan* by Nassim Nicholas Taleb
 - *A World Without Time* by Palle Yourgrau
-- *One, Two, Three ... Infinity* by Geor
+- *One, Two, Three ... Infinity* by George Gamow
+- *Physics for Entertainment* by Yakov Perelman
 - Any book by P. G. Wodehouse
 
 ### TV shows
@@ -83,6 +85,7 @@ Here are some podcasts I typically listen to -
 - [Artificial Intelligence Podcast](https://lexfridman.com/ai/)
 - [Attention Pliss!](https://anchor.fm/appodcast)
 - [Philosophize This!](http://philosophizethis.org/)
+- [Rationally Speaking](http://rationallyspeakingpodcast.org/
 
 This list would be incomplete without the auditory staples for all Arsenal fans -
 
@@ -93,5 +96,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjI5MjQ0OF19
+eyJoaXN0b3J5IjpbMTExNDc1MDg4N119
 -->
