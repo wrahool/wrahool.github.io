@@ -18,9 +18,10 @@ Some of my favorite (fiction and non-fiction) books -
 - *The Adventures of Tintin* by Hergé
 - *Asterix and Obelix* by  Albert Uderzo and René Goscinny
 - *Contact* by Carl Sagan
-- *And Then There were None*
+- *And Then There Were None* by Agatha Christie
 - *The Black Swan* by Nassim Nicholas Taleb
 - *A World Without Time* by Palle Yourgrau
+- *The Murder on the Orient Express* by Agatha Christie
 - *The Martian* by Andy Weir
 - *One, Two, Three ... Infinity* by George Gamow
 - *Physics for Entertainment* by Yakov Perelman
@@ -106,6 +107,6 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQyMDU5MzMsMTE0ODk2ODUyMiw2MD
-I2NDM1MDZdfQ==
+eyJoaXN0b3J5IjpbLTc4MjQyNDI4NSwtMTI2NDIwNTkzMywxMT
+Q4OTY4NTIyLDYwMjY0MzUwNl19
 -->
