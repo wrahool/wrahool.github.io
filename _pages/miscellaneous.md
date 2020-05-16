@@ -5,7 +5,7 @@ title: ""
 author_profile: true
 ---
 
-### [Books](./#books) | [TV shows](./#tv-shows) | [Movies](.#movies) | [Podcasts](./#podcasts) | [Stuff Worth A Read](.#stuff-worth-a-read)
+##### Quick links: [Books](./#books) - [TV shows](./#tv-shows) - [Movies](.#movies) - [Podcasts](./#podcasts) - [Stuff Worth A Read](.#stuff-worth-a-read)
 
 ### Books
 
@@ -99,5 +99,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk2NjQ3OTVdfQ==
+eyJoaXN0b3J5IjpbLTEwNjc1MzEwNjldfQ==
 -->
