@@ -8,8 +8,9 @@ author_profile: true
 
 Some of my favorite (fiction and non-fiction) books -
 
-- Foundation trilogy by Issac Asimov
-- 
+- *Foundation trilogy* by Issac Asimov
+- *Logicomix* by Apostolos Doxiadis and Christos Papadimitriou
+-  
 
 ### TV shows
 Some TV shows that I have enjoyed (and enjoy) watching -
@@ -74,6 +75,7 @@ Here are some podcasts I typically listen to -
 - [Today Explained - Vox](https://www.vox.com/today-explained)
 - [Artificial Intelligence Podcast](https://lexfridman.com/ai/)
 - [Attention Pliss!](https://anchor.fm/appodcast)
+- [Philosophize This!](http://philosophizethis.org/)
 
 This list would be incomplete without the auditory staples for all Arsenal fans -
 
@@ -84,5 +86,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTU2OTkzNl19
+eyJoaXN0b3J5IjpbMzEwMDA2MjBdfQ==
 -->
