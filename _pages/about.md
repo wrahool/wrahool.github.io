@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Home"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -36,5 +36,5 @@ I am a computational social scientist, interested in studying news consumption a
 
 Check out my publications [here](./publications).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjI2MTgyM119
+eyJoaXN0b3J5IjpbLTIwMjk4Nzk2MzldfQ==
 -->
