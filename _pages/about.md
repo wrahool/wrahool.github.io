@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -35,3 +35,6 @@ I am a computational social scientist, interested in studying news consumption a
 4. Running online experiments to understand the effects of partisan information consumption on social media.
 
 Check out my publications [here](./publications).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ2NjI2MTgyM119
+-->
