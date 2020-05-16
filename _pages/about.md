@@ -15,13 +15,13 @@ My area of research, broadly construed, is computational social science. To lear
 
 My interest in the field of computational social science stems largely from my love for Isaac Asimov's *Foundation* trilogy from a very young age. As a result, I generally tend to ponder ways in which large scale social phenomena can be usefully and formally modeled.
 
-I completed my Bachelor of Engineering degree in Computer Science, and a Master of Science degree in Mathematics, from [BITS Pilani](https://www.bits-pilani.ac.in/), India. As part of my PhD program, I completed a Master of Arts degree in Communication from Penn.
+I have a Bachelor of Engineering degree in Computer Science and a Master of Science degree in Mathematics, from [BITS Pilani](https://www.bits-pilani.ac.in/), India. I also have a Master of Arts degree in Communication from the University of Pennsylvania.
 
 I make up for not being very physically active by watching sports. I follow  [Formula 1](http://formula1.com/), and am a supporter of [Arsenal Football Club](https://www.arsenal.com/). Yes, it's football, not soccer.
 
 I love to read, write, and think, not necessarily in that order.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI1NzYwODgsLTMwMjMzODc0Myw4Nz
+eyJoaXN0b3J5IjpbLTIwNjg5MzUzMDcsLTMwMjMzODc0Myw4Nz
 ExNzc5NDQsLTIwMjk4Nzk2MzksLTcyMjU3ODc3OSwtMjAyOTg3
 OTYzOV19
 -->
