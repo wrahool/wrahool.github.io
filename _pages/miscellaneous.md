@@ -1,7 +1,7 @@
 
 ---
 permalink: /miscellaneous/
-title: ""
+title: "Miscellaneous"
 author_profile: true
 ---
 
@@ -110,7 +110,7 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjEyMDEzMDEsLTIwNzYyNTQyMDIsMT
-A3NzQwNzM4OCwtNzgyNDI0Mjg1LC0xMjY0MjA1OTMzLDExNDg5
-Njg1MjIsNjAyNjQzNTA2XX0=
+eyJoaXN0b3J5IjpbLTE1MjE4OTU2OTUsLTEwMjEyMDEzMDEsLT
+IwNzYyNTQyMDIsMTA3NzQwNzM4OCwtNzgyNDI0Mjg1LC0xMjY0
+MjA1OTMzLDExNDg5Njg1MjIsNjAyNjQzNTA2XX0=
 -->
