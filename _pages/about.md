@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Welcome to my personal webspace
 
-I am a PhD candidate at the [Annenberg School for Communication](https://www.asc.upenn.edu) of the [University of Pennsylvania](http://www.upenn.edu) where I am advised by [Dr. Sandra Gonzalez-Bailon](https://www.asc.upenn.edu/node/648). I am a member of the [DiMeNet research group](http://dimenet.asc.upenn.edu/") and the [DIG working group](https://www.asc.upenn.edu/research/working-groups/democracy-information-group).
+I am a PhD candidate at the [Annenberg School for Communication](https://www.asc.upenn.edu) of the [University of Pennsylvania](http://www.upenn.edu) where I am advised by [Dr. Sandra Gonzalez-Bailon](https://www.asc.upenn.edu/node/648). I am a member of the [DiMeNet research group](http://dimenet.asc.upenn.edu/) and the [DIG working group](https://www.asc.upenn.edu/research/working-groups/democracy-information-group).
 
 My area of research, broadly construed, is computational social science. To learn more, check out the [Research](./research) section.
 

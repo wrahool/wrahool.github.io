@@ -11,9 +11,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
 
   - title: "CV"
     url: /cv/
@@ -24,6 +21,8 @@ main:
   - title: "Miscellaneous"
     url: /miscellaneous/
 
+  # - title: "Portfolio"
+  #   url: /portfolio/
     
   # - title: "Guide"
   #   url: /markdown/
