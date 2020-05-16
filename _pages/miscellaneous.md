@@ -19,7 +19,7 @@ Some of my favorite (fiction and non-fiction) books -
 - *A World Without Time* by Palle Yourgrau
 - *One, Two, Three ... Infinity* by George Gamow
 - *Physics for Entertainment* by Yakov Perelman
-- Any book by P. G. Wodehouse
+- Almost anything by P. G. Wodehouse
 
 ### TV shows
 Some TV shows that I have enjoyed (and enjoy) watching -
@@ -85,7 +85,7 @@ Here are some podcasts I typically listen to -
 - [Artificial Intelligence Podcast](https://lexfridman.com/ai/)
 - [Attention Pliss!](https://anchor.fm/appodcast)
 - [Philosophize This!](http://philosophizethis.org/)
-- [Rationally Speaking](http://rationallyspeakingpodcast.org/
+- [Rationally Speaking](http://rationallyspeakingpodcast.org/)
 
 This list would be incomplete without the auditory staples for all Arsenal fans -
 
@@ -96,5 +96,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDc1MDg4N119
+eyJoaXN0b3J5IjpbMzMyNTYyOTM1XX0=
 -->
