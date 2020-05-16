@@ -30,7 +30,7 @@ Some of my favorite (fiction and non-fiction) books -
 - Almost anything by P. G. Wodehouse
 
 ### TV shows
-Some TV shows that I have enjoyed (and enjoy) watching -
+TV shows that I have enjoyed (and enjoy) watching -
 
 - The Office (US)
 - Battlestar Galactica
@@ -105,5 +105,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk3NjIwMzAsNjAyNjQzNTA2XX0=
+eyJoaXN0b3J5IjpbMTE0ODk2ODUyMiw2MDI2NDM1MDZdfQ==
 -->
