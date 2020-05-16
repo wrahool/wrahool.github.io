@@ -11,9 +11,13 @@ author_profile: true
 ### Movies
 
 ### Podcasts
+Here are some podcasts I typically listen to -
+
+- 
 
 ### Stuff worth a read
-How to read a paper by S. Keshav: https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
+- Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjM3MTc4N119
+eyJoaXN0b3J5IjpbLTgzNDUyNTgxN119
 -->
