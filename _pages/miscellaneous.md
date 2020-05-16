@@ -9,6 +9,9 @@ author_profile: true
 ### TV shows
 
 ### Movies
+List of a few movies that left a mark on me -
+
+- 2001: A SPace Odyssey
 
 ### Podcasts
 Here are some podcasts I typically listen to -
@@ -21,15 +24,16 @@ Here are some podcasts I typically listen to -
 - [Throughline](https://www.npr.org/podcasts/510333/throughline)
 - [Today Explained](https://www.vox.com/today-explained)
 - [Artificial Intelligence Podcast](https://lexfridman.com/ai/)
+- [Attention Pliss!](https://anchor.fm/appodcast)
 
 This list would be incomplete without the auditory staples for all Arsenal fans -
 
 - [Arsecast](https://arseblog.com/arsecasts/)
-- 
+- [The Arsenal Vision Podcast](https://www.arsenalvisionpodcast.com/)
 
 ### Stuff worth a read
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDkwMjgwMF19
+eyJoaXN0b3J5IjpbMTI1MDgxMzgyM119
 -->
