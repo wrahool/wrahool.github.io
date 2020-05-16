@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Welcome!
+# Welcome to my webspace
 
 I am a PhD candidate at the [Annenberg School for Communication](https://www.asc.upenn.edu) of the [University of Pennsylvania](http://www.upenn.edu).
 
@@ -37,6 +37,6 @@ I am a computational social scientist, interested in studying news consumption a
 
 Check out my publications [here](./publications).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ0MTU0MDIsLTIwMjk4Nzk2MzksLT
-cyMjU3ODc3OSwtMjAyOTg3OTYzOV19
+eyJoaXN0b3J5IjpbMjM5NDU5ODYyLC0yMDI5ODc5NjM5LC03Mj
+I1Nzg3NzksLTIwMjk4Nzk2MzldfQ==
 -->
