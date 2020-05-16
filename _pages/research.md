@@ -16,9 +16,9 @@ I am a computational social scientist, interested in studying news consumption a
 
 4. Running online experiments to understand the effects of partisan information consumption on social media.
 
-Check out my publications [here](./publications).
+Check out my publications [here](./../publications).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUzMjE4ODgsNDM0Nzc1OTE3LDg3MT
-E3Nzk0NCwtMjAyOTg3OTYzOSwtNzIyNTc4Nzc5LC0yMDI5ODc5
-NjM5XX0=
+eyJoaXN0b3J5IjpbLTE3ODUyODQ5MTUsLTE0ODUzMjE4ODgsND
+M0Nzc1OTE3LDg3MTE3Nzk0NCwtMjAyOTg3OTYzOSwtNzIyNTc4
+Nzc5LC0yMDI5ODc5NjM5XX0=
 -->
