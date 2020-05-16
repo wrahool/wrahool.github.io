@@ -28,6 +28,11 @@ Some TV shows that I have enjoyed (and enjoy) watching -
 - The Grand Tour
 - Community
 - The Americans
+- 30 Rock
+- Stranger Things
+- The Handmaid's Tale
+- Black Mirror
+- Brooklyn Nine Nin
 
 ### Movies
 Here are a few movies that left a mark on me -
@@ -69,5 +74,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjU0MjU3OF19
+eyJoaXN0b3J5IjpbLTI5MDY1MzI4Nl19
 -->
