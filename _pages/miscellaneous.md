@@ -23,6 +23,8 @@ Some of my favorite (fiction and non-fiction) books -
 - *The Martian* by Andy Weir
 - *One, Two, Three ... Infinity* by George Gamow
 - *Physics for Entertainment* by Yakov Perelman
+- Short stories by R. K. Narayan
+- Short stories by 
 - Almost anything by P. G. Wodehouse
 
 ### TV shows
@@ -101,5 +103,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyNjQzNTA2XX0=
+eyJoaXN0b3J5IjpbLTE5Njg5NTM5ODUsNjAyNjQzNTA2XX0=
 -->
