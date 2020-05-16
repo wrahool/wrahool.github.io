@@ -20,6 +20,12 @@ List of a few movies that left a mark on me -
 - Back to the Future
 - Lion King
 - Coco
+- Monty Python and the Holy Grail
+- Piku
+- Monty Python and the Life of Brian
+- Rush
+- Ford v Ferrari
+- Deadpool
 
 ### Podcasts
 Here are some podcasts I typically listen to -
@@ -43,5 +49,5 @@ This list would be incomplete without the auditory staples for all Arsenal fans 
 - Keshav, S. How to Read a Paper. <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQyODE3MV19
+eyJoaXN0b3J5IjpbNzA4NTQyNDM2XX0=
 -->
