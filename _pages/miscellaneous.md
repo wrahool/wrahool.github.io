@@ -7,68 +7,8 @@ author_profile: true
 
 ##### Quick links: [Books](./#books) - [TV shows](./#tv-shows) - [Movies](.#movies) - [Podcasts](./#podcasts) 
 
-### Books
 
-Some of my favorite (fiction and non-fiction) books/authors -
 
-- *Foundation trilogy* by Issac Asimov
-- *Logicomix* by Apostolos Doxiadis and Christos Papadimitriou
-- *The Emperor of all Maladies* by Siddhartha Mukherjee
-- *The Harry Potter Series* by J. K. Rowling
-- *The Adventures of Tintin* by Hergé
-- *Asterix and Obelix* by  Albert Uderzo and René Goscinny
-- *Contact* by Carl Sagan
-- *And Then There Were None* by Agatha Christie
-- *The Black Swan* by Nassim Nicholas Taleb
-- *A World Without Time* by Palle Yourgrau
-- *The Murder on the Orient Express* by Agatha Christie
-- *The Martian* by Andy Weir
-- *The Last Lecture* by Randy Pausch
-- *One, Two, Three ... Infinity* by George Gamow
-- *Physics for Entertainment* by Yakov Perelman
-- *The Count of Monte Cristo* by Alexandre Dumas
-- *Chronotantra* by Prithwis Mukerjee
-
-This list would be incomplete without mentioning some writers whose books and stories I enjoy in general. These include:
-
-- R. K. Narayan
-- Ruskin Bond
-- Sharadindu Bandyopadhyay
-- Roald Dahl
-- P. G. Wodehouse
-
-### TV shows
-TV shows that I have enjoyed (and enjoy) watching -
-
-- The Office (US)
-- Battlestar Galactica
-- Breaking Bad
-- Veep
-- Black Adder
-- Fraiser
-- The Marvellous Mrs. Maisel
-- Fleabag
-- Arrested Development
-- Star Trek The Original Series
-- Silicon Valley
-- Fawlty Towers
-- Coupling
-- Parks and Recreation
-- Silicon Valley
-- Top Gear
-- The Grand Tour
-- Community
-- The Americans
-- 30 Rock
-- Stranger Things
-- The Handmaid's Tale
-- Black Mirror
-- Brooklyn Nine Nine
-- Firefly
-- BoJack Horseman
-- Seinfeld
-- A Bit of Fry and Laurie
-- Monty Python's Flying Circus
 
 ### Movies
 Here are a few movies that left a mark on me -
@@ -109,3 +49,6 @@ This list would be incomplete without mentioning the auditory staples for all Ar
 - [Arsecast](https://arseblog.com/arsecasts/)
 - [The Arsenal Vision Podcast](https://www.arsenalvisionpodcast.com/)
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTgwMjQzMDE0NF19
+-->
