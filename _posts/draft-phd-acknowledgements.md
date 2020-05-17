@@ -6,11 +6,13 @@ This legend, while illustrating how bad people generally are at understanding ex
 
 Turning the clock back to the fall of 2014: I was a confused bloke in my mid 20s, having a very vague aim in life to do research in some capacity - preferably in a Ph.D. program. But I didn't know where to start. Sure, I had taken my GRE and TOEFL exams. But what next? What did I even want to study? Thus, when I sent out a hundred emails to a number of professors craving for a slice of their attention, little did I expect anything to really materialize. So I was pleasantly surprised, not to mention, relieved, when I heard back from a certain Prof. Sandra González-Bailón, who urged me to apply to the Ph.D. program at the Annenberg School at Penn. A year later, I would be in said Ph.D. program, fumbling around trying to make sense of this alien thing called "Communication", and Prof. Sandra González-Bailón would be my advisor.
 
+Indeed, if it is anyone who helped me adapt to this new discipline, and who 
+
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDMxNDAzNl19
+eyJoaXN0b3J5IjpbMTI4MzkxMTg2NSwtMjI0MzE0MDM2XX0=
 -->
