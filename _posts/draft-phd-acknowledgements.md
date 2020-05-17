@@ -10,11 +10,11 @@ To put it bluntly: this Ph.D. would not have happened without her. She was instr
 
 Next, I would like to thank my committee, for being so incredibly helpful and encouraging over the past several years:
 
-Prof. Yphtach Lelkes - for being this massive repository of academic knowledge, and dispenser of citations-on-the-go. Knowing Yph has been like turning on a faucet of academic advice - and relevant citations, and I regret not getting to know him earlier than I did. Literature reviews are indeed easy when you have Yph on your side.
+Prof. Yphtach Lelkes - for being this massive repository of academic knowledge, and dispenser of citations-on-the-go. Knowing Yph has been like turning on a faucet of research advice - and relevant citations, and I regret not getting to know him earlier than I did. Literature reviews are definitely easy when you have Yph on your side.
 
-Prof. Joe Turow - 
+Prof. Joe Turow - for 
 
-Prof. Michael Delli Carpini - for always making time out of his extraordinarily busy schedule as the former Dean - to respond to every email, no matter how trite, scheduling 
+Prof. Michael Delli Carpini - for always taking time out of his extraordinarily busy schedule as the former Dean - to respond to every email, no matter how trite, scheduling in-person meetings, and even going to lunch! I have 
 
 
 
@@ -22,6 +22,6 @@ Prof. Michael Delli Carpini - for always making time out of his extraordinarily 
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg3NDM4OCwtMTcwNjYyOTkzMSwtMj
+eyJoaXN0b3J5IjpbLTU2NTg4MTAwNywtMTcwNjYyOTkzMSwtMj
 I0MzE0MDM2XX0=
 -->
