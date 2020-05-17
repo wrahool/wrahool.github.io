@@ -24,7 +24,7 @@ The Annenberg journey would not have been half as enjoyable but for the friends 
 
 Moving on to my research collaborators: These include three names I have already mentioned: Sandra, Yph, and Tian, and two that I haven't: Dr. Sílvia Majó-Vázquez in Oxford and Prof. Kokil Jaidka in Singapore. I feel truly blessed to have had the chance to work with them, and I hope to continue to collaborate with them in the future.
 
-Finally, no words can do justice to the debt I owe to my family. Ma and Baba have been the two constants in my life who have ensured that the household I grew up in, always privileged intellectual over material pursuits. Ma,
+Finally, no words can do justice to the debt I owe to my family. Ma and Baba have been the two constants in my life who have always ensured that the environment I grew up in, privileged intellectual over material pursuits. Ma made several sacrifices along the way to ensure that I got the education
 
 
 
@@ -37,7 +37,7 @@ Finally, no words can do justice to the debt I owe to my family. Ma and Baba hav
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjgwNTQ0NywtMzY0MDA3MTM1LC0yNz
-I1MjgxNDMsMTM1MTgxNzkzMSwtMTgxMTEyMjkxNywtMTcwNjYy
-OTkzMSwtMjI0MzE0MDM2XX0=
+eyJoaXN0b3J5IjpbLTE3MDY2MjYwODUsLTM2NDAwNzEzNSwtMj
+cyNTI4MTQzLDEzNTE4MTc5MzEsLTE4MTExMjI5MTcsLTE3MDY2
+Mjk5MzEsLTIyNDMxNDAzNl19
 -->
