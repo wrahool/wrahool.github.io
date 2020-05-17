@@ -22,7 +22,7 @@ It would be remiss to not acknowledge the entire staff at the Annenberg school f
 
 The Annenberg journey would not have been half as enjoyable but for the friends I made along the way. These include those in my cohort - specially Helene Langlamet, Rui Pei, Leah Ferentinos, and Stefanie Gratale - I will forever cherish all our lunches together and daily arguments over choice of food cart; those in my research group - particularly Tian Yang and Alvin Zhou - for being great folks to work with and have fun at the same time (shout out to Alvin for all the times he has driven me to and from the airport!). Also, a special mention to Joshua Becker, Dror Walter, Sijia Yang, and Yotam Ophir. I have thoroughly enjoyed the stimulating conversations I have had with them, and who I look forward to staying in touch with.
 
-Moving on to my research collaborators: I feel truly blessed to have had the chance to work with them. These include a three names I have already mentioned: Sandra, Yph, and Tian, and two that I haven't: Dr. Sílvia Majó-Vázquez at Oxford and Prof. Kokil Jaidka in Singapore. I hope to continue to collaborate with all of them in the future.
+Moving on to my research collaborators: These include three names I have already mentioned: Sandra, Yph, and Tian, and two that I haven't: Dr. Sílvia Majó-Vázquez in Oxford and Prof. Kokil Jaidka in Singapore. I feel truly blessed to have had the chance to work with them, and I hope to continue to collaborate with them in the future.
 
 
 
@@ -35,6 +35,6 @@ Moving on to my research collaborators: I feel truly blessed to have had the cha
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzIyMzgwMjEsLTE4MTExMjI5MTcsLT
-E3MDY2Mjk5MzEsLTIyNDMxNDAzNl19
+eyJoaXN0b3J5IjpbMTM1MTgxNzkzMSwtMTgxMTEyMjkxNywtMT
+cwNjYyOTkzMSwtMjI0MzE0MDM2XX0=
 -->
