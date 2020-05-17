@@ -6,7 +6,7 @@ This legend, while illustrating how bad people generally are at understanding ex
 
 Turning the clock back to the fall of 2014: I was a confused bloke in my mid 20s, having a very vague aim in life to do research in some capacity - preferably in a Ph.D. program. But I didn't know where to start. Sure, I had taken my GRE and TOEFL exams. But what next? What did I even want to study? Thus, when I sent out a hundred emails to a number of professors craving for a slice of their attention, little did I expect anything to really materialize. So I was pleasantly surprised, not to mention, relieved, when I heard back from a certain Prof. Sandra González-Bailón, who urged me to apply to the Ph.D. program at the Annenberg School at Penn. A year later, I would be in said Ph.D. program, fumbling around trying to make sense of this alien thing called "Communication", and Prof. Sandra González-Bailón would be my advisor.
 
-To put it bluntly: this Ph.D. would not have happened without her. She was instrumental in my transition to the social sciences, and helped me in countless ways in making sense of this bewildering new discipline that I found myself thrust into. Sandra has been the most amazing mentor I could have hoped for, and I feel thankful to have had her support along what would otherwise have been a far more arduous journey. She introduced me the fascinating world of networks and paved my way forward  field of computational social science, As someone who is about to begin his career in academia, I will strive to do for my future students, what she has done for me - always enabling me to aim higher and do better.
+To put it bluntly: this Ph.D. would not have happened without her. She was instrumental in my transition to the social sciences, and helped me in countless ways in making sense of this bewildering new discipline that I found myself thrust into. Sandra has been the most amazing mentor I could have hoped for, and I feel thankful to have had her support along what would otherwise have been a far more arduous journey. She introduced me to the fascinating world of networks and helped chart my path forward as a computational social scientist over the course of my Ph.D. As someone who is about to begin his own career in academia, I will strive to do for my future students, what she has done for me - always enabling me to aim higher and do better.
 
 Next, I would like to thank my committee, for being so incredibly helpful and encouraging over the past several years:
 
@@ -42,7 +42,7 @@ Last but not the least, my wife Nilanjana. Little did I know when I started my P
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Mjk3MDEyMiwxNDU2MTMxNDI4LC0zNj
-QwMDcxMzUsLTI3MjUyODE0MywxMzUxODE3OTMxLC0xODExMTIy
-OTE3LC0xNzA2NjI5OTMxLC0yMjQzMTQwMzZdfQ==
+eyJoaXN0b3J5IjpbNzM2MjcxMzM2LDE0NTYxMzE0MjgsLTM2ND
+AwNzEzNSwtMjcyNTI4MTQzLDEzNTE4MTc5MzEsLTE4MTExMjI5
+MTcsLTE3MDY2Mjk5MzEsLTIyNDMxNDAzNl19
 -->
