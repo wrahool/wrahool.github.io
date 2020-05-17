@@ -16,7 +16,9 @@ Prof. Joe Turow - for always being so incredibly illuminating in every conversat
 
 Prof. Michael Delli Carpini - for always taking time out of his extraordinarily busy schedule as the former Dean - to respond to every email no matter how trite, to have in-person meetings, and even go out for lunch! He has been a model to emulate when it comes to balancing an incredibly high level of intellect with administrative acumen and personal affability. I feel truly thankful for knowing him over the past several years.
 
-I would also like to thank Prof. Robert Hornik and Prof. Joe Cappella for being instrumental in the transition 
+I would also like to thank Prof. Robert Hornik and Prof. Joe Cappella for 
+
+It would be remiss to not acknowledge the entire staff at the Annenberg school for ensuring that everything has functioned smoothly. 
 
 
 
@@ -26,6 +28,6 @@ I would also like to thank Prof. Robert Hornik and Prof. Joe Cappella for being 
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0NTk1OTM3LC0xNzA2NjI5OTMxLC0yMj
-QzMTQwMzZdfQ==
+eyJoaXN0b3J5IjpbLTIwOTkwMzA4MywtMTcwNjYyOTkzMSwtMj
+I0MzE0MDM2XX0=
 -->
