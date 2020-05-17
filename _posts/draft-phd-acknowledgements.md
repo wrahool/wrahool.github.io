@@ -26,7 +26,8 @@ Moving on to my research collaborators: These include three names I have already
 
 Finally, no words can do justice to the debt I owe my family. Ma and Baba have been the two constants in my life who have always ensured that the environment I grew up in, privileged intellectual over material pursuits. They were instrumental in kindling the spark of scientific curiousity in me from a very young age - and my academic trajectory would not have been possible without their inspiration and guidance. They have had to make numerous sacrifices along the way, many of which I am probably not even aware of. To them I say, thank you, for everything. I am proud to be your son, and I hope I hope you make you proud some day.
 
-Growing up in a joint family in 90s India, I am also grateful to my grandparents who contributed greatly in making me who I am. Dadai, dida, and thamma: my love and *pronaam* for you, always. My dadu, who I never had the privilege for getting to know beyond stories told by father and grandmother, and one faded photograph from 1993 where I am perched atop his lap - I hope 
+Growing up in a joint family in 90s India, I am also grateful to my grandparents who contributed greatly in making me who I am. Dadai, dida, and thamma: my love and *pronaam* for you, always. Dadu, (who I only know through stories told by my father and grandmother, and one faded photograph from 1993 where I am perched atop his lap), this wouldn't have been possible without your blessings along the way.
+
 
 
 
@@ -39,7 +40,7 @@ Growing up in a joint family in 90s India, I am also grateful to my grandparents
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTczNjgzMCwxNDU2MTMxNDI4LC0zNj
+eyJoaXN0b3J5IjpbLTIyNTA3ODQwMywxNDU2MTMxNDI4LC0zNj
 QwMDcxMzUsLTI3MjUyODE0MywxMzUxODE3OTMxLC0xODExMTIy
 OTE3LC0xNzA2NjI5OTMxLC0yMjQzMTQwMzZdfQ==
 -->
