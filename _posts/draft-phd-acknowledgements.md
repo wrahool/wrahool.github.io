@@ -24,7 +24,7 @@ The Annenberg journey would not have been half as enjoyable but for the friends 
 
 Moving on to my research collaborators: These include three names I have already mentioned: Sandra, Yph, and Tian, and two that I haven't: Dr. Sílvia Majó-Vázquez in Oxford and Prof. Kokil Jaidka in Singapore. I feel truly blessed to have had the chance to work with them, and I hope to continue to collaborate with them in the future.
 
-Last, but not the least, no words can capture the debt I owe to my family, for putting me on 
+Finally, no words can express the debt I owe to my family. Ma and Baba have be
 
 
 
@@ -37,6 +37,6 @@ Last, but not the least, no words can capture the debt I owe to my family, for p
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDE0MzkwNSwxMzUxODE3OTMxLC0xOD
-ExMTIyOTE3LC0xNzA2NjI5OTMxLC0yMjQzMTQwMzZdfQ==
+eyJoaXN0b3J5IjpbMTQ2ODY3OTkzLDEzNTE4MTc5MzEsLTE4MT
+ExMjI5MTcsLTE3MDY2Mjk5MzEsLTIyNDMxNDAzNl19
 -->
