@@ -18,7 +18,7 @@ Prof. Michael Delli Carpini - for always taking time out of his extraordinarily 
 
 I would also like to thank Prof. Robert Hornik and Prof. Joe Cappella for 
 
-It would be remiss to not acknowledge the entire staff at the Annenberg school for ensuring that everything has functioned smoothly. 
+It would be remiss to not acknowledge the entire staff at the Annenberg school for being the silent heroes behind every dissertation. I owe a debt of gratitude to Joanne Murray for being who she is. 
 
 
 
@@ -28,6 +28,6 @@ It would be remiss to not acknowledge the entire staff at the Annenberg school f
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTkwMzA4MywtMTcwNjYyOTkzMSwtMj
+eyJoaXN0b3J5IjpbLTIwODE3NjY4NSwtMTcwNjYyOTkzMSwtMj
 I0MzE0MDM2XX0=
 -->
