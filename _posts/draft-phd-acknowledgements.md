@@ -28,7 +28,7 @@ Finally, no words can do justice to the debt I owe my family. Ma and Baba have b
 
 Growing up in a joint family in 90s India, I am also grateful to my grandparents who contributed greatly in making me who I am. Dadai, dida, and thamma: my love and *pronaam* for you, always. Dadu (who I wish I knew better, than through stories told by my father and grandmother, and one faded photograph from 1993 where I am perched atop his lap), this wouldn't have been possible without your blessings along the way.
 
-Last but not the least, my wife Nilanjana. M
+Last but not the least, my wife Nilanjana. Little did I know when I started my Ph.D. program that I would be marrying her
 
 
 
@@ -42,7 +42,7 @@ Last but not the least, my wife Nilanjana. M
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0OTkzODI2LDE0NTYxMzE0MjgsLTM2ND
-AwNzEzNSwtMjcyNTI4MTQzLDEzNTE4MTc5MzEsLTE4MTExMjI5
-MTcsLTE3MDY2Mjk5MzEsLTIyNDMxNDAzNl19
+eyJoaXN0b3J5IjpbLTE1OTUxNDk5MTQsMTQ1NjEzMTQyOCwtMz
+Y0MDA3MTM1LC0yNzI1MjgxNDMsMTM1MTgxNzkzMSwtMTgxMTEy
+MjkxNywtMTcwNjYyOTkzMSwtMjI0MzE0MDM2XX0=
 -->
