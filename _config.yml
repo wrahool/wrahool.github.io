@@ -245,6 +245,42 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _books
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _movies
+  - scope:
+      path: ""
+      type: movies
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _tv-shows
+  - scope:
+      path: ""
+      type: _tv-shows
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _podcasts
+  - scope:
+      path: ""
+      type: podcasts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
