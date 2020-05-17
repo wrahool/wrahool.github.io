@@ -16,8 +16,10 @@ The above URL will still work, but I will not be updating that blog any longer. 
 
 So long, Blogger, and thanks for all the fish.
 
+> Written with [StackEdit](https://stackedit.io/).
+
 ------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODg5MTAyNiwxNzE1OTEyMTc0LDU2Mz
+eyJoaXN0b3J5IjpbLTQ0MjUzNTM2NCwxNzE1OTEyMTc0LDU2Mz
 Q0ODgyOSwzMTg4MzE0ODFdfQ==
 -->
