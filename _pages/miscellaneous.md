@@ -4,8 +4,17 @@ title: "Miscellaneous"
 permalink: /miscellaneous/
 author_profile: true
 ---
+Here are some random stuff about me.
 
-##### Quick links: [Books](./#books) - [TV shows](./#tv-shows) - [Movies](.#movies) - [Podcasts](./#podcasts) 
+List of favorite books
+
+List of favorite movies
+
+List of favorite TV shows
+
+List of favorite podcasts
+
+My last.fm profile shows 
 
 
 
@@ -16,5 +25,5 @@ author_profile: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDgzMTQ4Nl19
+eyJoaXN0b3J5IjpbLTE3NDIwMjM1NTJdfQ==
 -->
