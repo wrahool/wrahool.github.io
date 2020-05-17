@@ -3,7 +3,7 @@ Legend has it that when Sissa Ben Dahir invented the game of *chaturanga*, the p
 
 This legend, while illustrating how bad people generally are at understanding exponential growth, is of particular relevance to the task I have at hand - that of writing the acknowledgements section of my dissertation. I am the ancient Indian king, blissfully unaware of his own naiveté, all the while expecting a problem to be tractable, when it actually isn't. In other words, acknowledging *everyone* who made this dissertation possible is a futile exercise. I recognize the hidden, often random ways in which people succeed, and if my getting a Ph.D. is any measure of personal success, I owe it to the countably immeasurable number of people who have touched my life for the better, and who deserve my deepest gratitude for where I am today. I am indeed sorry that I cannot name every single one of you individually.
 
-Turning the clock back to the fall of 2014: I was a confused bloke in my mid 20s, having a very vague aim in life to do research in some capacity - preferably in a Ph.D. program. When I sent out a hundred emails to a number of professors in the fall of 2014, craving for a slice of their attention, little did I expect anything to really materialize. So I was pleasantly surprised, not to mention, relieved when I heard back from a certain Prof. Sandra González-Bailón, who urged me to apply to the Ph.D. program at the Annenberg School at Penn. Fast forward a year, and I was a Ph.D. student at
+Turning the clock back to the fall of 2014: I was a confused bloke in my mid 20s, having a very vague aim in life to do research in some capacity - preferably in a Ph.D. program. But I didn't know where to start. Sure, I had taken my GRE and TOEFL exams. But what next? What did I even want to study? When I sent out a hundred emails to a number of professors craving for a slice of their attention, little did I expect anything to really materialize. So I was pleasantly surprised, not to mention, relieved when I heard back from a certain Prof. Sandra González-Bailón, who urged me to apply to the Ph.D. program at the Annenberg School at Penn. Fast forward a year, and I was a Ph.D. student at
 
 
 
@@ -12,5 +12,5 @@ Turning the clock back to the fall of 2014: I was a confused bloke in my mid 20s
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2MzcwNTQwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEyMDEyMTgwNTksNzMwOTk4MTE2XX0=
 -->
