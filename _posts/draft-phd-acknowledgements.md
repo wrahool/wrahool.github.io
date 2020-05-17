@@ -18,7 +18,7 @@ Prof. Michael Delli Carpini - for always taking time out of his extraordinarily 
 
 I would also like to thank Prof. Robert Hornik, Prof. Joe Cappella, and Prof. Marwan Kraidy for being significant sources of inspiration, instruction, and help along the way. Many of the things I learned in their classes have found direct application in my doctoral research, and for that, I am thankful.
 
-It would be remiss to not acknowledge the entire staff at the Annenberg school for being the silent heroes behind every dissertation. I owe a huge debt of gratitude to Joanne Murray for being who she is. The more I hear about the logistical and administrative travails of international graduate students in other programs and universities, the more I feel grateful to Joanne for being there to iron out all glitches that I have faced. Also, special thanks to the entire IT staff, particularly Etienne Jacquot and 
+It would be remiss to not acknowledge the entire staff at the Annenberg school for being the silent heroes behind every dissertation. I owe a huge debt of gratitude to Joanne Murray for being who she is. The more I hear about the logistical and administrative travails of international graduate students in other programs and universities, the more I feel grateful to Joanne for being there to iron out all glitches that I have faced. Also, special thanks to the entire IT and library staff, particularly Etienne Jacquot, Andreas Spillari, Elizabeth Cooper, and Sharon Black.
 
 
 
@@ -28,6 +28,6 @@ It would be remiss to not acknowledge the entire staff at the Annenberg school f
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTAwODM5MzIsLTE3MDY2Mjk5MzEsLT
-IyNDMxNDAzNl19
+eyJoaXN0b3J5IjpbLTEzMzYwMzEwMCwtMTcwNjYyOTkzMSwtMj
+I0MzE0MDM2XX0=
 -->
