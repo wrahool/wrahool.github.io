@@ -3,7 +3,7 @@ Legend has it that when Sissa Ben Dahir invented the game of *chaturanga*, the p
 
 This legend, while illustrating how bad people generally are at understanding exponential growth, is of particular relevance to the task I have at hand - that of writing the acknowledgements section of my dissertation. I am the ancient Indian king, blissfully unaware of his own naiveté, all the while expecting a problem to be tractable, when it actually isn't. In other words, acknowledging *everyone* who made this dissertation possible is a futile exercise. I recognize the hidden, often random ways in which people succeed, and if my getting a Ph.D. is any measure of personal success, I owe it to the countably immeasurable number of people who have touched my life for the better, and who deserve my deepest gratitude for where I am today. I am indeed sorry that I cannot name every single one of you individually.
 
-When I sent out a thousand emails to a number of professors in the Fall of 2014, 
+When I sent out a hundred emails to a number of professors in the fall of 2014, craving for a slice of their attention in the fall of 2014, little did I expect anything to really materialize. I knew I wanted to do research in some capacity, and that a Ph.D. program is what 
 
 
 
@@ -12,5 +12,5 @@ When I sent out a thousand emails to a number of professors in the Fall of 2014,
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0MDIxNTQ1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTA4ODg5NjMwLDczMDk5ODExNl19
 -->
