@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ## University of Pennsylvania
 ### Spring 2018
 * Media Industries and Society<br>
@@ -14,3 +16,6 @@ Teaching Fellow (undergraduate course) for Prof. Joseph Turow
 * Understanding Social Networks<br>
 Lab Assistant (undergraduate course) for Prof. Sandra Gonzalez-Bailon
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzOTc4OTA1NTJdfQ==
+-->
