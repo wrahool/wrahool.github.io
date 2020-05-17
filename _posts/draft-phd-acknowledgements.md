@@ -18,11 +18,11 @@ Prof. Michael Delli Carpini - for always taking time out of his extraordinarily 
 
 Next, I would also like to thank Prof. Robert Hornik, Prof. Joe Cappella, and Prof. Marwan Kraidy for being significant sources of inspiration, instruction, and help along my way. Many of the things I learned in their classes have found direct application in my doctoral research, and for that, I am thankful.
 
-It would be remiss to not acknowledge the entire staff at the Annenberg school for being the silent heroes behind every dissertation. I particular, I owe a huge debt of gratitude to Joanne Murray for being who she is. The more I hear about the logistical and administrative travails of international graduate students in other programs and universities, the more I feel grateful to Joanne for being there to iron out all glitches that I have faced. A special token of appreciation is also due for the  IT and library staff, particularly Elizabeth Cooper, and Sharon Black, for always being there when I have needed them.
+It would be remiss to not acknowledge the entire staff at the Annenberg school for being the silent heroes behind every dissertation. In particular, I owe a huge debt of gratitude to Joanne Murray for being who she is. The more I hear about the logistical and administrative travails of international graduate students in other programs and universities, the more I feel grateful to Joanne for being there to iron out all glitches that I have faced. A special token of appreciation is also due for the  IT and library staff, particularly Elizabeth Cooper, and Sharon Black, for always being there when I have needed them.
 
 The Annenberg journey would not have been half as enjoyable but for the friends I made along the way. These include those in my cohort - specially Helene Langlamet, Rui Pei, Leah Ferentinos, and Stefanie Gratale - I will forever cherish all our lunches together and daily arguments over choice of food cart; those in my research group - particularly Tian Yang and Alvin Zhou - for being great folks to work with and have fun at the same time (shout out to Alvin for all the times he has driven me to and from the airport!). Also, a special mention to Prateekshit Pandey, Joshua Becker, Dror Walter, Sijia Yang, and Yotam Ophir: I have thoroughly enjoyed the numerous stimulating conversations I have had with them, and I look forward to staying in touch with them in the future.
 
-Moving on to my research collaborators: These include three names I have already mentioned: Sandra, Yph, and Tian, and two that I haven't: Dr. Sílvia Majó-Vázquez in Oxford and Prof. Kokil Jaidka in Singapore. I feel truly blessed to have had the chance to work with them, and I hope to continue to collaborate with them in the future.
+Moving on to my research collaborators: These include three names I have already mentioned: Sandra, Yph, and Tian, and two that I haven't: Dr. Sílvia Majó-Vázquez in Oxford and Prof. Kokil Jaidka in Singapore. I feel truly blessed to have had the chance to work with them, and I hope to continue to collaborate with them.
 
 Finally, no words can do justice to the debt I owe my family. Ma and Baba have been the two constants in my life who have always ensured that the environment I grew up in, privileged intellectual over material pursuits. They were instrumental in kindling the spark of scientific curiousity in me from a very young age - and my academic trajectory would not have been possible without their inspiration and guidance. They have had to make numerous sacrifices along the way, many of which I am probably not even aware of. To them I say, thank you, for everything. I am proud to be your son, and I hope I hope you make you proud some day.
 
@@ -42,7 +42,7 @@ Last but not the least, my wife Nilanjana. Little did I know when I started my P
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1MDI1NzEyLDE0NTYxMzE0MjgsLTM2ND
-AwNzEzNSwtMjcyNTI4MTQzLDEzNTE4MTc5MzEsLTE4MTExMjI5
-MTcsLTE3MDY2Mjk5MzEsLTIyNDMxNDAzNl19
+eyJoaXN0b3J5IjpbLTI2NzcxOTEyNywxNDU2MTMxNDI4LC0zNj
+QwMDcxMzUsLTI3MjUyODE0MywxMzUxODE3OTMxLC0xODExMTIy
+OTE3LC0xNzA2NjI5OTMxLC0yMjQzMTQwMzZdfQ==
 -->
