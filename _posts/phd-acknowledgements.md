@@ -3,7 +3,7 @@ Legend has it that when Sissa Ben Dahir invented the game of *chaturanga*, the p
 
 This legend, while illustrating how bad people generally are at understanding exponential growth, is of particular relevance to the task I have at hand - that of writing the acknowledgements section of my dissertation. I am the ancient Indian king, blissfully unaware of his own naiveté, all the while expecting a problem to be tractable, when it actually isn't. In other words, acknowledging *everyone* who made this dissertation possible is a futile exercise. I recognize the hidden, often random ways in which people succeed, and if my getting a Ph.D. is any measure of personal success, I owe it to the countably immeasurable number of people who have touched my life for the better, and who deserve my deepest gratitude for where I am today. I am indeed sorry that I cannot name every single one of you individually.
 
-
+Joining the Ph.D. program at Annenberg 
 
 
 
@@ -12,5 +12,5 @@ This legend, while illustrating how bad people generally are at understanding ex
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzM4NTQ1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjg1MDgzMDE5LDczMDk5ODExNl19
 -->
