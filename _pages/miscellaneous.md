@@ -6,7 +6,7 @@ author_profile: true
 ---
 Here are some random stuff about me.
 
-List of favorite books
+[List of favorite books](./../books)
 
 List of favorite movies
 
@@ -14,7 +14,7 @@ List of favorite TV shows
 
 List of favorite podcasts
 
-My last.fm profile shows 
+My last.fm profile 
 
 
 
@@ -25,5 +25,5 @@ My last.fm profile shows
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIwMjM1NTJdfQ==
+eyJoaXN0b3J5IjpbNzQwMDAyOV19
 -->
