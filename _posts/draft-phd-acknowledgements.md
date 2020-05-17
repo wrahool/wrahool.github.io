@@ -24,7 +24,9 @@ The Annenberg journey would not have been half as enjoyable but for the friends 
 
 Moving on to my research collaborators: These include three names I have already mentioned: Sandra, Yph, and Tian, and two that I haven't: Dr. Sílvia Majó-Vázquez in Oxford and Prof. Kokil Jaidka in Singapore. I feel truly blessed to have had the chance to work with them, and I hope to continue to collaborate with them in the future.
 
-Finally, no words can do justice to the debt I owe my family. Ma and Baba have been the two constants in my life who have always ensured that the environment I grew up in, privileged intellectual over material pursuits. They were instrumental in kindling the spark of scientific curiousity in me from a very young age - and none of this would have been possible but for their influence. They have had to make numerous sacrifices along the way, many of which I am probably not even aware of. To them I say, thank you, for everything. I am proud to be your son, and I hope I hope you make you proud some day. Growing up in a joint family in 90s India, I am also grateful to my grandparents who contributed greatly in making me who I am today. Dadai, dida, and thamma: my love and *pronaam* for you, always. My dadu, who I never had the privilege for getting to know beyond stories told by Baba and Thamma, wherever you are, I hope
+Finally, no words can do justice to the debt I owe my family. Ma and Baba have been the two constants in my life who have always ensured that the environment I grew up in, privileged intellectual over material pursuits. They were instrumental in kindling the spark of scientific curiousity in me from a very young age - and my academic trajectory would not have been possible without their inspiration and guidance. They have had to make numerous sacrifices along the way, many of which I am probably not even aware of. To them I say, thank you, for everything. I am proud to be your son, and I hope I hope you make you proud some day.
+
+Growing up in a joint family in 90s India, I am also grateful to my grandparents who contributed greatly in making me who I am. Dadai, dida, and thamma: my love and *pronaam* for you, always. My dadu, who I never had the privilege for getting to know beyond stories told by Baba and Thamma, wherever you are, I hope 
 
 
 
@@ -37,7 +39,7 @@ Finally, no words can do justice to the debt I owe my family. Ma and Baba have b
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDE0NDc0MzMsMTQ1NjEzMTQyOCwtMz
-Y0MDA3MTM1LC0yNzI1MjgxNDMsMTM1MTgxNzkzMSwtMTgxMTEy
-MjkxNywtMTcwNjYyOTkzMSwtMjI0MzE0MDM2XX0=
+eyJoaXN0b3J5IjpbMjEzNTM4ODQ5MCwxNDU2MTMxNDI4LC0zNj
+QwMDcxMzUsLTI3MjUyODE0MywxMzUxODE3OTMxLC0xODExMTIy
+OTE3LC0xNzA2NjI5OTMxLC0yMjQzMTQwMzZdfQ==
 -->
