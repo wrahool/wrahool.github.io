@@ -14,7 +14,9 @@ Prof. Yphtach Lelkes - for being this limitless repository of academic knowledge
 
 Prof. Joe Turow - for always being so incredibly illuminating in every conversation I have had with him - be it, in his office or while waiting for a flight at Prague airport. I have learnt so much from him, and I can only aspire to achieve the level of authority in my field that he has achieved in his. I would also like to thank him for offering a rare course on the history of media research during my time at Annenberg, a course that has been most helpful for me at a personal level.
 
-Prof. Michael Delli Carpini - for always taking time out of his extraordinarily busy schedule as the former Dean - to respond to every email no matter how trite, to have in-person meetings, and even go out for lunch! He has been a model to emulate - in so far as balancing an incredibly high level of intellect with administrative acumen and personal affability. I feel truly thankful for knowing him.
+Prof. Michael Delli Carpini - for always taking time out of his extraordinarily busy schedule as the former Dean - to respond to every email no matter how trite, to have in-person meetings, and even go out for lunch! He has been a model to emulate - in so far as balancing an incredibly high level of intellect with administrative acumen and personal affability. I feel truly thankful for knowing him over the past several years.
+
+I would also like to thank Prof. Robert Hornik and Prof. Joe Cappella for 
 
 
 
@@ -24,6 +26,6 @@ Prof. Michael Delli Carpini - for always taking time out of his extraordinarily 
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwMjIzNzIyLC0xNzA2NjI5OTMxLC0yMj
-QzMTQwMzZdfQ==
+eyJoaXN0b3J5IjpbLTEwNTc5MzIxNDcsLTE3MDY2Mjk5MzEsLT
+IyNDMxNDAzNl19
 -->
