@@ -20,7 +20,7 @@ Next, I would also like to thank Prof. Robert Hornik, Prof. Joe Cappella, and Pr
 
 It would be remiss to not acknowledge the entire staff at the Annenberg school for being the silent heroes behind every dissertation. I owe a huge debt of gratitude to Joanne Murray for being who she is. The more I hear about the logistical and administrative travails of international graduate students in other programs and universities, the more I feel grateful to Joanne for being there to iron out all glitches that I have faced. A special token of appreciation is also due for the  IT and library staff, particularly Etienne Jacquot, Andreas Spillari, Elizabeth Cooper, and Sharon Black, for always being there when I have needed them.
 
-The Annenberg journey would not have been half as enjoyable but for the friends I made along the way. These include those in my cohort - specially Helene Langlamet, Rui Pei, Leah Ferentinos, and Stefanie Gratale - I will forever cherish all our lunches together and arguments over which food cart is best; those in 
+The Annenberg journey would not have been half as enjoyable but for the friends I made along the way. These include those in my cohort - specially Helene Langlamet, Rui Pei, Leah Ferentinos, and Stefanie Gratale - I will forever cherish all our lunches together and arguments over choice of food cart; those in my research group - Tian Yang and Alvin Zhou - for being 
 
 
 
@@ -32,6 +32,6 @@ The Annenberg journey would not have been half as enjoyable but for the friends 
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0NzUxMDY2LC0xNzA2NjI5OTMxLC0yMj
+eyJoaXN0b3J5IjpbOTUwNzIyMjE1LC0xNzA2NjI5OTMxLC0yMj
 QzMTQwMzZdfQ==
 -->
