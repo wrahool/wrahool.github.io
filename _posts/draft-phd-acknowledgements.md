@@ -18,7 +18,9 @@ Prof. Michael Delli Carpini - for always taking time out of his extraordinarily 
 
 Next, I would also like to thank Prof. Robert Hornik, Prof. Joe Cappella, and Prof. Marwan Kraidy for being significant sources of inspiration, instruction, and help along my way. Many of the things I learned in their classes have found direct application in my doctoral research, and for that, I am thankful.
 
-It would be remiss to not acknowledge the entire staff at the Annenberg school for being the silent heroes behind every dissertation. I owe a huge debt of gratitude to Joanne Murray for being who she is. The more I hear about the logistical and administrative travails of international graduate students in other programs and universities, the more I feel grateful to Joanne for being there to iron out all glitches that I have faced. Also, special thanks to the entire IT and library staff, particularly Etienne Jacquot, Andreas Spillari, Elizabeth Cooper, and Sharon Black, for always being there when 
+It would be remiss to not acknowledge the entire staff at the Annenberg school for being the silent heroes behind every dissertation. I owe a huge debt of gratitude to Joanne Murray for being who she is. The more I hear about the logistical and administrative travails of international graduate students in other programs and universities, the more I feel grateful to Joanne for being there to iron out all glitches that I have faced. A special token of appreciation is also due for the  IT and library staff, particularly Etienne Jacquot, Andreas Spillari, Elizabeth Cooper, and Sharon Black, for always being there when I have needed them.
+
+The Annenberg journey would not have been half as enjoyable but for the friends I made along the way. Helene
 
 
 
@@ -30,6 +32,6 @@ It would be remiss to not acknowledge the entire staff at the Annenberg school f
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTM5OTgzMSwtMTcwNjYyOTkzMSwtMj
-I0MzE0MDM2XX0=
+eyJoaXN0b3J5IjpbMTMzMjQyODE2LC0xNzA2NjI5OTMxLC0yMj
+QzMTQwMzZdfQ==
 -->
