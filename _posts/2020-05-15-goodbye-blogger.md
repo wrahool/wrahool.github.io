@@ -16,10 +16,8 @@ The above URL will still work, but I will not be updating that blog any longer. 
 
 So long, Blogger, and thanks for all the fish.
 
-
-
 ------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTkxMjE3NCw1NjM0NDg4MjksMzE4OD
-MxNDgxXX0=
+eyJoaXN0b3J5IjpbMTgxODg5MTAyNiwxNzE1OTEyMTc0LDU2Mz
+Q0ODgyOSwzMTg4MzE0ODFdfQ==
 -->
