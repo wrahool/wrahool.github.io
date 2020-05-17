@@ -8,7 +8,7 @@ Turning the clock back to the fall of 2014: I was a confused bloke in my mid 20s
 
 To put it bluntly: this Ph.D. would not have happened without her. She was instrumental in my transition to the social sciences, and helped me in countless ways in making sense of this bewildering new discipline that I found myself thrust into. Sandra has been the most amazing mentor I could have hoped for, and I feel thankful to have had her support along what would otherwise have been a far more arduous journey. As someone who is about to begin his career in academia, I will strive to do for my future students, what she has done for me - always enabling me to aim higher and do better.
 
-Next, I would like to thank my committee, for being so helpful and supportive along the way. I owe a great deal of gratitude to Prof. Yphtach Lelkes. Knowing Yph has been like turning on a faucet of academic advice, and I regret not getting to know him earlier than I did.
+Next, I would like to thank my committee, for being so helpful and encouraging over the last several years. In particular, I owe a great deal of gratitude to Prof. Yphtach Lelkes. Knowing Yph has been like turning on a faucet of academic advice (and relevant citations), and I regret not getting to know him earlier than I did. Literature reviews are indeed easy when
 
 
 
@@ -16,6 +16,6 @@ Next, I would like to thank my committee, for being so helpful and supportive al
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjUzNjUxOTIsLTE3MDY2Mjk5MzEsLT
+eyJoaXN0b3J5IjpbLTExNzMxMTk2NDMsLTE3MDY2Mjk5MzEsLT
 IyNDMxNDAzNl19
 -->
