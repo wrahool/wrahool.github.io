@@ -12,7 +12,7 @@ Next, I would like to thank my committee, for being so incredibly helpful and en
 
 Prof. Yphtach Lelkes - for being this limitless repository of academic knowledge, and dispenser of citations-on-the-go. Knowing Yph has been like turning on a faucet of research advice - and relevant citations, and I regret not getting to know him earlier than I did. Literature reviews are definitely easy when you have Yph on your side.
 
-Prof. Joe Turow - for always 
+Prof. Joe Turow - for always being illuminating in every conversation I have had with him - be it, in his office or while waiting for a flight at Heathrow 
 
 Prof. Michael Delli Carpini - for always taking time out of his extraordinarily busy schedule as the former Dean - to respond to every email, no matter how trite, scheduling in-person meetings, and even going for lunch! 
 
@@ -22,6 +22,6 @@ Prof. Michael Delli Carpini - for always taking time out of his extraordinarily 
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTM1NzAzODcsLTE3MDY2Mjk5MzEsLT
-IyNDMxNDAzNl19
+eyJoaXN0b3J5IjpbMzE2OTAzMjA4LC0xNzA2NjI5OTMxLC0yMj
+QzMTQwMzZdfQ==
 -->
