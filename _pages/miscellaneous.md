@@ -16,7 +16,7 @@ Here is an (incomplete) list of things that I have found interesting/useful:
 
 - [This paper](/files/keshav-read-paper.pdf/) on how to read a paper
 - [This lucid illustration](/files/feynman-negative-probabilities.pdf) of negative probabilities by Richard Feynman. It's very useful for understanding why one shouldn't dismiss mathematical results that don't seem interpretable to our common sense
-- 
+- The epistemological debate on the nature of sociology between Emile Durkheim and Gabriel Tarde
 - 
 
 
@@ -28,6 +28,6 @@ Here is an (incomplete) list of things that I have found interesting/useful:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzc5MTkyMCwxNTY1NDM3MjczLC02Nz
-QwMDI0ODldfQ==
+eyJoaXN0b3J5IjpbLTE0ODA4NzI4NTcsMTU2NTQzNzI3MywtNj
+c0MDAyNDg5XX0=
 -->
