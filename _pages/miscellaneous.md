@@ -6,10 +6,10 @@ author_profile: true
 ---
 Here are some random stuff about me:
 
-- [List of favorite books](./../books)
-- [List of favorite movies](./../movies)
-- [List of favorite TV shows](./../tv-shows)
-- [List of favorite podcasts](./../podcasts)
+- [A list of my favorite books](./../books)
+- [A list of my favorite movies](./../movies)
+- [A list of my favorite TV shows](./../tv-shows)
+- [A list of my favorite podcasts](./../podcasts)
 - [My last.fm profile](https://www.last.fm/user/wrahool)
 
 
@@ -21,5 +21,5 @@ Here are some random stuff about me:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDAwMjQ4OV19
+eyJoaXN0b3J5IjpbMTU2NTQzNzI3MywtNjc0MDAyNDg5XX0=
 -->
