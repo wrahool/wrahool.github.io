@@ -20,7 +20,7 @@ I thank Prof. Joe Turow for being so illuminating in every conversation I have h
 
 I thank Prof. Michael X. Delli Carpini for always taking time out of his extraordinarily busy schedule as the former Dean - to respond to every email no matter how trite, to have in-person meetings, and even go out for lunch. He has been a model to emulate when it comes to balancing a high level of intellect with administrative acumen and personal affability. I feel truly thankful for getting to know him over the past several years.
 
-Next, I would also like to thank Prof. Robert Hornik, Prof. Joe Cappella, Prof. Paul Rosenbaum, and Prof. Marwan Kraidy for being significant sources of inspiration, instruction, and help along my way. Many of the things I learned in their classes have found direct application in my doctoral research, and for that, I am thankful. On that note, I am also grateful to Prof. Hari Nair from my alma mater, BITS Pilani, for his guidance during my graduate school application process, and for helping me embark on my Ph.D. journey.
+Next, I would also like to thank Prof. Robert Hornik, Prof. Joe Cappella, Prof. Paul Rosenbaum, and Prof. Marwan Kraidy for being significant sources of inspiration, instruction, and help along my way. Many of the things I learned in their classes have found direct application in my doctoral research, and for that, I am thankful. On that note, I am also grateful to Prof. Hari Nair from my alma mater, BITS Pilani, for his guidance during my graduate school application process, and for helping me embark on my Ph.D. journey. And to Prof. Ananda Mitra, for his helpful feedback on my dissertation.
 
 It would be remiss to not acknowledge the entire staff at the Annenberg school for being the silent heroes behind every dissertation that this school produces. In particular, I owe a huge debt of gratitude to Joanne Murray for being who she is. The more I hear about the logistical and administrative travails of international graduate students in other programs and universities, the more I feel grateful to Joanne for being there to iron out all glitches that I have faced. A special token of appreciation is also due for the  IT and library staff, particularly Elizabeth Cooper, and Sharon Black, for always being there when I have needed them.
 
@@ -36,8 +36,9 @@ I will wrap up with a final tip of the hat to the many unnamed people, who have 
 
 > *Written with [StackEdit](https://stackedit.io/).*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM0OTE4NzgsLTE4NjMyMDAwMzksNT
-gxNTI1MzQ1LC0yMTA0ODYyNDYyLC0xMjYyNDUzMjAzLDUwMDkw
-NzUyLC0xNTE4OTYxNTI2LDY3ODcxODc3OCwxNDYxNjg2ODU3LD
-E2ODg3NDkxOTgsMjA0NTc2NDY3OSwyMDQ1NzY0Njc5XX0=
+eyJoaXN0b3J5IjpbMTExNDE1OTMwNSwtMTMzMzQ5MTg3OCwtMT
+g2MzIwMDAzOSw1ODE1MjUzNDUsLTIxMDQ4NjI0NjIsLTEyNjI0
+NTMyMDMsNTAwOTA3NTIsLTE1MTg5NjE1MjYsNjc4NzE4Nzc4LD
+E0NjE2ODY4NTcsMTY4ODc0OTE5OCwyMDQ1NzY0Njc5LDIwNDU3
+NjQ2NzldfQ==
 -->
