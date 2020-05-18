@@ -20,6 +20,7 @@ Some of my favorite (fiction and non-fiction) books/authors -
 - *A World Without Time* by Palle Yourgrau
 - *The Murder on the Orient Express* by Agatha Christie
 - *The Martian* by Andy Weir
+- *Maus* by Art Spiegelman
 - *The Last Lecture* by Randy Pausch
 - *One, Two, Three ... Infinity* by George Gamow
 - *Physics for Entertainment* by Yakov Perelman
@@ -34,5 +35,5 @@ This list would be incomplete without mentioning some writers whose books and st
 - Roald Dahl
 - P. G. Wodehouse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjMzODQ2MTJdfQ==
+eyJoaXN0b3J5IjpbOTE5Nzc5MTYyXX0=
 -->
