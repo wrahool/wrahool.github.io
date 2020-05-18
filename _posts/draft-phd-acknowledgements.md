@@ -30,7 +30,7 @@ Growing up in a joint family in 90s India, I am also grateful to my grandparents
 
 Last but definitely not the least, I had the unexpected fortune of getting to marry the most amazing woman I know over the course of my Ph.D. Nilanjana has been my confidant, my best friend, and the most wonderful co-dissertator that I could have ever hoped for. We have shared so many memorable moments as we have struggled with our respective coursework and research that I shudder to think what the past few years would have been like without her companionship - certainly far more miserable and far less gastronomically satisfying. She has made me a better person, a better researcher, and an undeniably better cook (though we often disagree on that). Both of our families have been very supportive of our relationship and of our academic journeys, and for that I am very thankful. I am particularly grateful to Dada and Boudi for all the help and support they have provided me with over the course of the Ph.D. and my job hunt - from solutions to everyday problems to proof-reading my dissertation, from career advice to stimulating conversations. More importantly, they gave me something that I did not have in this country - a place to call home.
 
-I will wrap up with a final tip of the hat to the many unnamed people, who have directly assisted me in my research - from individuals such as user har07 on StackOverflow to the heroes of the open-source community that made wondrous things like R, Zotero, Mozilla, GitHub possible
+I will wrap up with a final tip of the hat to the many unnamed people, who have directly assisted me in my research - from individuals such as user har07 on StackOverflow to the heroes of the open-source community that made wondrous things like R, Python, Zotero, Mozilla, Git, and Linux possible. This wor
 
 
 
@@ -44,7 +44,7 @@ I will wrap up with a final tip of the hat to the many unnamed people, who have 
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjAzNTQwMCwtMTAyNTc0MzY5NywxND
+eyJoaXN0b3J5IjpbMTQ2NTI5ODczNiwtMTAyNTc0MzY5NywxND
 U2MTMxNDI4LC0zNjQwMDcxMzUsLTI3MjUyODE0MywxMzUxODE3
 OTMxLC0xODExMTIyOTE3LC0xNzA2NjI5OTMxLC0yMjQzMTQwMz
 ZdfQ==
