@@ -9,8 +9,7 @@ author_profile: true
 
 ### 2020
 
-* **Mukerjee, S.** & Yang, T. Choosing to Avoid? A Conjoint Experimental Study to Understand Selective Exposure and Avoidance on Facebook.
-Forthcoming in *Political Communication*. [Preprint](https://osf.io/hc2vs/)
+* **Mukerjee, S.** & Yang, T. Choosing to Avoid? A Conjoint Experimental Study to Understand Selective Exposure and Avoidance on Facebook. Forthcoming in *Political Communication*. [Preprint](https://osf.io/hc2vs/)
 
 
 ### 2018
@@ -21,7 +20,9 @@ Forthcoming in *Political Communication*. [Preprint](https://osf.io/hc2vs/)
 
 * **Mukerjee, S.**. [Net neutrality, Facebook, and India’s battle to #SaveTheInternet](https://journals.sagepub.com/doi/abs/10.1177/2057047316665850). *Communication and the Public*, 1(3), 356–361.
 
-### 
+## Under Review
+
+***Mukerjee, S**, Jaidka, K., Lelkes, Y. The Ideological Landscape of Elites on Twitter
 
 ## Book Chapters
 
@@ -47,5 +48,5 @@ Reuters Institute for the Study of Journalism Factsheet. [Media coverage](https:
 * **Mukerjee, S.** An Open World. *Linux For You* (June 2012) print issue
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTAwNTQ0NiwtNDU5ODI1NzU1XX0=
+eyJoaXN0b3J5IjpbMTI3ODg3MDM5NywtNDU5ODI1NzU1XX0=
 -->
