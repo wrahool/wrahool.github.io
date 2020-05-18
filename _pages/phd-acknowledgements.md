@@ -1,3 +1,6 @@
+<meta name="robots" content="noindex">
+
+
 ---
 layout: archive
 title: "Ph.D. Acknowledgements"
@@ -8,5 +11,5 @@ author_profile: true
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTc2NDY3OV19
+eyJoaXN0b3J5IjpbLTkyOTYxNjY2Nl19
 -->
