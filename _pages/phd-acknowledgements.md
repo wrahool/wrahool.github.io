@@ -12,9 +12,9 @@ Turning the clock back to the fall of 2014: I was a confused bloke in my mid 20s
 
 To put it bluntly: this Ph.D. would not have happened without her. She was instrumental in my transition to the social sciences, and helped me in countless ways in making sense of this bewildering new discipline that I found myself thrust into. Sandra has been the most amazing mentor I could have hoped for, and I feel thankful to have had her support along what would otherwise have been a far more arduous journey. She introduced me to the fascinating world of networks and helped chart my path forward as a computational social scientist over the course of my Ph.D. As someone who is about to begin his own career in academia, I will strive to do for my future students, what she has done for me - always enabling me to aim higher and do better.
 
-Next, I would like to thank my committee, for being so incredibly helpful and encouraging over the past several years:
+Next, my committee has offered me incredible support I would like to thank my committee, for being so incredibly helpful and encouraging over the past several years:
 
-Prof. Yphtach Lelkes - for being this limitless repository of academic knowledge, and dispenser of citations-on-the-go. Knowing Yph has been like turning on a faucet of research advice - and relevant citations, and I regret not getting to know him earlier. Literature reviews are definitely easier when you have Yph on your side.
+Prof. Yphtach Lelkes - for being this limitless repository of academic knowledge, and dispenser of citations-on-the-go. Knowing Yph has been like turning on a faucet of research advice, and I regret not getting to know him earlier. Literature reviews are definitely easier when you have Yph on your side.
 
 Prof. Joe Turow - for being so illuminating in every conversation I have had with him - be it in his office, in his house when he had us all over for lunch, or while waiting for a flight at Prague airport. I have learnt so much from him, and I can only aspire to achieve the level of authority in my field that he has achieved in his. I would also like to thank him for offering a rare course on the history of media research during my time at Annenberg, a course that has been most helpful for me at a personal level.
 
@@ -34,10 +34,10 @@ Growing up in a joint family in 90s India, I am also grateful to my grandparents
 
 Last but definitely not the least, I had the unexpected fortune of getting to marry the most amazing woman I know over the course of my Ph.D. Nilanjana has been my confidant, my best friend, and the most wonderful co-dissertator that I could have ever hoped for. We have shared so many memorable moments as we have struggled with our respective coursework and research that I shudder to think what the past few years would have been like without her companionship - certainly far more miserable and far less gastronomically satisfying. She has made me a better person, a better researcher, and an undeniably better cook (though we often disagree on that). Both of our families have been very supportive of our relationship and of our academic journeys, and for that I am very thankful. I am particularly grateful to Dada and Boudi for all the help and support they have provided me throughout the Ph.D. and my job hunt - from solutions to everyday problems to proof-reading my dissertation, from career advice to stimulating conversations, not to mention, some of the tastiest home-made food that a *jamai* could hope to have in this country. More importantly, they gave me something that I did not have here in the U.S - a place to call home.
 
-I will wrap up with a final tip of the hat to the many unnamed people, who have directly assisted me in my research - from individuals such as user har07 on Stack Overflow to the heroes of the open-source community that have made wondrous things like R, Python, Zotero, Firefox, Git, and Linux possible. The modern world can be a frightening place, but it hobbles on because of them. More power to you.
+I will wrap up with a final tip of the hat to the many unnamed people, who have directly assisted me in my research - from individuals such as user har07 on Stack Overflow to the heroes of the open-source community that have made wondrous things like R, Python, Zotero, Firefox, Git, and Linux possible. The modern world can be a frightening place, but it hobbles on because of you. Thank you.
 
 > *Written with [StackEdit](https://stackedit.io/).*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDMyNDU3MSwxNjg4NzQ5MTk4LDIwND
+eyJoaXN0b3J5IjpbLTQzMzE1NjYzMCwxNjg4NzQ5MTk4LDIwND
 U3NjQ2NzksMjA0NTc2NDY3OV19
 -->
