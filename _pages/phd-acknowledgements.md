@@ -26,7 +26,7 @@ It would be remiss to not acknowledge the entire staff at the Annenberg school f
 
 The Annenberg journey would not have been half as enjoyable but for the friends I made along the way. These include those in my cohort - specially Helene Langlamet, Rui Pei, Leah Ferentinos, and Stefanie Gratale - I will forever cherish all our lunches and daily arguments over choice of food cart; those in my research group - particularly Tian Yang, Alvin Zhou, Dr. Sílvia Majó-Vázquez in Oxford, and Prof. Kokil Jaidka in Singapore - for being wonderful folks to work and have fun with at the same time (shout out to Alvin for all the times he has driven me to and from the airport!). Also, a special mention to Prateekshit Pandey, Josh Becker, Dror Walter, Sijia Yang, and Yotam Ophir: I have thoroughly enjoyed the numerous stimulating conversations I have had with them, and I look forward to staying in touch with them in the future.
 
-Finally, no words can do justice to the debt I owe my family. Ma and Baba have been the two constants in my life who have always ensured that the environment I grew up in privileged intellectual over material pursuits. They were instrumental in kindling the spark of scientific curiosity in me from a very young age, and my academic trajectory would not have been possible without their inspiration and guidance. They have had to make numerous sacrifices along the way, many of which I am probably not even aware of. To them I say: thank you, for everything. I am proud to be your son, and I hope I make you proud some day.
+Finally, no words can do justice to the debt I owe my family. Ma and Baba have been the two constants in my life who have always ensured that the environment I grew up in privileged intellectual over material pursuits. They were instrumental in kindling the spark of scientific curiosity in me from a very young age, and my academic trajectory would not have been possible without their inspiration and guidance. They have made numerous sacrifices along the way, many of which I am probably not even aware of, so that I can be where I am today. To them I say: thank you, for everything. I am proud to be your son, and I hope I make you proud some day.
 
 Growing up in a joint family in 90s India, I am also grateful to my grandparents who contributed greatly in making me who I am. Dadai, Dida, and Thamma: my love and *pronaam* for you, always. Dadu (who I wish I knew better, than through stories told by Baba and Thamma, and one faded photograph from 1993 where I am perched atop his lap), this wouldn't have been possible without your blessings.
 
@@ -36,7 +36,7 @@ I will wrap up with a final tip of the hat to the many unnamed people, who have 
 
 > *Written with [StackEdit](https://stackedit.io/).*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI0NTMyMDMsNTAwOTA3NTIsLTE1MT
-g5NjE1MjYsNjc4NzE4Nzc4LDE0NjE2ODY4NTcsMTY4ODc0OTE5
-OCwyMDQ1NzY0Njc5LDIwNDU3NjQ2NzldfQ==
+eyJoaXN0b3J5IjpbLTc3MTYwNjI5MiwtMTI2MjQ1MzIwMyw1MD
+A5MDc1MiwtMTUxODk2MTUyNiw2Nzg3MTg3NzgsMTQ2MTY4Njg1
+NywxNjg4NzQ5MTk4LDIwNDU3NjQ2NzksMjA0NTc2NDY3OV19
 -->
