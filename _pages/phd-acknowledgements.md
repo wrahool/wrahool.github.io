@@ -12,7 +12,7 @@ Turning the clock back to the fall of 2014: I was a confused bloke in my mid 20s
 
 To put it bluntly: this Ph.D. would not have happened without her. She was instrumental in my transition to the social sciences, and helped me in countless ways in coming to terms with this bewildering new discipline that I found myself thrust into. Sandra has been the most amazing mentor I could have hoped for, and I feel thankful to have had her support along what would otherwise have been a far more arduous journey. She introduced me to the fascinating world of networks and helped chart my path forward as a computational social scientist over the course of my Ph.D. She has truly shown what it means to offer *constructive* feedback - and I am a better academic today because of her. I hope to be able to pass on what I have learnt from her to my future students, as I look forward to starting my career in academia.
 
-Next, I am very lucky to have had on my dissertation committee, three peerless academics, who have been incredibly supportive of my doctoral research.
+Next, I am very lucky to have had three peerless academics on my dissertation committee, who have been incredibly supportive of my doctoral research.
 
 I thank Prof. Yphtach Lelkes for being a limitless repository of academic knowledge, who always has the right answer to any research-related question that one can think of. Getting to know him has been like turning on a faucet of research advice, and I regret not meeting him earlier. Literature reviews are definitely easier when you have Yph on your side.
 
@@ -36,6 +36,6 @@ I will wrap up with a final tip of the hat to the many unnamed people, who have 
 
 > *Written with [StackEdit](https://stackedit.io/).*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDEyMTM2NSwxNDYxNjg2ODU3LDE2OD
-g3NDkxOTgsMjA0NTc2NDY3OSwyMDQ1NzY0Njc5XX0=
+eyJoaXN0b3J5IjpbLTE3MTA0MDUzNjcsMTQ2MTY4Njg1NywxNj
+g4NzQ5MTk4LDIwNDU3NjQ2NzksMjA0NTc2NDY3OV19
 -->
