@@ -14,7 +14,7 @@ To put it bluntly: this Ph.D. would not have happened without her. She was instr
 
 Next, I am very lucky to have had on my dissertation committee, three peerless academics, who have been incredibly supportive of my doctoral research.
 
-I thank Prof. Yphtach Lelkes for being a limitless repository of academic knowledge, and dispenser of citations-on-the-go. Knowing Yph has been like turning on a faucet of research advice, and I regret not getting to know him earlier. Literature reviews are definitely easier when you have Yph on your side, and he always has the right answer to any reseach re
+I thank Prof. Yphtach Lelkes for being a limitless repository of academic knowledge, and dispenser of citations. Knowing Yph has been like turning on a faucet of research advice, and I regret not getting to know him earlier. Literature reviews are definitely easier when you have Yph on your side, and he always has the most sensible answer to any research related question that one can conceive of.
 
 I thank Prof. Joe Turow for being so illuminating in every conversation I have had with him - be it in his office, in his house when he had us all over for lunch, or while waiting for a flight at Prague airport. I have learnt so much from him, and I can only aspire to achieve the level of authority in my field that he has achieved in his. I would also like to thank him for offering a rare course on the history of media research during my time at Annenberg, a course that has been most helpful for me at a personal level.
 
@@ -38,6 +38,6 @@ I will wrap up with a final tip of the hat to the many unnamed people, who have 
 
 > *Written with [StackEdit](https://stackedit.io/).*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODEwMTM1NiwxNjg4NzQ5MTk4LDIwND
-U3NjQ2NzksMjA0NTc2NDY3OV19
+eyJoaXN0b3J5IjpbLTE1MTk5Nzk2MDcsMTY4ODc0OTE5OCwyMD
+Q1NzY0Njc5LDIwNDU3NjQ2NzldfQ==
 -->
