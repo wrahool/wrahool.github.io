@@ -18,9 +18,9 @@ I thank Prof. Yphtach Lelkes for being a limitless repository of academic knowle
 
 I thank Prof. Joe Turow for being so illuminating in every conversation I have had with him - be it in his office, in his house when he had us all over for lunch, or while waiting for a flight at Prague airport. I have learnt so much from him, and I can only aspire to achieve the level of authority in my field that he has achieved in his. I would also like to thank him for offering a rare course on the history of media research during my time at Annenberg, a course that has been most helpful for me at a personal level.
 
-I thank Prof. Michael Delli Carpini - for always taking time out of his extraordinarily busy schedule as the former Dean - to respond to every email no matter how trite, to have in-person meetings, and even go out for lunch! He has been a model to emulate when it comes to balancing an incredibly high level of intellect with administrative acumen and personal affability. I feel truly thankful for knowing him over the past several years.
+I thank Prof. Michael Delli Carpini - for always taking time out of his extraordinarily busy schedule as the former Dean - to respond to every email no matter how trite, to have in-person meetings, and even go out for lunch. He has been a model to emulate when it comes to balancing an incredibly high level of intellect with administrative acumen and personal affability. I feel truly thankful for knowing him over the past several years.
 
-Next, I would also like to thank Prof. Robert Hornik, Prof. Joe Cappella, and Prof. Marwan Kraidy for being significant sources of inspiration, instruction, and help along my way. Many of the things I learned in their classes have found direct application in my doctoral research, and for that, I am thankful.
+Next, I would also like to thank Prof. Robert Hornik, Prof. Joe Cappella, Prof. Paul Rosenbauand Prof. Marwan Kraidy for being significant sources of inspiration, instruction, and help along my way. Many of the things I learned in their classes have found direct application in my doctoral research, and for that, I am thankful.
 
 It would be remiss to not acknowledge the entire staff at the Annenberg school for being the silent heroes behind every dissertation. In particular, I owe a huge debt of gratitude to Joanne Murray for being who she is. The more I hear about the logistical and administrative travails of international graduate students in other programs and universities, the more I feel grateful to Joanne for being there to iron out all glitches that I have faced. A special token of appreciation is also due for the  IT and library staff, particularly Elizabeth Cooper, and Sharon Black, for always being there when I have needed them.
 
@@ -38,6 +38,6 @@ I will wrap up with a final tip of the hat to the many unnamed people, who have 
 
 > *Written with [StackEdit](https://stackedit.io/).*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE2ODgxMzEsMTY4ODc0OTE5OCwyMD
-Q1NzY0Njc5LDIwNDU3NjQ2NzldfQ==
+eyJoaXN0b3J5IjpbMTgwMDIxNzQ5MCwxNjg4NzQ5MTk4LDIwND
+U3NjQ2NzksMjA0NTc2NDY3OV19
 -->
