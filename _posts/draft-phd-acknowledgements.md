@@ -28,7 +28,7 @@ Finally, no words can do justice to the debt I owe my family. Ma and Baba have b
 
 Growing up in a joint family in 90s India, I am also grateful to my grandparents who contributed greatly in making me who I am. Dadai, dida, and thamma: my love and *pronaam* for you, always. Dadu (who I wish I knew better, than through stories told by my father and grandmother, and one faded photograph from 1993 where I am perched atop his lap), this wouldn't have been possible without your blessings.
 
-Last but definitely not the least, I had the unexpected fortune of getting to marry the most amazing woman I know over the course of my Ph.D. Nilanjana has been my best friend and confidant, and we have shared so many memorable moments, as we have  I shudder to think what the past few years would have been without Nilanjana's companionship.
+Last but definitely not the least, I had the unexpected fortune of getting to marry the most amazing woman I know over the course of my Ph.D. Nilanjana has been my best friend, my confidant, and the most wonderful co-dissertator and we have shared so many memorable moments, as we have struggled with our respective coursework and research. I shudder to think what the past few years would have been without Nilanjana's companionship.
 
 
 
@@ -42,7 +42,7 @@ Last but definitely not the least, I had the unexpected fortune of getting to ma
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxMDc3ODQ5LDE0NTYxMzE0MjgsLTM2ND
+eyJoaXN0b3J5IjpbNTY2NTc3ODE3LDE0NTYxMzE0MjgsLTM2ND
 AwNzEzNSwtMjcyNTI4MTQzLDEzNTE4MTc5MzEsLTE4MTExMjI5
 MTcsLTE3MDY2Mjk5MzEsLTIyNDMxNDAzNl19
 -->
