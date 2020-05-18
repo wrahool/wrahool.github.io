@@ -30,14 +30,14 @@ Finally, no words can do justice to the debt I owe my family. Ma and Baba have b
 
 Growing up in a joint family in 90s India, I am also grateful to my grandparents who contributed greatly in making me who I am. Dadai, Dida, and Thamma: my love and *pronaam* for you, always. Dadu (who I wish I knew better, than through stories told by Baba and Thamma, and one faded photograph from 1993 where I am perched atop his lap), this wouldn't have been possible without your blessings.
 
-Last but definitely not the least, I had the unexpected fortune of getting to marry the most amazing woman I know, over the course of my Ph.D. Nilanjana has been my confidant, my best friend, and the most wonderful co-dissertator that I could have ever hoped for. We have shared many memorable moments as we have struggled with our respective coursework and research, and I shudder to think what the past few years would have been like without her companionship - certainly far more miserable and far less gastronomically satisfying. She has made me a better person, a better researcher, and an undeniably better cook (though we tend to disagree on that). Both of our families have been very supportive of our relationship and of our academic journeys, and for that I am very thankful. I am particularly grateful to Dada and Boudi for all the help and support they have provided me throughout my Ph.D. and job hunt - from solutions to everyday problems to proof-reading my dissertation, from career advice to refreshing conversations about science and philosophy. And not to mention, some of the tastiest home-made food that a *jamai* could hope to have in the US. More importantly, they gave me something that I did not have here in this country - a place to call home.
+Last but definitely not the least, I had the unexpected fortune of marrying the most amazing woman I know, during my Ph.D. Nilanjana has been my confidant, my best friend, and the most wonderful co-dissertator that I could have ever hoped for. We have shared many memorable moments as we have struggled with our respective coursework and research, and I shudder to think what the past few years would have been like without her companionship - certainly far more miserable and far less gastronomically satisfying. She has made me a better person, a better researcher, and an undeniably better cook (though we tend to disagree on that). Both of our families have been very supportive of our relationship and of our academic journeys, and for that I am very thankful. I am particularly grateful to Dada and Boudi for all the help and support they have provided me throughout my Ph.D. and job hunt - from solutions to everyday problems to proof-reading my dissertation, from career advice to refreshing conversations about science and philosophy. And not to mention, some of the tastiest home-made food that a *jamai* could hope to have in the US. More importantly, they gave me something that I did not have here in this country - a place to call home.
 
 I will wrap up with a final tip of the hat to the many unnamed people, who have directly assisted me in my research - from individuals such as user har07 on Stack Overflow to the heroes of the open-source community that have made wondrous things like R, Python, Zotero, Firefox, Git, and Linux possible. The modern world can be a frightening place, but it trudges along because of you. Thank you.
 
 > *Written with [StackEdit](https://stackedit.io/).*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjMyMDAwMzksNTgxNTI1MzQ1LC0yMT
-A0ODYyNDYyLC0xMjYyNDUzMjAzLDUwMDkwNzUyLC0xNTE4OTYx
-NTI2LDY3ODcxODc3OCwxNDYxNjg2ODU3LDE2ODg3NDkxOTgsMj
-A0NTc2NDY3OSwyMDQ1NzY0Njc5XX0=
+eyJoaXN0b3J5IjpbLTEzMzM0OTE4NzgsLTE4NjMyMDAwMzksNT
+gxNTI1MzQ1LC0yMTA0ODYyNDYyLC0xMjYyNDUzMjAzLDUwMDkw
+NzUyLC0xNTE4OTYxNTI2LDY3ODcxODc3OCwxNDYxNjg2ODU3LD
+E2ODg3NDkxOTgsMjA0NTc2NDY3OSwyMDQ1NzY0Njc5XX0=
 -->
