@@ -14,7 +14,7 @@ Here are some random stuff about me:
 
 Here is an (incomplete) list of things online that I have found interesting/useful:
 
-- 
+- [This paper on how to read a paper](./files/keshav-read-paper)
 
 -
 
@@ -27,6 +27,6 @@ Here is an (incomplete) list of things online that I have found interesting/usef
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjkzNzExNjcsMTU2NTQzNzI3MywtNj
+eyJoaXN0b3J5IjpbLTEwMDUyMDM2NzgsMTU2NTQzNzI3MywtNj
 c0MDAyNDg5XX0=
 -->
