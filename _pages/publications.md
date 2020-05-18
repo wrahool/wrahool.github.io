@@ -22,7 +22,8 @@ author_profile: true
 
 ## Under Review
 
-***Mukerjee, S**, Jaidka, K., Lelkes, Y. The Ideological Landscape of Elites on Twitter
+* **Mukerjee, S**, Jaidka, K., Lelkes, Y. The Ideological Landscape of Elites on Twitter
+*  **Mukerjee, S**, Yang, T., Stadler, G., Gonzalez-Bailon, S. What Counts as a Weak Tie? A Comparison of Filtering Techniques to Analyze Co-Exposur Networks
 
 ## Book Chapters
 
@@ -48,5 +49,5 @@ Reuters Institute for the Study of Journalism Factsheet. [Media coverage](https:
 * **Mukerjee, S.** An Open World. *Linux For You* (June 2012) print issue
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODg3MDM5NywtNDU5ODI1NzU1XX0=
+eyJoaXN0b3J5IjpbNDIxMTgyMTUxLC00NTk4MjU3NTVdfQ==
 -->
