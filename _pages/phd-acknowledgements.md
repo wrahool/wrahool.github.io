@@ -12,11 +12,11 @@ Turning the clock back to the fall of 2014: I was a confused bloke in my mid 20s
 
 To put it bluntly: this Ph.D. would not have happened without her. She was instrumental in my transition to the social sciences, and helped me in countless ways in coming to terms with this bewildering new discipline that I found myself thrust into. Sandra has been the most amazing mentor I could have hoped for, and I feel thankful to have had her support along what would otherwise have been a far more arduous journey. She introduced me to the fascinating world of networks and helped chart my path forward as a computational social scientist over the course of my Ph.D. She has truly shown what it means to offer *constructive* feedback - and I am a better academic today because of her. I hope to be able to pass on what I have learnt from her to my future students, as I look forward to starting my career in academia.
 
-Next, I am very lucky to have had on my dissertation committee, three peerless academics, who have been incredible supportive of my doctoral research.
+Next, I am very lucky to have had on my dissertation committee, three peerless academics, who have been incredibly supportive of my doctoral research.
 
-Prof. Yphtach Lelkes - for being this limitless repository of academic knowledge, and dispenser of citations-on-the-go. Knowing Yph has been like turning on a faucet of research advice, and I regret not getting to know him earlier. Literature reviews are definitely easier when you have Yph on your side.
+I thank Prof. Yphtach Lelkes for being a limitless repository of academic knowledge, and dispenser of citations-on-the-go. Knowing Yph has been like turning on a faucet of research advice, and I regret not getting to know him earlier. Literature reviews are definitely easier when you have Yph on your side, and he always has the right answer to any reseach re
 
-Prof. Joe Turow - for being so illuminating in every conversation I have had with him - be it in his office, in his house when he had us all over for lunch, or while waiting for a flight at Prague airport. I have learnt so much from him, and I can only aspire to achieve the level of authority in my field that he has achieved in his. I would also like to thank him for offering a rare course on the history of media research during my time at Annenberg, a course that has been most helpful for me at a personal level.
+I thank Prof. Joe Turow for being so illuminating in every conversation I have had with him - be it in his office, in his house when he had us all over for lunch, or while waiting for a flight at Prague airport. I have learnt so much from him, and I can only aspire to achieve the level of authority in my field that he has achieved in his. I would also like to thank him for offering a rare course on the history of media research during my time at Annenberg, a course that has been most helpful for me at a personal level.
 
 Prof. Michael Delli Carpini - for always taking time out of his extraordinarily busy schedule as the former Dean - to respond to every email no matter how trite, to have in-person meetings, and even go out for lunch! He has been a model to emulate when it comes to balancing an incredibly high level of intellect with administrative acumen and personal affability. I feel truly thankful for knowing him over the past several years.
 
@@ -38,6 +38,6 @@ I will wrap up with a final tip of the hat to the many unnamed people, who have 
 
 > *Written with [StackEdit](https://stackedit.io/).*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjc5MDQ0MiwxNjg4NzQ5MTk4LDIwND
+eyJoaXN0b3J5IjpbLTIwODEwMTM1NiwxNjg4NzQ5MTk4LDIwND
 U3NjQ2NzksMjA0NTc2NDY3OV19
 -->
