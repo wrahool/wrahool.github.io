@@ -14,11 +14,11 @@ To put it bluntly: this Ph.D. would not have happened without her. She was instr
 
 Next, I am very lucky to have had on my dissertation committee, three peerless academics, who have been incredibly supportive of my doctoral research.
 
-I thank Prof. Yphtach Lelkes for being a limitless repository of academic knowledge, and dispenser of citations. Knowing Yph has been like turning on a faucet of research advice, and I regret not getting to know him earlier. Literature reviews are definitely easier when you have Yph on your side, and he always has the most sensible answer to any research related question that one can conceive of.
+I thank Prof. Yphtach Lelkes for being a limitless repository of academic knowledge - who always has the right aKnowing Yph has been like turning on a faucet of research advice, and I regret not getting to know him earlier. Literature reviews are definitely easier when you have Yph on your side, and he always has the most sensible answer to any research related question that one can conceive of.
 
 I thank Prof. Joe Turow for being so illuminating in every conversation I have had with him - be it in his office, in his house when he had us all over for lunch, or while waiting for a flight at Prague airport. I have learnt so much from him, and I can only aspire to achieve the level of authority in my field that he has achieved in his. I would also like to thank him for offering a rare course on the history of media research during my time at Annenberg, a course that has been most helpful for me at a personal level.
 
-Prof. Michael Delli Carpini - for always taking time out of his extraordinarily busy schedule as the former Dean - to respond to every email no matter how trite, to have in-person meetings, and even go out for lunch! He has been a model to emulate when it comes to balancing an incredibly high level of intellect with administrative acumen and personal affability. I feel truly thankful for knowing him over the past several years.
+I thank Prof. Michael Delli Carpini - for always taking time out of his extraordinarily busy schedule as the former Dean - to respond to every email no matter how trite, to have in-person meetings, and even go out for lunch! He has been a model to emulate when it comes to balancing an incredibly high level of intellect with administrative acumen and personal affability. I feel truly thankful for knowing him over the past several years.
 
 Next, I would also like to thank Prof. Robert Hornik, Prof. Joe Cappella, and Prof. Marwan Kraidy for being significant sources of inspiration, instruction, and help along my way. Many of the things I learned in their classes have found direct application in my doctoral research, and for that, I am thankful.
 
@@ -38,6 +38,6 @@ I will wrap up with a final tip of the hat to the many unnamed people, who have 
 
 > *Written with [StackEdit](https://stackedit.io/).*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk5Nzk2MDcsMTY4ODc0OTE5OCwyMD
+eyJoaXN0b3J5IjpbLTE0MDYzMjUxNDEsMTY4ODc0OTE5OCwyMD
 Q1NzY0Njc5LDIwNDU3NjQ2NzldfQ==
 -->
