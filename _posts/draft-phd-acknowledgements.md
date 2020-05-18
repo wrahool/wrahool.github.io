@@ -32,20 +32,10 @@ Last but definitely not the least, I had the unexpected fortune of getting to ma
 
 I will wrap up with a final tip of the hat to the many unnamed people, who have directly assisted me in my research - from individuals such as user har07 on StackOverflow to the heroes of the open-source community that have made wondrous things like R, Python, Zotero, Firefox, Git, and Linux possible. More power to all of you.
 
-
-
-
-
-
-
-
-
-
-
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQ1MDcyODksLTEwMjU3NDM2OTcsMT
-Q1NjEzMTQyOCwtMzY0MDA3MTM1LC0yNzI1MjgxNDMsMTM1MTgx
-NzkzMSwtMTgxMTEyMjkxNywtMTcwNjYyOTkzMSwtMjI0MzE0MD
-M2XX0=
+eyJoaXN0b3J5IjpbLTEyMzg5NzQzMDksLTE5MDQ1MDcyODksLT
+EwMjU3NDM2OTcsMTQ1NjEzMTQyOCwtMzY0MDA3MTM1LC0yNzI1
+MjgxNDMsMTM1MTgxNzkzMSwtMTgxMTEyMjkxNywtMTcwNjYyOT
+kzMSwtMjI0MzE0MDM2XX0=
 -->
