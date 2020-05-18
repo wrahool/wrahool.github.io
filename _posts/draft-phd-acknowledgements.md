@@ -28,7 +28,7 @@ Finally, no words can do justice to the debt I owe my family. Ma and Baba have b
 
 Growing up in a joint family in 90s India, I am also grateful to my grandparents who contributed greatly in making me who I am. Dadai, dida, and thamma: my love and *pronaam* for you, always. Dadu (who I wish I knew better, than through stories told by my father and grandmother, and one faded photograph from 1993 where I am perched atop his lap), this wouldn't have been possible without your blessings.
 
-Last but definitely not the least, I had the unexpected fortune of getting to marry the most amazing woman I know over the course of my Ph.D. Nilanjana has been my confidant, my best friend, and the most wonderful co-dissertator that I could have ever hoped for. We have shared so many memorable moments as we have struggled with our respective coursework and research that I shudder to think what the past few years would have been like without her companionship - certainly far more miserable and far less gastronomically satisfying. She has made me a better person, a better researcher, and an undeniably better cook (though we often disagree on that). Both of our families have been very supportive of our relationship and of our academic journeys, and for that I am very thankful. I am particularly grateful to Dada and Boudi for all the help and support they have provided me with over the course of the Ph.D. and my job hunt - from figuring out how to get things done in the US, to . More importantly, they have given me something that I did not have in this country - a place to call home. 
+Last but definitely not the least, I had the unexpected fortune of getting to marry the most amazing woman I know over the course of my Ph.D. Nilanjana has been my confidant, my best friend, and the most wonderful co-dissertator that I could have ever hoped for. We have shared so many memorable moments as we have struggled with our respective coursework and research that I shudder to think what the past few years would have been like without her companionship - certainly far more miserable and far less gastronomically satisfying. She has made me a better person, a better researcher, and an undeniably better cook (though we often disagree on that). Both of our families have been very supportive of our relationship and of our academic journeys, and for that I am very thankful. I am particularly grateful to Dada and Boudi for all the help and support they have provided me with over the course of the Ph.D. and my job hunt - from solutions to everyday problems to proocareer advice. More importantly, they have given me something that I did not have in this country - a place to call home. 
 
 
 
@@ -42,8 +42,8 @@ Last but definitely not the least, I had the unexpected fortune of getting to ma
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU5Mjg4NDksLTEwMjU3NDM2OTcsMT
-Q1NjEzMTQyOCwtMzY0MDA3MTM1LC0yNzI1MjgxNDMsMTM1MTgx
-NzkzMSwtMTgxMTEyMjkxNywtMTcwNjYyOTkzMSwtMjI0MzE0MD
-M2XX0=
+eyJoaXN0b3J5IjpbMTY5MjM1NDczNiwtMTAyNTc0MzY5NywxND
+U2MTMxNDI4LC0zNjQwMDcxMzUsLTI3MjUyODE0MywxMzUxODE3
+OTMxLC0xODExMTIyOTE3LC0xNzA2NjI5OTMxLC0yMjQzMTQwMz
+ZdfQ==
 -->
