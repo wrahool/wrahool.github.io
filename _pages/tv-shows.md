@@ -19,23 +19,16 @@ TV shows that I have enjoyed (and enjoy) watching -
 - Star Trek The Original Series
 - Silicon Valley
 - Fawlty Towers
-- Coupling
 - Parks and Recreation
-- Silicon Valley
 - Top Gear
 - The Grand Tour
-- Community
-- The Americans
-- 30 Rock
-- Stranger Things
 - The Handmaid's Tale
 - Black Mirror
 - Brooklyn Nine Nine
 - Firefly
 - BoJack Horseman
-- Seinfeld
 - A Bit of Fry and Laurie
 - Monty Python's Flying Circus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzg3NjQxMTRdfQ==
+eyJoaXN0b3J5IjpbLTE3NDQxMzU4NTJdfQ==
 -->
