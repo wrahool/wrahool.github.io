@@ -12,6 +12,10 @@ Here are some random stuff about me:
 - [A list of my favorite podcasts](./../podcasts)
 - [My last.fm profile](https://www.last.fm/user/wrahool)
 
+Here are some stuff that I read that I found interesting/useful:
+
+- [How to read a paper]
+
 
 
 
@@ -21,5 +25,5 @@ Here are some random stuff about me:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTQzNzI3MywtNjc0MDAyNDg5XX0=
+eyJoaXN0b3J5IjpbMTE3NzU0NzgxNSwtNjc0MDAyNDg5XX0=
 -->
