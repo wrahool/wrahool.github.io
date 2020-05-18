@@ -12,7 +12,6 @@ Here are some random stuff about me:
 - [A list of my favorite podcasts](./../podcasts)
 - [My last.fm profile](https://www.last.fm/user/wrahool)
 
-- 
 
 
 
@@ -23,6 +22,6 @@ Here are some random stuff about me:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjMwMDkzMCwxNTY1NDM3MjczLC02Nz
-QwMDI0ODldfQ==
+eyJoaXN0b3J5IjpbLTExMTQ3MTU4MzMsMTU2NTQzNzI3MywtNj
+c0MDAyNDg5XX0=
 -->
