@@ -14,8 +14,8 @@ Here are some random stuff about me:
 
 Here is an (incomplete) list of things online that I have found interesting/useful:
 
-- [This paper on how to read a paper](/files/keshav-read-paper.pdf/)
-- [This lucid illustration of negative probabilities by Richard Feynman](/files/)
+- [This paper](/files/keshav-read-paper.pdf/) on how to read a paper
+- [This lucid illustration](/files/) of negative probabilities by Richard Feynman. It's very useful for understanding why one shouldn't dismiss mathematical results that don't seem interpretable to our common sense
 
 
 
@@ -26,6 +26,6 @@ Here is an (incomplete) list of things online that I have found interesting/usef
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNDY2Njc1LDE1NjU0MzcyNzMsLTY3ND
+eyJoaXN0b3J5IjpbNzkzMzk4Mzk5LDE1NjU0MzcyNzMsLTY3ND
 AwMjQ4OV19
 -->
