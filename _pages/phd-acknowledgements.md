@@ -10,7 +10,7 @@ This legend, while illustrating how bad people generally are at understanding ex
 
 Turning the clock back to the fall of 2014: I was a confused bloke in my mid 20s, having a very vague aim in life to do research in some capacity - preferably in a Ph.D. program. But I didn't know where to start. Sure, I had taken my GRE and TOEFL exams. But what next? What did I even want to study? Thus, when I sent out a hundred emails to a number of professors craving for a slice of their attention, little did I expect anything to really materialize. So I was pleasantly surprised, not to mention, relieved, when I heard back from a certain Prof. Sandra González-Bailón, who urged me to apply to the Ph.D. program at the Annenberg School at Penn. A year later, I would be in said Ph.D. program, fumbling around trying to make sense of this alien thing called "Communication", and Prof. Sandra González-Bailón would be my advisor.
 
-To put it bluntly: this Ph.D. would not have happened without her. She was instrumental in my transition to the social sciences, and helped me in countless ways in making sense of this bewildering new discipline that I found myself thrust into. Sandra has been the most amazing mentor I could have hoped for, and I feel thankful to have had her support along what would otherwise have been a far more arduous journey. She introduced me to the fascinating world of networks and helped chart my path forward as a computational social scientist over the course of my Ph.D. I have developed As someone who is about to begin his own career in academia, I will strive to do for my future students, what she has done for me.
+To put it bluntly: this Ph.D. would not have happened without her. She was instrumental in my transition to the social sciences, and helped me in countless ways in making sense of this bewildering new discipline that I found myself thrust into. Sandra has been the most amazing mentor I could have hoped for, and I feel thankful to have had her support along what would otherwise have been a far more arduous journey. She introduced me to the fascinating world of networks and helped chart my path forward as a computational social scientist over the course of my Ph.D. She has truly shown what it means to offer constructive cri
 
 Next, my dissertation committee has offered me an incredible amount of academic support over the past several years.
 
@@ -38,6 +38,6 @@ I will wrap up with a final tip of the hat to the many unnamed people, who have 
 
 > *Written with [StackEdit](https://stackedit.io/).*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3OTQwNjI3LDE2ODg3NDkxOTgsMjA0NT
-c2NDY3OSwyMDQ1NzY0Njc5XX0=
+eyJoaXN0b3J5IjpbMjEzNDIwOTczOCwxNjg4NzQ5MTk4LDIwND
+U3NjQ2NzksMjA0NTc2NDY3OV19
 -->
