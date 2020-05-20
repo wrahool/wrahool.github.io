@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /home/
+  - /home.html/
 ---
 ## Welcome to my personal webspace
 
@@ -21,7 +23,8 @@ I make up for not being very physically active by watching sports. I follow  [Fo
 
 I love to read, write, cook, and listen to podcasts, not necessarily in that order.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTM1NTYyNywtNzQxMjg0ODkxLC0xND
-IwNTE0MDM3LC0zMDIzMzg3NDMsODcxMTc3OTQ0LC0yMDI5ODc5
-NjM5LC03MjI1Nzg3NzksLTIwMjk4Nzk2MzldfQ==
+eyJoaXN0b3J5IjpbLTE5Mjg0MDc4OCwxNDQ1MzU1NjI3LC03ND
+EyODQ4OTEsLTE0MjA1MTQwMzcsLTMwMjMzODc0Myw4NzExNzc5
+NDQsLTIwMjk4Nzk2MzksLTcyMjU3ODc3OSwtMjAyOTg3OTYzOV
+19
 -->
