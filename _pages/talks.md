@@ -68,27 +68,21 @@ The Communication Research Experience Undergraduate Seminar
 
 ### 2018
 
-* **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. Networks of audience overlap in the consumption of digital news. *The 4th International Conferenceon Computational Social Science*<br>
-Northwestern University, Evanston, IL, USA
+* **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. Networks of audience overlap in the consumption of digital news. *The 4th International Conferenceon Computational Social Science* Northwestern University, Evanston, IL, USA
 
-* **Mukerjee, S**.& Gonzalez-Bailon, S. What Counts as a Weak Tie? AComparison of the Different Thresholding Techniques for Thresholding Weighted Net-works. Poster presented at *the 4th International Conference on Computational Social Science*<br>
-Northwestern University, Evanston, IL, USA
+* **Mukerjee, S**.& Gonzalez-Bailon, S. What Counts as a Weak Tie? AComparison of the Different Thresholding Techniques for Thresholding Weighted Net-works. Poster presented at *the 4th International Conference on Computational Social Science* Northwestern University, Evanston, IL, USA
 
-* **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. Networks of audience overlap in the consumption of digital news. *The 11th Annual Political Networks Conference*<br>
-George Mason University, Arlington, VA, USA
+* **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. Networks of audience overlap in the consumption of digital news. *The 11th Annual Political Networks Conference* George Mason University, Arlington, VA, USA
 
-* **Mukerjee, S.** & Gonzalez-Bailon, S. Digital News Consumption in India. *The 11th Annual Political Networks Conference*<br>
-George Mason University, Arlington, VA. USA
+* **Mukerjee, S.** & Gonzalez-Bailon, S. Digital News Consumption in India. *The 11th Annual Political Networks Conference* George Mason University, Arlington, VA. USA
 
-* **Mukerjee, S**. & Gonzalez-Bailon, S. What Counts as a Weak Tie? A Comparison of the Different Thresholding Techniques for Thresholding Weighted Networks. The *68th Annual Conference of the International Communication Association*<br>
-Prague, Czech Republic
+* **Mukerjee, S**. & Gonzalez-Bailon, S. What Counts as a Weak Tie? A Comparison of the Different Thresholding Techniques for Thresholding Weighted Networks. The *68th Annual Conference of the International Communication Association* Prague, Czech Republic
 
 ### 2017
 
-* **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. Are AudiencesFragmented in How They Consume News Online? *The 67th Annual Conference ofthe International Communication Association*<br>
-San Diego, CA, USA
+* **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. Are AudiencesFragmented in How They Consume News Online? *The 67th Annual Conference ofthe International Communication Association* San Diego, CA, USA
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTE1MTg5LC0xNjc2NDUyODY2LDIwNj
-Q2NDk0MTFdfQ==
+eyJoaXN0b3J5IjpbLTEyMzk2MjM5NzMsLTE2NzY0NTI4NjYsMj
+A2NDY0OTQxMV19
 -->
