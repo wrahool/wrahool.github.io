@@ -40,41 +40,31 @@ The Communication Research Experience Undergraduate Seminar
 
 ### 2020
 
-* **Mukerjee, S.**, Jaidka, K., & Lelkes, Y. (accepted) The Ideological Landscape of American Elites on Twitter. *The 6th International Conference on Computational Social Science*<br>MIT, Cambridge, MA, USA
+* **Mukerjee, S.**, Jaidka, K., & Lelkes, Y. (accepted) The Ideological Landscape of American Elites on Twitter. *The 6th International Conference on Computational Social Science* MIT, Cambridge, MA, USA
 
-* **Mukerjee, S.**, (accepted) Understanding Audience Fragmentation by a Community Extraction Method: Evidence from India. *The 6th International Conference on Computational Social Science* <br>
-MIT, Cambridge, MA, USA
+* **Mukerjee, S.**, (accepted) Understanding Audience Fragmentation by a Community Extraction Method: Evidence from India. *The 6th International Conference on Computational Social Science* MIT, Cambridge, MA, USA
 
-* **Mukerjee, S.**, & Yang, T. (accepted) A Conjoint Experimental Study on the Effectsof Social Media Cues on Selective Exposure. *The 70th Annual Conference of the International Conference Association* <br>
-Gold Coast, Australia
+* **Mukerjee, S.**, & Yang, T.  A Conjoint Experimental Study on the Effectsof Social Media Cues on Selective Exposure. *The 70th Annual Conference of the International Conference Association* Gold Coast, Australia
 
-* **Mukerjee, S.**, (accepted) News Reading Publics and Audience Fragmentation in a Multi-Lingual Political Context: Evidence from Online India (2014-2018). *The 70th Annual Conference of the International Conference Association* <br>
-Gold Coast, Australia
+* **Mukerjee, S.** News Reading Publics and Audience Fragmentation in a Multi-Lingual Political Context: Evidence from Online India (2014-2018). *The 70th Annual Conference of the International Conference Association* Gold Coast, Australia
 
-* **Mukerjee, S.**, Jaidka, K., & Lelkes, Y. (accepted) The Ideological Landscape of American Elites on Twitter. *The 70th Annual Conference of the International Communication Association* <br>
-Gold Coast, Australia
+* **Mukerjee, S.**, Jaidka, K., & Lelkes, Y.  The Ideological Landscape of American Elites on Twitter. *The 70th Annual Conference of the International Communication Association* Gold Coast, Australia
 
 * **Mukerjee, S.**, & Yang, T. (accepted) A Conjoint Experimental Study on the Effects of Social Media Cues on Selective Exposure. *The 78th Annual Conference of the Midwest Political Science Association* (Conference canceled)
 
 ### 2019
 
-* **Mukerjee, S.**, Jaidka, K., & Lelkes, Y. Echo Chambers and Affective Polar-ization: A Twitter Field Experiment. *The 5th International Conference on Compu-tational Social Science* <br>
-University of Amsterdam, Amsterdam, the Netherlands
+* **Mukerjee, S.**, Jaidka, K., & Lelkes, Y. Echo Chambers and Affective Polar-ization: A Twitter Field Experiment. *The 5th International Conference on Compu-tational Social Science* University of Amsterdam, Amsterdam, the Netherlands
 
-* **Mukerjee, S.** Using Network Science to Understand News Consumption in India. *The 5th International Conference on Computational Social Science* <br>
-University of Amsterdam, Amsterdam, the Netherlands
+* **Mukerjee, S.** Using Network Science to Understand News Consumption in India. *The 5th International Conference on Computational Social Science* University of Amsterdam, Amsterdam, the Netherlands
 
-* **Mukerjee, S.**, & Yang, T. A Conjoint Experimental Study on the Effects of Social Media Cues on Selective Exposure. *The 5th International Conference on Com-putational Social Science*<br>
-University of Amsterdam, Amsterdam, the Netherlands.
+* **Mukerjee, S.**, & Yang, T. A Conjoint Experimental Study on the Effects of Social Media Cues on Selective Exposure. *The 5th International Conference on Com-putational Social Science* University of Amsterdam, Amsterdam, the Netherlands.
 
-* **Mukerjee, S.** A Theory of Networked News Reading Publics: Evidence from Online India. *The 12th Annual Political Networks Conference*<br>
-Duke University, Durham, NC, USA
+* **Mukerjee, S.** A Theory of Networked News Reading Publics: Evidence from Online India. *The 12th Annual Political Networks Conference* Duke University, Durham, NC, USA
 
-* **Mukerjee, S.**, & Yang, T. A Conjoint Experimental Study on the Effects of Social Media Cues on Selective Exposure. Poster presented at *the 12th Annual Political Networks Conference*<br>
-Duke University, Durham, NC, USA
+* **Mukerjee, S.**, & Yang, T. A Conjoint Experimental Study on the Effects of Social Media Cues on Selective Exposure. Poster presented at *the 12th Annual Political Networks Conference* Duke University, Durham, NC, USA
 
-* Yang, T., Majo-Vazquez, S., **Mukerjee, S.**, & Gonzalez-Bailon, S. (2019) Niche News and Peripheral Fragmentation: A Network Percolation Approach to the Analysis of News Consumption. *The 69th Annual Conference of the International Com-munication Association*<br>
-Washington, DC, USA
+* Yang, T., Majo-Vazquez, S., **Mukerjee, S.**, & Gonzalez-Bailon, S. (2019) Niche News and Peripheral Fragmentation: A Network Percolation Approach to the Analysis of News Consumption. *The 69th Annual Conference of the International Com-munication Association* Washington, DC, USA
 
 ### 2018
 
@@ -99,5 +89,6 @@ Prague, Czech Republic
 San Diego, CA, USA
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzY0NTI4NjYsMjA2NDY0OTQxMV19
+eyJoaXN0b3J5IjpbLTk3MTE1MTg5LC0xNjc2NDUyODY2LDIwNj
+Q2NDk0MTFdfQ==
 -->
