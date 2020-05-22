@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Subhayan Mukerjee"
   avatar           : "profile.jpg"
-  bio              : "Computational Social Scientist"
+  bio              : "Computational Social Scientist at University of Pennsylvania"
   location         : "Philadelphia / Chicago"
-  employer         : "University of Pennsylvania"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Y7_E1EIAAAAJ&hl=en"
   email            : "mail@subhayan.com"
