@@ -17,10 +17,12 @@ Some of my favorite (fiction and non-fiction) books/authors -
 - *Contact* by Carl Sagan
 - *And Then There Were None* by Agatha Christie
 - *The Black Swan* by Nassim Nicholas Taleb
+- *1984* by George Orwell
 - *Fahrenheit 451* by Ray Bradbury
 - *A World Without Time* by Palle Yourgrau
 - *The Murder on the Orient Express* by Agatha Christie
 - *The Martian* by Andy Weir
+- *Brave New World* by Aldous Huxley
 - *Maus* by Art Spiegelman
 - *The Last Lecture* by Randy Pausch
 - *One, Two, Three ... Infinity* by George Gamow
@@ -36,5 +38,5 @@ This list would be incomplete without mentioning some writers whose books and st
 - Roald Dahl
 - P. G. Wodehouse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0Njg3ODMsOTE5Nzc5MTYyXX0=
+eyJoaXN0b3J5IjpbMTAwMDg2NDg4Miw5MTk3NzkxNjJdfQ==
 -->
