@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2020
 
-* **Mukerjee, S.** & Yang, T. Choosing to Avoid? A Conjoint Experimental Study to Understand Selective Exposure and Avoidance on Facebook. Forthcoming in *Political Communication*. [Preprint](https://osf.io/hc2vs/)
+* **Mukerjee, S.** & Yang, T. Choosing to Avoid? A Conjoint Experimental Study to Understand Selective Exposure and Avoidance on Facebook. Forthcoming in *Political Communication*.
 
 
 ### 2018
@@ -50,5 +50,6 @@ Reuters Institute for the Study of Journalism Factsheet. [Media coverage](https:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTQ3NDk4OSwtNDU5ODI1NzU1XX0=
+eyJoaXN0b3J5IjpbMjA2MzUxNzQxLDEzMjE0NzQ5ODksLTQ1OT
+gyNTc1NV19
 -->
