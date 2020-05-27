@@ -41,13 +41,13 @@ Last but definitely not the least, I had the unexpected fortune of getting to ma
 I will wrap up with a final tip of the hat to the many unnamed people, who have directly assisted me in my research - from individuals such as user har07 on StackOverflow to the heroes of the open-source community that have made wondrous things like R, Python, Zotero, Firefox, Git, and Linux possible. More power to all of you.
 
 --
-![Defense screenshot](./../files/images/defense_attire.png)
+![Defense screenshot](https://www.subhayan.com/files/images/defense_attire.png)
 
-![Defense attire](../files/images/defense-attire.png)
+![Defense attire](https://www.subhayan.com/files/images/defense_screenshot.png)
 
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjQ2NDAyOSwxODQxMjc3NTg3LC03Mz
+eyJoaXN0b3J5IjpbMTE3MjQ0NTYyNywxODQxMjc3NTg3LC03Mz
 MxMzM2ODBdfQ==
 -->
