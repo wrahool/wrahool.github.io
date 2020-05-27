@@ -43,11 +43,11 @@ I will wrap up with a final tip of the hat to the many unnamed people, who have 
 --
 ![Defense screenshot](https://www.subhayan.com/files/images/defense_attire.png)
 
-![Defense attire](https://www.subhayan.com/files/images/defense_screenshot.png)
+![Defense attire](https://www.subhayan.com/files/images/defense_screenshot-cropped.png)
 
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjQ0NTYyNywxODQxMjc3NTg3LC03Mz
-MxMzM2ODBdfQ==
+eyJoaXN0b3J5IjpbMTc0MDY3MDUzLDE4NDEyNzc1ODcsLTczMz
+EzMzY4MF19
 -->
