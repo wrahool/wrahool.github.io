@@ -5,6 +5,9 @@ permalink: /posts/2020/05/phd-acknowledgments/
 tags:
   - personal
 ---
+I defended my PhD dissertation today! Because a PhD is so much more than an individual effort, this is what I wrote in the acknowledgements section of my dissertation:
+
+--
 
 Legend has it that when Sissa Ben Dahir invented the game of *chaturanga*, the precursor to what is today known as chess, in ancient India, the king was so impressed that he asked Sissa to name any reward for his invention. Sissa requested the following: "Just one grain of wheat on the first square of the board. Then put two on the second square, four on the next, then eight, and continue, doubling the number of grains on each successive square, until every square is reached." The king, though bemused at the oddity of this request, immediately ordered his courtiers to ensure that the required number of grains was given to Sissa. It was only a little later that the king was informed that the task was impossible. In fact, as his court mathematicians told him, there wasn't enough land area in the whole of the world to grow the amount of wheat - 18,446,744,073,709,551,615 grains - that Sissa had requested.
 
@@ -38,7 +41,15 @@ Last but definitely not the least, I had the unexpected fortune of getting to ma
 
 I will wrap up with a final tip of the hat to the many unnamed people, who have directly assisted me in my research - from individuals such as user har07 on StackOverflow to the heroes of the open-source community that have made wondrous things like R, Python, Zotero, Firefox, Git, and Linux possible. More power to all of you.
 
+--
+
+![Defense screenshot](https://www.subhayan.com/files/images/defense-screenshot-cropped.png)
+
+![Defense screenshot](https://www.subhayan.com/files/images/defense_attire.png)
+
+
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzEzMzY4MF19
+eyJoaXN0b3J5IjpbLTgwNTI1ODI2MCwtODA1MjU4MjYwLDE4ND
+EyNzc1ODcsLTczMzEzMzY4MF19
 -->
