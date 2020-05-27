@@ -43,10 +43,10 @@ I will wrap up with a final tip of the hat to the many unnamed people, who have 
 --
 ![Defense screenshot](./files/images/defense-screenshot-cropped.png)
 
-![Defense attire](./files/images/defense-attire.png)
+![Defense attire](../files/images/defense-attire.png)
 
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM3MDEyMjcsLTczMzEzMzY4MF19
+eyJoaXN0b3J5IjpbMTcwNjk5MTA0MSwtNzMzMTMzNjgwXX0=
 -->
