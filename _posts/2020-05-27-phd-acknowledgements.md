@@ -5,7 +5,9 @@ permalink: /posts/2020/05/phd-acknowledgments/
 tags:
   - personal
 ---
+I defended my PhD dissertation today! Because a PhD is so much more than an individual effort, this is what I wrote in the acknowledgements section of my dissertation:
 
+--
 Legend has it that when Sissa Ben Dahir invented the game of *chaturanga*, the precursor to what is today known as chess, in ancient India, the king was so impressed that he asked Sissa to name any reward for his invention. Sissa requested the following: "Just one grain of wheat on the first square of the board. Then put two on the second square, four on the next, then eight, and continue, doubling the number of grains on each successive square, until every square is reached." The king, though bemused at the oddity of this request, immediately ordered his courtiers to ensure that the required number of grains was given to Sissa. It was only a little later that the king was informed that the task was impossible. In fact, as his court mathematicians told him, there wasn't enough land area in the whole of the world to grow the amount of wheat - 18,446,744,073,709,551,615 grains - that Sissa had requested.
 
 This legend, while illustrating how bad people generally are at understanding exponential growth, is of particular relevance to the task I have at hand - that of writing the acknowledgements section of my dissertation. I am the ancient Indian king, blissfully unaware of his own naiveté, all the while expecting a problem to be tractable, when it actually isn't. In other words, acknowledging *everyone* who made this dissertation possible is a futile exercise. I recognize the hidden, often random ways in which people succeed, and if my getting a Ph.D. is any measure of personal success, I owe it to the countably immeasurable number of people who have touched my life for the better, and who deserve my deepest gratitude for where I am today. I am indeed sorry that I cannot name every single one of you individually.
@@ -38,7 +40,10 @@ Last but definitely not the least, I had the unexpected fortune of getting to ma
 
 I will wrap up with a final tip of the hat to the many unnamed people, who have directly assisted me in my research - from individuals such as user har07 on StackOverflow to the heroes of the open-source community that have made wondrous things like R, Python, Zotero, Firefox, Git, and Linux possible. More power to all of you.
 
+--
+
+
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzEzMzY4MF19
+eyJoaXN0b3J5IjpbLTY1MTkzMTQzLC03MzMxMzM2ODBdfQ==
 -->
