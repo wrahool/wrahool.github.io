@@ -20,7 +20,7 @@ Next, I would also like to thank Prof. Robert Hornik, Prof. Joe Cappella, and Pr
 
 It would be remiss to not acknowledge the entire staff at the Annenberg school for being the silent heroes behind every dissertation. In particular, I owe a huge debt of gratitude to Joanne Murray for being who she is. The more I hear about the logistical and administrative travails of international graduate students in other programs and universities, the more I feel grateful to Joanne for being there to iron out all glitches that I have faced. A special token of appreciation is also due for the  IT and library staff, particularly Elizabeth Cooper, and Sharon Black, for always being there when I have needed them.
 
-The Annenberg journey would not have been half as enjoyable but for the friends I made along the way. These include those in my cohort - specially Helene Langlamet, Rui Pei, Leah Ferentinos, and Stefanie Gratale - I will forever cherish all our lunches together and daily arguments over choice of food cart; those in my research group - particularly Tian Yang and Alvin Zhou - for being great folks to work with and have fun at the same time (shout out to Alvin for all the times he has driven me to and from the airport!). Also, a special mention to Prateekshit Pandey, Joshua Becker, Dror Walter, Sijia Yang, and Yotam Ophir: I have thoroughly enjoyed the numerous stimulating conversations I have had with them, and I look forward to staying in touch with them in the future.
+The Annenberg journey would not have been half as enjoyable but for the friends I made along the way. These include those in my cohort - specially Helene Langlamet, Rui Pei, Leah Ferentinos, and Stefanie Gratale - I will forever cherish all our lunches together and daily arguments over choice of food cart; those in my research group - particularly Tian Yang and Alvin Zhou - for being great folks to work with and have fun at the same time (shout out to Alvin for all the times he has driven me to and from the airport!). Also, a special mention to Prateekshit Pandey, Soojong Kim, Joshua Becker, Dror Walter, Sijia Yang, and Yotam Ophir: I have thoroughly enjoyed the numerous stimulating conversations I have had with them, and I look forward to staying in touch with them in the future.
 
 Moving on to my research collaborators: These include three names I have already mentioned: Sandra, Yph, and Tian, and two that I haven't: Dr. Sílvia Majó-Vázquez in Oxford and Prof. Kokil Jaidka in Singapore. I feel truly blessed to have had the chance to work with them, and I hope to continue to collaborate with them.
 
@@ -34,8 +34,8 @@ I will wrap up with a final tip of the hat to the many unnamed people, who have 
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzg5NzQzMDksLTE5MDQ1MDcyODksLT
-EwMjU3NDM2OTcsMTQ1NjEzMTQyOCwtMzY0MDA3MTM1LC0yNzI1
-MjgxNDMsMTM1MTgxNzkzMSwtMTgxMTEyMjkxNywtMTcwNjYyOT
-kzMSwtMjI0MzE0MDM2XX0=
+eyJoaXN0b3J5IjpbLTkzMTc0MjU2NSwtMTIzODk3NDMwOSwtMT
+kwNDUwNzI4OSwtMTAyNTc0MzY5NywxNDU2MTMxNDI4LC0zNjQw
+MDcxMzUsLTI3MjUyODE0MywxMzUxODE3OTMxLC0xODExMTIyOT
+E3LC0xNzA2NjI5OTMxLC0yMjQzMTQwMzZdfQ==
 -->
