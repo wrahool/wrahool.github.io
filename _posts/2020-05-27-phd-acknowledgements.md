@@ -45,13 +45,13 @@ I will wrap up with a final tip of the hat to the many unnamed people, who have 
 
 ![Defense screenshot](https://www.subhayan.com/files/images/defense-screenshot-cropped.png)
 I also love my defense attire, as you can see here.
-<p align="center">
-![Defense screenshot](https://www.subhayan.com/files/images/defense_attire_2.png)</p>
+
+![Defense screenshot](https://www.subhayan.com/files/images/defense_attire_2.png)
 
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjUyNzQxMiwtMTg5MTc4MDU3NywtOD
+eyJoaXN0b3J5IjpbLTE4OTQ1OTE0OCwtMTg5MTc4MDU3NywtOD
 A1MjU4MjYwLC04MDUyNTgyNjAsMTg0MTI3NzU4NywtNzMzMTMz
 NjgwXX0=
 -->
