@@ -53,12 +53,12 @@ I also love my defense attire, as you can see here.
 ![Defense screenshot](https://www.subhayan.com/files/images/defense_attire_2.png)
 
 --
-The slide deck of my defense presentation can be found [here](/files/
+The slide deck of my defense presentation can be found [here](https://www.subhayan.com/files/sm-defense-slides.pdf).
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQ0MDQwOTcsLTU5MzUxMTQyMywtMT
-k2MTEzMDQxNCwtMTExNjM2MjA0OCwzODc0NTY5MTUsLTE4OTQ1
-OTE0OCwtMTg5MTc4MDU3NywtODA1MjU4MjYwLC04MDUyNTgyNj
-AsMTg0MTI3NzU4NywtNzMzMTMzNjgwXX0=
+eyJoaXN0b3J5IjpbNzA4NDY1NzY4LC01OTM1MTE0MjMsLTE5Nj
+ExMzA0MTQsLTExMTYzNjIwNDgsMzg3NDU2OTE1LC0xODk0NTkx
+NDgsLTE4OTE3ODA1NzcsLTgwNTI1ODI2MCwtODA1MjU4MjYwLD
+E4NDEyNzc1ODcsLTczMzEzMzY4MF19
 -->
