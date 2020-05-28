@@ -11,7 +11,7 @@ redirect_from:
 ---
 ## Welcome to my personal webspace
 
-I am a PhD candidate at the [Annenberg School for Communication](https://www.asc.upenn.edu) of the [University of Pennsylvania](http://www.upenn.edu) where I am advised by [Dr. Sandra Gonzalez-Bailon](https://www.asc.upenn.edu/node/648). I am a member of the [DiMeNet research group](http://dimenet.asc.upenn.edu/) and the [DIG working group](https://www.asc.upenn.edu/research/working-groups/democracy-information-group).
+I am a computational social scientist with a PhD from the [Annenberg School for Communication](https://www.asc.upenn.edu) of the [University of Pennsylvania](http://www.upenn.edu) where I was advised by [Dr. Sandra Gonzalez-Bailon](https://www.asc.upenn.edu/node/648). 
 
 My area of research, broadly construed, is computational social science. To learn more, check out the [Research](./research) section.
 
@@ -23,8 +23,8 @@ I make up for not being very physically active by watching sports. I follow  [Fo
 
 I love to read, write, cook, and listen to podcasts, not necessarily in that order.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjg0MDc4OCwxNDQ1MzU1NjI3LC03ND
-EyODQ4OTEsLTE0MjA1MTQwMzcsLTMwMjMzODc0Myw4NzExNzc5
-NDQsLTIwMjk4Nzk2MzksLTcyMjU3ODc3OSwtMjAyOTg3OTYzOV
-19
+eyJoaXN0b3J5IjpbLTc2MTY2MTg3OCwtMTkyODQwNzg4LDE0ND
+UzNTU2MjcsLTc0MTI4NDg5MSwtMTQyMDUxNDAzNywtMzAyMzM4
+NzQzLDg3MTE3Nzk0NCwtMjAyOTg3OTYzOSwtNzIyNTc4Nzc5LC
+0yMDI5ODc5NjM5XX0=
 -->
