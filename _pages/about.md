@@ -11,9 +11,9 @@ redirect_from:
 ---
 ## Welcome to my personal webspace
 
-I am a computational social scientist with a PhD from the [Annenberg School for Communication](https://www.asc.upenn.edu) of the [University of Pennsylvania](http://www.upenn.edu) where I was advised by [Dr. Sandra Gonzalez-Bailon](https://www.asc.upenn.edu/node/648). 
+I am a computational social scientist with a PhD from the [Annenberg School for Communication](https://www.asc.upenn.edu) of the [University of Pennsylvania](http://www.upenn.edu) where I was advised by [Dr. Sandra Gonzalez-Bailon](https://www.asc.upenn.edu/node/648). To learn more about my doctoral research, check out the [Research](./research) section.
 
-My area of research, broadly construed, is computational social science. To learn more, check out the [Research](./research) section.
+I am headed to Singapore in the Fall of 2020, where I will be joining the National University of Singapore as Assistant Professor of Computational Communication.
 
 My interest in the field of computational social science stems largely from my love for Isaac Asimov's *Foundation* trilogy from a very young age. As a result, I generally tend to ponder ways in which large scale social phenomena can be usefully and formally modeled.
 
@@ -23,8 +23,8 @@ I make up for not being very physically active by watching sports. I follow  [Fo
 
 I love to read, write, cook, and listen to podcasts, not necessarily in that order.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTY2MTg3OCwtMTkyODQwNzg4LDE0ND
-UzNTU2MjcsLTc0MTI4NDg5MSwtMTQyMDUxNDAzNywtMzAyMzM4
-NzQzLDg3MTE3Nzk0NCwtMjAyOTg3OTYzOSwtNzIyNTc4Nzc5LC
-0yMDI5ODc5NjM5XX0=
+eyJoaXN0b3J5IjpbLTE5NDM2NTE2NzAsLTE5Mjg0MDc4OCwxND
+Q1MzU1NjI3LC03NDEyODQ4OTEsLTE0MjA1MTQwMzcsLTMwMjMz
+ODc0Myw4NzExNzc5NDQsLTIwMjk4Nzk2MzksLTcyMjU3ODc3OS
+wtMjAyOTg3OTYzOV19
 -->
