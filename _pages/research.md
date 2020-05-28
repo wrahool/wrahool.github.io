@@ -12,14 +12,14 @@ I am a computational social scientist, interested in studying news consumption a
 
 2. Developing computational (network science / data driven) methods for better studying audiences.
 
-3. Running online experiments to understand the microdynamics of partisan news selection.
+3. Running online experiments to understand the microdynamics of news selection.
 
 4. Running online experiments to understand the effects of partisan information consumption on social media.
 
 Check out my publications [here](./../publications).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODUyODQ5MTUsLTE0ODUzMjE4ODgsND
-M0Nzc1OTE3LDg3MTE3Nzk0NCwtMjAyOTg3OTYzOSwtNzIyNTc4
-Nzc5LC0yMDI5ODc5NjM5XX0=
+eyJoaXN0b3J5IjpbMTUyMjQ2NzIzMSwtMTc4NTI4NDkxNSwtMT
+Q4NTMyMTg4OCw0MzQ3NzU5MTcsODcxMTc3OTQ0LC0yMDI5ODc5
+NjM5LC03MjI1Nzg3NzksLTIwMjk4Nzk2MzldfQ==
 -->
