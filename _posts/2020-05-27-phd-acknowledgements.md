@@ -42,6 +42,7 @@ Last but definitely not the least, I had the unexpected fortune of getting to ma
 I will wrap up with a final tip of the hat to the many unnamed people, who have directly assisted me in my research - from individuals such as user har07 on StackOverflow to the heroes of the open-source community that have made wondrous things like R, Python, Zotero, Firefox, Git, and Linux possible. More power to all of you.
 
 --
+
 Official screenshot following my passing my defense:
 
 ![Defense screenshot](https://www.subhayan.com/files/images/defense-screenshot-cropped.png)
@@ -53,7 +54,8 @@ I also love my defense attire, as you can see here.
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTYzNjIwNDgsMzg3NDU2OTE1LC0xOD
-k0NTkxNDgsLTE4OTE3ODA1NzcsLTgwNTI1ODI2MCwtODA1MjU4
-MjYwLDE4NDEyNzc1ODcsLTczMzEzMzY4MF19
+eyJoaXN0b3J5IjpbLTE5NjExMzA0MTQsLTExMTYzNjIwNDgsMz
+g3NDU2OTE1LC0xODk0NTkxNDgsLTE4OTE3ODA1NzcsLTgwNTI1
+ODI2MCwtODA1MjU4MjYwLDE4NDEyNzc1ODcsLTczMzEzMzY4MF
+19
 -->
