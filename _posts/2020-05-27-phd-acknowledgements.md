@@ -25,7 +25,7 @@ Prof. Joe Turow - for being so illuminating in every conversation I have had wit
 
 Prof. Michael Delli Carpini - for always taking time out of his extraordinarily busy schedule as the former Dean - to respond to every email no matter how trite, to have in-person meetings, and even go out for lunch! He has been a model to emulate when it comes to balancing an incredibly high level of intellect with administrative acumen and personal affability. I feel truly thankful for knowing him over the past several years.
 
-Next, I would also like to thank Prof. Robert Hornik, Prof. Joe Cappella, and Prof. Marwan Kraidy for being significant sources of inspiration, instruction, and help along my way. Many of the things I learned in their classes have found direct application in my doctoral research, and for that, I am thankful.
+Next, I would also like to thank Prof. Robert Hornik, Prof. Joe Cappella,  Prof. Marwan Kraidy, and Prof. Paul Rosenbaum for being significant sources of inspiration, instruction, and help along my way. Many of the things I learned in their classes have found direct application in my doctoral research, and for that, I am thankful.
 
 It would be remiss to not acknowledge the entire staff at the Annenberg school for being the silent heroes behind every dissertation. In particular, I owe a huge debt of gratitude to Joanne Murray for being who she is. The more I hear about the logistical and administrative travails of international graduate students in other programs and universities, the more I feel grateful to Joanne for being there to iron out all glitches that I have faced. A special token of appreciation is also due for the  IT and library staff, particularly Elizabeth Cooper, and Sharon Black, for always being there when I have needed them.
 
@@ -53,7 +53,7 @@ I also love my defense attire, as you can see here.
 
 > *Written with [StackEdit](https://stackedit.io/)*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3NDU2OTE1LC0xODk0NTkxNDgsLTE4OT
-E3ODA1NzcsLTgwNTI1ODI2MCwtODA1MjU4MjYwLDE4NDEyNzc1
-ODcsLTczMzEzMzY4MF19
+eyJoaXN0b3J5IjpbLTExMTYzNjIwNDgsMzg3NDU2OTE1LC0xOD
+k0NTkxNDgsLTE4OTE3ODA1NzcsLTgwNTI1ODI2MCwtODA1MjU4
+MjYwLDE4NDEyNzc1ODcsLTczMzEzMzY4MF19
 -->
