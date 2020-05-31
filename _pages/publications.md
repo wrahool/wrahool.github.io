@@ -27,7 +27,7 @@ author_profile: true
 
 ## Book Chapters
 
-### 2019
+### 2020
 
 * **Mukerjee. S.** & Gonalez-Bailon, S. [Social Media Data: Quantitative Analysis](https://methods.sagepub.com/foundations/social-media-data-quantitative-analysis). In P. Atkinson, S. Delamont, A. Cernat, J.W. Sakshaug, & R.A. Williams (Eds.), *SAGE Research Methods Foundations*
 
@@ -50,6 +50,6 @@ Reuters Institute for the Study of Journalism Factsheet. [Media coverage](https:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODMzNzU3NSwyMDYzNTE3NDEsMTMyMT
-Q3NDk4OSwtNDU5ODI1NzU1XX0=
+eyJoaXN0b3J5IjpbLTk4MzkxMTEwNywxMjc4MzM3NTc1LDIwNj
+M1MTc0MSwxMzIxNDc0OTg5LC00NTk4MjU3NTVdfQ==
 -->
