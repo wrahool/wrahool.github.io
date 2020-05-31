@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2020
 
-* **Mukerjee, S.** & Yang, T. [Choosing to Avoid? A Conjoint Experimental Study to Understand Selective Exposure and Avoidance on Social Media](https://www.tandfonline.com/doi/ref/10.1080/10584609.2020.1763531?scroll=top). *Political Communication*.
+* **Mukerjee, S.** & Yang, T. [Choosing to Avoid? A Conjoint Experimental Study to Understand Selective Exposure and Avoidance on Social Media](https://www.tandfonline.com/doi/ref/10.1080/10584609.2020.1763531?scroll=top). *Political Communication*. 1-19
 
 
 ### 2018
@@ -50,6 +50,7 @@ Reuters Institute for the Study of Journalism Factsheet. [Media coverage](https:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzkxMTEwNywxMjc4MzM3NTc1LDIwNj
-M1MTc0MSwxMzIxNDc0OTg5LC00NTk4MjU3NTVdfQ==
+eyJoaXN0b3J5IjpbLTE0NTQ2MDEzNywtOTgzOTExMTA3LDEyNz
+gzMzc1NzUsMjA2MzUxNzQxLDEzMjE0NzQ5ODksLTQ1OTgyNTc1
+NV19
 -->
