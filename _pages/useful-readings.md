@@ -11,7 +11,7 @@ This is a (totally) incomplete list of papers I've read that I've found useful. 
 - [How to Read a Paper by S. Keshav](/files/keshav-read-paper.pdf)
 - [Negative Probability by Richard Feynman](/files/feynman-negative-probability.pdf)
 - Should social science be more solution oriented by Duncan Watts
-- Fuck Nuance by Kieran Healy
+- [Fuck Nuance by Kieran Healy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTQ5MDgzN119
+eyJoaXN0b3J5IjpbLTk1NzM2NDQ4OF19
 -->
