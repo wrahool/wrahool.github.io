@@ -281,6 +281,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+    # _useful-readings
+  - scope:
+      path: ""
+      type: useful-readings
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
