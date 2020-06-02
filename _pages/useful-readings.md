@@ -6,12 +6,12 @@ author_profile: true
 redirect_from:
 ---
 ## Useful Readings
-This is a (totally) incomplete list of papers I've read that I've found useful. I'll update this list as and when I find newer articles:
+This is a (totally) incomplete list of papers I've read that I've found useful, interesting, or insightful. I'll update this list as and when I find newer articles:
 
 - [*How to Read a Paper* by S. Keshav](/files/keshav-read-paper.pdf)
 - [*Negative Probability* by Richard Feynman](/files/feynman-negative-probability.pdf)
 - [*Should social science be more solution oriented* by Duncan Watts](/files/watts-social-science-solution-oriented.pdf)
 - [*Fuck Nuance* by Kieran Healy](/files/healy-fuck-nuance.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTg2Mjg3Nl19
+eyJoaXN0b3J5IjpbLTIwOTM2OTg3NCwtOTAxODYyODc2XX0=
 -->
