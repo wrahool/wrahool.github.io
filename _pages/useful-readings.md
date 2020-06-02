@@ -12,6 +12,7 @@ This is a (totally) incomplete list of papers I've read that I've found useful. 
 - [*Negative Probability* by Richard Feynman](/files/feynman-negative-probability.pdf)
 - [*Should social science be more solution oriented* by Duncan Watts](/files/watts-social-science-solution-oriented.pdf)
 - [*Fuck Nuance* by Kieran Healy](/files/healy-fuck-nuance.pdf)
+- [*How to Translate a Verbal Theory into a Formal Model* by Paul Smaldino](/files/smaldino-theory-model.pdf)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTkwMTg2Mjg3Nl19
 -->
