@@ -1,5 +1,5 @@
 ---
-title: 'A pensive note about my PhD journey'
+title: 'A (somewhat) pensive note about my PhD journey'
 date: 2020-05-27
 permalink: /posts/2020/06/phd-trajectory/
 tags:
@@ -15,5 +15,5 @@ Maybe Wittgenstein was right when he said, "only describe, don't explain".
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTExMzU5OF19
+eyJoaXN0b3J5IjpbMTQ2NjY4MTczNSwtMjM5MTEzNTk4XX0=
 -->
