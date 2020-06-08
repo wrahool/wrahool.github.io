@@ -11,10 +11,10 @@ As a social scientist by training, I often feel duty-bound to ask questions of c
 
 Maybe Wittgenstein was right when he said, "only describe, don't explain".
 
-![PhD champagne](https://www.subhayan.com/files/images/phd-champagne.jpg | width 70)
+![PhD champagne](https://www.subhayan.com/files/images/phd-champagne.jpg)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODA1NDkxOCwzMjkwMjEyNTYsMTQ2Nj
-Y4MTczNSwtMjM5MTEzNTk4XX0=
+eyJoaXN0b3J5IjpbMTQ2NjY4MTczNSwxMTY4MDU0OTE4LDMyOT
+AyMTI1NiwxNDY2NjgxNzM1LC0yMzkxMTM1OThdfQ==
 -->
