@@ -1,5 +1,5 @@
 ---
-title: 'PhD Acknowledgments'
+title: 'A pensive not'
 date: 2020-05-27
 permalink: /posts/2020/06/phd-trajectory/
 tags:
@@ -15,6 +15,6 @@ Maybe Wittgenstein was right when he said, "only describe, don't explain".
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY4NzgxNDYsLTEwMTY4NzgxNDYsLT
-ExMzUxOTI1NzBdfQ==
+eyJoaXN0b3J5IjpbLTY0MjE1NjI0LC0xMDE2ODc4MTQ2LC0xMT
+M1MTkyNTcwXX0=
 -->
