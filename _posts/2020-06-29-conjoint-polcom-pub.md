@@ -1,7 +1,7 @@
 ---
 title: 'Publication in Political Communication'
-date: 2020-06-08
-permalink: /posts/2020/06/conjoint-polcom-p/
+date: 2020-06-29
+permalink: /posts/2020/06/conjoint-polcom-pub/
 tags:
   - personal
   - research
@@ -12,7 +12,7 @@ We really had no reason to. Back then, both Tian and I did purely observational 
 
 My favorite part of this paper is that it had virtually no faculty supervision. Of course, while we had lab-mates and advisors who provided helpful feedback to see it through till the end, it was largely Tian and I, carefully managing our meagre research funding, Skyping once every fortnight, and scratching our heads through most of 2019.
 
-Find it here: https://www.tandfonline.com/doi/ref/10.1080/10584609.2020.1763531
+Find it [here](https://www.tandfonline.com/doi/ref/10.1080/10584609.2020.1763531).
 
 Hit me up for ungated access!
 
