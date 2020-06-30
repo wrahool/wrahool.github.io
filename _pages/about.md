@@ -22,9 +22,3 @@ I have a Bachelor of Engineering degree in Computer Science and a Master of Scie
 I make up for not being very physically active by watching sports. I follow  [Formula 1](http://formula1.com/), and am a supporter of [Arsenal Football Club](https://www.arsenal.com/). Yes, it's football, not soccer.
 
 I love to read, write, cook, and listen to podcasts, not necessarily in that order.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDg3NDMwMywtMTkyODQwNzg4LDE0ND
-UzNTU2MjcsLTc0MTI4NDg5MSwtMTQyMDUxNDAzNywtMzAyMzM4
-NzQzLDg3MTE3Nzk0NCwtMjAyOTg3OTYzOSwtNzIyNTc4Nzc5LC
-0yMDI5ODc5NjM5XX0=
--->

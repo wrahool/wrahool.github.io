@@ -81,8 +81,3 @@ The Communication Research Experience Undergraduate Seminar
 ### 2017
 
 * **Mukerjee, S.**, Majo-Vazquez, S., & Gonzalez-Bailon, S. Are AudiencesFragmented in How They Consume News Online? *The 67th Annual Conference ofthe International Communication Association* San Diego, CA, USA
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzk2MjM5NzMsLTE2NzY0NTI4NjYsMj
-A2NDY0OTQxMV19
--->

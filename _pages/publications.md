@@ -47,10 +47,3 @@ Reuters Institute for the Study of Journalism Factsheet. [Media coverage](https:
 ### 2012
 
 * **Mukerjee, S.** An Open World. *Linux For You* (June 2012) print issue
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ2MDEzNywtOTgzOTExMTA3LDEyNz
-gzMzc1NzUsMjA2MzUxNzQxLDEzMjE0NzQ5ODksLTQ1OTgyNTc1
-NV19
--->

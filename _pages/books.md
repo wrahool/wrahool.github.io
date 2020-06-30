@@ -37,6 +37,3 @@ This list would be incomplete without mentioning some writers whose books and st
 - Sharadindu Bandyopadhyay
 - Roald Dahl
 - P. G. Wodehouse
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDg2NDg4Miw5MTk3NzkxNjJdfQ==
--->

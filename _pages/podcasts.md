@@ -23,6 +23,3 @@ This list would be incomplete without mentioning the auditory staples for all Ar
 
 - [Arsecast](https://arseblog.com/arsecasts/)
 - [The Arsenal Vision Podcast](https://www.arsenalvisionpodcast.com/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODcxMzExNiw3MzA5OTgxMTZdfQ==
--->

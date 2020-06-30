@@ -20,7 +20,6 @@ TV shows that I have enjoyed (and enjoy) watching -
 - Star Trek The Original Series
 - Silicon Valley
 - Fawlty Towers
-- Parks and Recreation
 - Top Gear
 - The Grand Tour
 - The Handmaid's Tale
@@ -30,6 +29,3 @@ TV shows that I have enjoyed (and enjoy) watching -
 - BoJack Horseman
 - A Bit of Fry and Laurie
 - Monty Python's Flying Circus
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQxMzU4NTJdfQ==
--->
