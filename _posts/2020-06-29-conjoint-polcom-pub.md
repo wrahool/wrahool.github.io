@@ -16,6 +16,4 @@ Find it [here](https://www.tandfonline.com/doi/ref/10.1080/10584609.2020.1763531
 
 Hit me up for ungated access!
 
-![polcomm conjoint screngrab](https://www.subhayan.com/files/images/polcomm-conjoint.png)
-
-> Written on [RStudio](https://rstudio.com/).
+![polcomm conjoint screengrab](https://www.subhayan.com/files/images/polcomm-conjoint.png)

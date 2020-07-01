@@ -53,10 +53,3 @@ I also love my defense attire, as you can see here.
 
 The slide deck of my defense presentation can be found [here](https://www.subhayan.com/files/sm-defense-slides.pdf).
 
-> *Written with [StackEdit](https://stackedit.io/)*.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc1NDQyOTEsNzA4NDY1NzY4LC01OT
-M1MTE0MjMsLTE5NjExMzA0MTQsLTExMTYzNjIwNDgsMzg3NDU2
-OTE1LC0xODk0NTkxNDgsLTE4OTE3ODA1NzcsLTgwNTI1ODI2MC
-wtODA1MjU4MjYwLDE4NDEyNzc1ODcsLTczMzEzMzY4MF19
--->
