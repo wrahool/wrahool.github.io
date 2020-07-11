@@ -1,6 +1,6 @@
 ---
 title: 'Byline in the Washington Post!'
-date: 2020-06-29
+date: 2020-07-11
 permalink: /posts/2020/06/twitter-wapo-pub/
 tags:
   - personal
