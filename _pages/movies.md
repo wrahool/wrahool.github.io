@@ -11,6 +11,7 @@ Here are a few movies that left a mark on me -
 - Dead Poets Society
 - Interstellar
 - Hugo
+- Gravity
 - Blade Runner (the original as well as 2049)
 - Back to the Future (all three)
 - Lion King
@@ -22,7 +23,3 @@ Here are a few movies that left a mark on me -
 - Rush
 - Ford v Ferrari
 - Deadpool
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTQyODczOV19
--->
