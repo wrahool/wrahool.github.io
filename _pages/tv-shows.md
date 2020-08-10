@@ -28,5 +28,6 @@ TV shows that I have enjoyed (and enjoy) watching -
 - Brooklyn Nine Nine
 - Firefly
 - BoJack Horseman
+- Chernobyl
 - A Bit of Fry and Laurie
 - Monty Python's Flying Circus
