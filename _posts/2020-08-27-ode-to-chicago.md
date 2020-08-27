@@ -41,7 +41,7 @@ By February 2020, when we were beginning to see the light at the end of the grad
 
 In the end, it felt like bidding an emotionally insufficient farewell to someone you have adored. You watch them walk away into the station, and a part of you expects them to turn around every few steps and wave. You want to see their face for one last time before they disappear from your view. Except that in this case, they never did. They just walked away.
 
-{% include image.html url="https://www.subhayan.com/files/images/chicago-flyingin.jpg" description="An ode to Chicago is incomplete with a reference the brutal winters. This shot was taken just before landing at Midway Apirport, on one particularly bad day" %}
+{% include image.html url="https://www.subhayan.com/files/images/chicago-flyingin.jpg" description="An incomplete ode to Chicago is even more incomplete without a reference to the brutal winters. This shot was taken just before landing at Midway Apirport, on one particularly bad day" %}
 
 {% include image.html url="https://www.subhayan.com/files/images/chicago-bean.jpg" description="Clicked during our final visit to (a desolate) downtown. The iconic bean during the height of a global pandemic" %}
 
