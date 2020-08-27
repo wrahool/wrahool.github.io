@@ -1,5 +1,5 @@
 ---
-title: 'Byline in the Washington Post!'
+title: 'Chicago: An Incomplete Ode'
 date: 2020-08-27
 permalink: /posts/2020/08/ode-to-chicago/
 tags:
