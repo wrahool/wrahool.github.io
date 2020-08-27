@@ -27,7 +27,7 @@ When we weren't cooking, exploring the city, or grinding away in front of our co
 
 {% include image.html url="https://www.subhayan.com/files/images/chicago-downtown2.jpg" description="The view from Willis Tower after sunset" %}
 
-{% include image.html url="https://www.subhayan.com/files/images/chicago-downtown1.jpg" description="The Chicago river at night" %}
+{% include image.html url="https://www.subhayan.com/files/images/chicago-river.jpg" description="The Chicago river at night" %}
 
 Gradually, as the dissertations began to take their respective shapes, and the job hunts began to take over our lives, the romance of the city took a backseat. Chicago receded into the distance, no longer the showstopper - no longer the Freddie Mercury piercing our souls with his high E, but rather, the John Deacon, who kept things ticking along with the hum of his bass. And not unlike Deacon's occasional sprinkling of magic that can make you sit up straight, the city could amuse you with quirky surprises as well; be it the Christkindlmarket at Daley Plaza with its hot spiced wine in the dead of winter, or the pistachio pesto pizza at Coalfire, which we both agreed, was the greatest pizza there could be; the Italian festival on Taylor Street and its scrumptious cannolis, or the air-and-water show over Lake Michigan on a breezy summer's day. And how could I ever forget watching Dream Theater live (albeit for a third time) in Chicago Theater? The city was great because it had so much to offer if you wanted something, but it would also leave you alone - occasional gunshot aside - if you weren't in the mood and wanted a quiet evening indoors.
 
@@ -42,8 +42,6 @@ By February 2020, when we were beginning to see the light at the end of the grad
 In the end, it felt like bidding an emotionally insufficient farewell to someone you have adored. You watch them walk away into the station, and a part of you expects them to turn around every few steps and wave. You want to see their face for one last time before they disappear from your view. Except that in this case, they never did. They just walked away.
 
 {% include image.html url="https://www.subhayan.com/files/images/chicago-flyingin.jpg" description="An ode to Chicago is incomplete with a reference the brutal winters. This shot was taken just before landing at Midway Apirport, on one particularly bad day" %}
-
-{% include image.html url="https://www.subhayan.com/files/images/chicago-snow.jpg" description="At other times, however, the snow could be fun!" %}
 
 {% include image.html url="https://www.subhayan.com/files/images/chicago-bean.jpg" description="Clicked during our final visit to (a desolate) downtown. The iconic bean during the height of a global pandemic" %}
 
