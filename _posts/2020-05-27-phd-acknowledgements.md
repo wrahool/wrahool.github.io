@@ -43,11 +43,11 @@ I will wrap up with a final tip of the hat to the many unnamed people, who have 
 
 Official screenshot following my passing my defense:
 
-![Defense screenshot](https://www.subhayan.com/files/images/defense-screenshot-cropped.png)
+![Defense screenshot](../files/images/defense-screenshot-cropped.png)
 
 I also love my defense attire, as you can see here.
 
-![Defense screenshot](https://www.subhayan.com/files/images/defense_attire_2.png)
+![Defense screenshot](../files/images/defense_attire_2.png)
 
 --
 
