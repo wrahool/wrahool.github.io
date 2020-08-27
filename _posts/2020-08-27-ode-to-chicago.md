@@ -1,7 +1,7 @@
 ---
 title: 'Byline in the Washington Post!'
-date: 2020-07-12
-permalink: /posts/2020/07/twitter-wapo-pub2/
+date: 2020-08-27
+permalink: /posts/2020/08/ode-to-chicago/
 tags:
   - personal
   - research
