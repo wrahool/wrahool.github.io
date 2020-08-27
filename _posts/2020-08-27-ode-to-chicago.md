@@ -3,7 +3,7 @@ title: 'Chicago: An Incomplete Ode'
 date: 2020-08-28
 permalink: /posts/2020/08/ode-to-chicago/
 tags:
-- personal
+  - personal
 ---
   
 One block away from our apartment on W Polk Street in Chicago was *Jarabe*, arguably the - indulge me for a moment - greatest Mexican street food place in the world. When they first opened shop back in 2016, my taste in Mexican food was limited to the few places in and around University City in West Philadelphia. *Ugly Delicious* hadn't begun streaming on Netflix, so South Philly Barbacoa was still unknown to me.
