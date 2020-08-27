@@ -1,6 +1,6 @@
 ---
 title: 'Chicago: An Incomplete Ode'
-date: 2020-08-28
+date: 2020-08-26
 permalink: /posts/2020/08/ode-to-chicago/
 tags:
   - personal
