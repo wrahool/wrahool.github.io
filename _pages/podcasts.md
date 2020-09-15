@@ -14,7 +14,6 @@ Here are some podcasts I typically listen to -
 - [Science Vs - Gimlet](https://gimletmedia.com/shows/science-vs)
 - [Throughline - NPR](https://www.npr.org/podcasts/510333/throughline)
 - [Today Explained - Vox](https://www.vox.com/today-explained)
-- [Artificial Intelligence Podcast](https://lexfridman.com/ai/)
 - [Attention Pliss!](https://anchor.fm/appodcast)
 - [Philosophize This!](http://philosophizethis.org/)
 - [Rationally Speaking](http://rationallyspeakingpodcast.org/)
