@@ -11,6 +11,7 @@ TV shows that I have enjoyed (and enjoy) watching -
 - Battlestar Galactica
 - Breaking Bad
 - Veep
+- Peaky Blinders
 - Black Adder
 - Fraiser
 - The Americans
