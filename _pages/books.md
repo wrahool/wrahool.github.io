@@ -11,6 +11,7 @@ Some of my favorite (fiction and non-fiction) books/authors -
 - *Foundation trilogy* by Issac Asimov
 - *Logicomix* by Apostolos Doxiadis and Christos Papadimitriou
 - *The Emperor of all Maladies* by Siddhartha Mukherjee
+- *Genome* by Matt Ridley
 - *The Harry Potter Series* by J. K. Rowling
 - *The Adventures of Tintin* by Hergé
 - *Asterix and Obelix* by  Albert Uderzo and René Goscinny
