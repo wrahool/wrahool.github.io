@@ -15,16 +15,20 @@ TV shows that I have enjoyed (and enjoy) watching -
 - Black Adder
 - Fraiser
 - The Americans
+- Narcos
 - The Marvellous Mrs. Maisel
 - Fleabag
 - Arrested Development
+- Afterlife
 - Star Trek The Original Series
 - Silicon Valley
+- Mindhunter
 - Fawlty Towers
 - Top Gear
 - The Grand Tour
 - Formula 1: Drive to Survive
 - The Handmaid's Tale
+- Ozark
 - Black Mirror
 - Brooklyn Nine Nine
 - Firefly
