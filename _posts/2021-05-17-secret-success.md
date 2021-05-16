@@ -21,4 +21,4 @@ Henrich gives dozens of examples of how, more generally, cultural practices have
 
 ![The Secret of Our Success](https://www.subhayan.com/files/images/secret-success.jpg)
 
-*The Secret of Our Success. Check it out on Princeton University Press*
+*The Secret of Our Success. Check it out on [the publisher's webpage](https://press.princeton.edu/books/paperback/9780691178431/the-secret-of-our-success)*
