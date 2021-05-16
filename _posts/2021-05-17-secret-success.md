@@ -4,6 +4,9 @@ date: 2021-05-17
 permalink: /posts/2021/05/secret-success/
 tags:
   - personal
+  - books
+  - science
+  - social science
 ---
 
 I recently read a fascinating book on the story of human evolution called ``The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter'' written by Joseph Henrich, professor of evolutionary biology at Harvard University. Notwithstanding the tedious title, it altered how I fundamentally think about human beings as a biological species. In this post, I would like to record a couple of things that particularly caught my attention, and made me update my priors.
@@ -21,4 +24,4 @@ Henrich gives dozens of examples of how, more generally, cultural practices have
 
 ![The Secret of Our Success](https://www.subhayan.com/files/images/secret-success.jpg)
 
-*The Secret of Our Success. Check it out on [the publisher's webpage](https://press.princeton.edu/books/paperback/9780691178431/the-secret-of-our-success)*
+*The Secret of Our Success* by Joseph Henrich. Check it out on [the publisher's webpage](https://press.princeton.edu/books/paperback/9780691178431/the-secret-of-our-success)
