@@ -8,10 +8,6 @@ tags:
 
 I recently read a fascinating book on the story of human evolution called ``The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter'' written by Joseph Henrich, professor of evolutionary biology at Harvard University. Notwithstanding the tedious title, it altered how I fundamentally think about human beings as a biological species. In this post, I would like to record a couple of things that particularly caught my attention, and made me update my priors.
 
-![The Secret of Our Success](https://www.subhayan.com/files/images/secret-success.jpg)
-
-*The Secret of Our Success. Check it out on Princeton University Press*
-
 The first is the rebuttal of the idea that humans are extremely intelligent as individuals compared to other species: they are not. Henrich provides several examples -- by recounting tales of lost European explorers from centuries past to more recent lab experiments on intelligence -- to demonstrate how humans, when left to the elements and/or by themselves, struggle. Not only are comparable primates as intelligent at solving laboratory problems by themselves, many so-called ``lower species'' are more likely to survive by themselves in the wild than modern humans are -- even in conditions where human hunter-gatherers have lived in societies for thousands of years.
 
 Henrich theorizes that the reason behind why humans have succeeded is not individual intelligence -- but, because of cultural knowledge built up over generations. This has given rise to a ''collective brain'' that gathered survival know-how through social learning *between* individuals -- which then evolved a la ''cultural evolution'' over millenia. Lab experiments further lend credence to this theory: the same human babies that struggled against comparable primates at the same tasks individually, comfortably beat their ape cousins when working together in groups.
@@ -22,3 +18,7 @@ This remarkable genetic shift was driven by the advent of agriculture -- which w
 
 Henrich gives dozens of examples of how, more generally, cultural practices have shaped our biology today: from perspiration and the lack of fur on our skin enabling us to track and hunt prey in groups over long distances, to our digestive system accommodating socially learned cooking practices over generations. The point that he repeatedly makes with all these examples, is that cultural evolution has gone hand-in-hand with biological evolution. Not only have we done what our biology has enabled to do, but that our extreme capacity to learn socially and *culturally* has also changed our biology to allow us to harness the full potential of our cultural knowledge: this, Henrich argues, is the secret of our success.
 
+
+![The Secret of Our Success](https://www.subhayan.com/files/images/secret-success.jpg)
+
+*The Secret of Our Success. Check it out on Princeton University Press*
