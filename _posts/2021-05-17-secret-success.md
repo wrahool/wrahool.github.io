@@ -10,7 +10,7 @@ I recently read a fascinating book on the story of human evolution called ``The 
 
 {% include image.html url="https://www.subhayan.com/files/images/secret-success.jpg" description="The Secret of Our Success" %}
 
-<img src="https://www.subhayan.com/files/images/secret-success.jpg" width="50"/>
+![The Secret of Our Success](https://www.subhayan.com/files/images/secret-success.jpg)
 
 The first is the rebuttal of the idea that humans are extremely intelligent as individuals compared to other species: they are not. Henrich provides several examples -- by recounting tales of lost European explorers from centuries past to more recent lab experiments on intelligence -- to demonstrate how humans, when left to the elements and/or by themselves, struggle. Not only are comparable primates as intelligent at solving laboratory problems by themselves, many so-called ``lower species'' are more likely to survive by themselves in the wild than modern humans are -- even in conditions where human hunter-gatherers have lived in societies for thousands of years.
 
