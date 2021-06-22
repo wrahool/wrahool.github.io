@@ -30,6 +30,7 @@ Some of my favorite (fiction and non-fiction) books/authors -
 - *Maus* by Art Spiegelman
 - *Everything is Obvious* by Duncan Watts
 - *The Last Lecture* by Randy Pausch
+- *The Three Body Problem* by Liu Cixin
 - *One, Two, Three ... Infinity* by George Gamow
 - *Physics for Entertainment* by Yakov Perelman
 - *The Count of Monte Cristo* by Alexandre Dumas
@@ -39,6 +40,8 @@ This list would be incomplete without mentioning some writers whose books and st
 
 - R. K. Narayan
 - Ruskin Bond
+- Isaac Asimov
 - Sharadindu Bandyopadhyay
 - Roald Dahl
+- Arthur Clarke
 - P. G. Wodehouse
