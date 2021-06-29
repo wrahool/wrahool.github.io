@@ -3,7 +3,6 @@ title: 'Gene-culture evolution and the Secret of our Success'
 date: 2021-05-17
 permalink: /posts/2021/05/secret-success/
 tags:
-  - personal
   - books
   - science
   - social science
