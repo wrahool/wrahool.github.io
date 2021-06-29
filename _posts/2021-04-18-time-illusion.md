@@ -15,5 +15,7 @@ Gödel's idea about the rotating universe, though intriguing, came to Einstein at
 
 The truth was, what Gödel had discovered - hidden deep within the cold equations of the general theory of relativity - was a universe that, by rotating on an axis, mixed space and time in a way that would allow anyone undertaking a long-enough trip, to travel back and forth in time. Gödel, the ever-immaculate logician, had an interesting interpretation of this theory. He opined that if time-travel is possible, then what has passed has not really passed, if the laws of physics - encoded in abstract mathematical equations - allowed one to revisit it. He thus came to a conclusion which was scarcely less startling than his more famous Incompleteness Theorems: that in such a universe, that could very well be ours, time could not exist.
 
+![Gödel and Einstein](https://www.subhayan.com/files/images/godel-einstein.jpg)
+
 Reference:
 Yourgrau, P. (2009). A world without time: The forgotten legacy of Godel and Einstein. Basic Books
