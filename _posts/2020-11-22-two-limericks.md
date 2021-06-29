@@ -9,16 +9,16 @@ tags:
 
 1
 
-There was a man named Pythagoras
-Who once munched on a chocolatey torus
-But the sweet sugary excesses
-Made him middle-part his tresses
-And he created an equation for us.
+There was a man named Pythagoras \\
+Who once munched on a chocolatey torus \\
+But the sweet sugary excesses \\
+Made him middle-part his tresses \\
+And he created an equation for us. \\
 
 2
 
-On one fine day did Descartes
-Take the night bus to Stuttgart
-But the rectangular coordinates of the place
-Put a grimace on his face
-With a heavy heart did he depart
+On one fine day did Descartes \\
+Take the night bus to Stuttgart \\
+But the rectangular coordinates of the place \\
+Put a grimace on his face \\
+With a heavy heart did he depart \\
