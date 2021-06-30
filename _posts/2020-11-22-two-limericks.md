@@ -7,8 +7,8 @@ tags:
   - creativity
 ---
 
-*One*
-------
+### *One*
+
 
 There was a man named Pythagoras \\
 Who once munched on a chocolatey torus \\
@@ -16,8 +16,7 @@ But the sweet sugary excesses \\
 Made him middle-part his tresses \\
 And he created an equation for us.
 
-*Two*
-------
+### *Two*
 
 On one fine day did Descartes \\
 Take the night bus to Stuttgart \\
