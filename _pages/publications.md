@@ -7,9 +7,12 @@ author_profile: true
 
 ## Refereed Publications
 
-### 2020
+### 2021
 
-* **Mukerjee, S.** & Yang, T. [Choosing to Avoid? A Conjoint Experimental Study to Understand Selective Exposure and Avoidance on Social Media](https://www.tandfonline.com/doi/ref/10.1080/10584609.2020.1763531?scroll=top). *Political Communication*. 1-19
+* **Mukerjee, S.** A Systematic Comparison of Community Detection Algo-rithms for Measuring Selective Exposure in Co-exposure Networks. *Scientific Reports*. 
+(forthcoming)
+
+* **Mukerjee, S.** & Yang, T. [Choosing to Avoid? A Conjoint Experimental Study to Understand Selective Exposure and Avoidance on Social Media](https://www.tandfonline.com/doi/ref/10.1080/10584609.2020.1763531?scroll=top). *Political Communication*. 38(3), 222-240.
 
 
 ### 2018
@@ -18,12 +21,17 @@ author_profile: true
 
 ### 2016
 
-* **Mukerjee, S.**. [Net neutrality, Facebook, and India’s battle to #SaveTheInternet](https://journals.sagepub.com/doi/abs/10.1177/2057047316665850). *Communication and the Public*, 1(3), 356–361.
+* **Mukerjee, S.**. [Net neutrality, Facebook, and India’s battle to #SaveTheInternet](https://journals.sagepub.com/doi/abs/10.1177/2057047316665850). *Communication and the Public*, 1(3), 356-361.
 
 ## Under Review
 
-* **Mukerjee, S**, Jaidka, K., Lelkes, Y. The Ideological Landscape of Elites on Twitter
-*  **Mukerjee, S**, Yang, T., Stadler, G., Gonzalez-Bailon, S. What Counts as a Weak Tie? A Comparison of Filtering Techniques to Analyze Co-Exposure to News
+*  **Mukerjee, S**, Yang, T., Stadler, G., Gonzalez-Bailon, S. What Counts as a Weak Tie? A Comparison of Filtering Techniques to Analyze Co-Exposure to News (revise \& resubmit)
+
+*  **Mukerjee, S.** Rethinking Audience Fragmentation Using a Theory of News Read-ing Publics: India as a Case Study (revise \& resubmit)
+
+*  **Mukerjee, S.** Digital News Consumption in India (under review)
+
+*  **Mukerjee, S.**, Jaidka, L., & Lelkes, Y.The Political Landscape of the U.S. Twitterverse (under review)
 
 ## Book Chapters
 
