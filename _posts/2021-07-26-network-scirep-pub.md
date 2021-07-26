@@ -1,6 +1,6 @@
 ---
 title: 'Publication in Scientific Reports'
-date: 2020-06-29
+date: 2021-07-26
 permalink: /posts/2021/07/network-scirep-pub/
 tags:
   - personal
@@ -11,4 +11,4 @@ Excited to have my first solo authored peer-reviewed journal article published t
 
 Find it [here](https://www.nature.com/articles/s41598-021-94724-1). (open access)
 
-![scirep networks screengrab](../files/images/scirep-network-model.png)
+![scirep networks screengrab](https://www.subhayan.com/files/images/scirep-network-model.png)
