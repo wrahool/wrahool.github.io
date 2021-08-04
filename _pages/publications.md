@@ -9,10 +9,9 @@ author_profile: true
 
 ### 2021
 
-* **Mukerjee, S.** A Systematic Comparison of Community Detection Algo-rithms for Measuring Selective Exposure in Co-exposure Networks. *Scientific Reports*. 
-(forthcoming)
+* **Mukerjee, S.** [A Systematic Comparison of Community Detection Algo-rithms for Measuring Selective Exposure in Co-exposure Networks](https://www.nature.com/articles/s41598-021-94724-1). *Scientific Reports*. 11(1). 1-11.
 
-* **Mukerjee, S.** & Yang, T. [Choosing to Avoid? A Conjoint Experimental Study to Understand Selective Exposure and Avoidance on Social Media](https://www.tandfonline.com/doi/ref/10.1080/10584609.2020.1763531?scroll=top). *Political Communication*. 38(3), 222-240.
+* **Mukerjee, S.** & Yang, T. [Choosing to Avoid? A Conjoint Experimental Study to Understand Selective Exposure and Avoidance on Social Media](https://www.tandfonline.com/doi/abs/10.1080/10584609.2020.1763531). *Political Communication*. 38(3), 222-240.
 
 
 ### 2018
