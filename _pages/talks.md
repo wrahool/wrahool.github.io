@@ -9,6 +9,17 @@ author_profile: true
 
 ## Invited Lectures
 
+### 2021
+
+* Summer Institute in Computational Social Science (SICSS), Beijing, China<br>
+Network Analysis Guest Lecture <br>
+
+* National University of Singapore, Singapore<br>
+Communication Theories Guest Lecture<br>
+
+* University of Pennsylvania, Philadelphia, PA, USA<br>
+Digital Media, Networks and Political Communication Group<br>
+
 ### 2020 
 
 * Massachusetts Institute of Technology, Cambridge, MA, USA<br>
@@ -39,6 +50,16 @@ The Communication Research Experience Undergraduate Seminar
 ## Conference Presentations
 
 ### 2020
+
+* Jaidka, K., **Mukerjee, S.**, Lelkes, Y. An audit of Twitter's shadowban sanctions in the United States. *The 7th International Conference on Computational Social Science*, ETH Zurich, Switzerland
+    
+* **Mukerjee, S.** Measuring Selective Exposure: A Systematic Comparison of the Application of Community Detection Algorithms in Theoretical and Empirical Co-exposure Networks". *The 7th International Conference on Computational Social Science*, ETH Zurich, Switzerland
+
+* **Mukerjee, S.** A Systematic Comparison of the Application of Community Detection Algorithms in Theoretical and Empirical Co-exposure Networks *Networks 2021: A Joint Conference of Sunbelt and Network Science* virtual
+
+* **Mukerjee, S.**, (2021) Measuring Selective Exposure: A Systematic Comparison of Community Detection Algorithms in Coexposure Networks *The 71st Annual Conference of the International Conference Association*, Denver, CO.
+
+* **Mukerjee, S.**, (2020) A Network Model of Selective Exposure and Audience Behavior Using Community Detection *The 9th International Conference on Complex Networks and their Applications*, Madrid, Spain.
 
 * **Mukerjee, S.**, Jaidka, K., & Lelkes, Y. (accepted) The Ideological Landscape of American Elites on Twitter. *The 6th International Conference on Computational Social Science* MIT, Cambridge, MA, USA
 
