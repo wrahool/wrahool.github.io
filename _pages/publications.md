@@ -7,6 +7,10 @@ author_profile: true
 
 ## Refereed Publications
 
+### 2022
+
+*  **Mukerjee, S**, Yang, T., Stadler, G., Gonzalez-Bailon, S. [What Counts as a Weak Tie? A Comparison of Filtering Techniques to Analyze Co-Exposure to News](https://www.sciencedirect.com/science/article/pii/S0378873321000836). *Social Networks*. 68, 386-393.
+
 ### 2021
 
 * **Mukerjee, S.** [A Systematic Comparison of Community Detection Algo-rithms for Measuring Selective Exposure in Co-exposure Networks](https://www.nature.com/articles/s41598-021-94724-1). *Scientific Reports*. 11(1). 1-11.
@@ -20,17 +24,17 @@ author_profile: true
 
 ### 2016
 
-* **Mukerjee, S.**. [Net neutrality, Facebook, and India’s battle to #SaveTheInternet](https://journals.sagepub.com/doi/abs/10.1177/2057047316665850). *Communication and the Public*, 1(3), 356-361.
+* **Mukerjee, S.**. [Net neutrality, Facebook, and India's battle to #SaveTheInternet](https://journals.sagepub.com/doi/abs/10.1177/2057047316665850). *Communication and the Public*, 1(3), 356-361.
 
 ## Under Review
 
-*  **Mukerjee, S**, Yang, T., Stadler, G., Gonzalez-Bailon, S. What Counts as a Weak Tie? A Comparison of Filtering Techniques to Analyze Co-Exposure to News (revise \& resubmit)
 
-*  **Mukerjee, S.** Rethinking Audience Fragmentation Using a Theory of News Read-ing Publics: India as a Case Study (revise \& resubmit)
+*  **Mukerjee, S.** Rethinking Audience Fragmentation Using a Theory of News Read-ing Publics: India as a Case Study (revise and resubmit)
+
+*  **Mukerjee, S.**, Jaidka, L., & Lelkes, Y.The Political Landscape of the U.S. Twitterverse (revise and resubmit)
 
 *  **Mukerjee, S.** Digital News Consumption in India (under review)
 
-*  **Mukerjee, S.**, Jaidka, L., & Lelkes, Y.The Political Landscape of the U.S. Twitterverse (under review)
 
 ## Book Chapters
 
