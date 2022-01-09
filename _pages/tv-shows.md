@@ -15,6 +15,7 @@ TV shows that I have enjoyed (and enjoy) watching -
 - Black Adder
 - Fraiser
 - The Americans
+- QI
 - Narcos
 - The Marvellous Mrs. Maisel
 - Fleabag
