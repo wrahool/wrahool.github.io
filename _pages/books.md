@@ -12,6 +12,7 @@ Some of my favorite (fiction and non-fiction) books/authors -
 - *Logicomix* by Apostolos Doxiadis and Christos Papadimitriou
 - *The Emperor of all Maladies* by Siddhartha Mukherjee
 - *Genome* by Matt Ridley
+- *Gene* by Siddhartha Mukherjee
 - *The Harry Potter Series* by J. K. Rowling
 - *The Adventures of Tintin* by Hergé
 - *Asterix and Obelix* by  Albert Uderzo and René Goscinny
@@ -25,6 +26,7 @@ Some of my favorite (fiction and non-fiction) books/authors -
 - *A World Without Time* by Palle Yourgrau
 - *The Murder on the Orient Express* by Agatha Christie
 - *The Martian* by Andy Weir
+- *Entanglement* by Amir Aczel
 - *Brave New World* by Aldous Huxley
 - *Flatland* by Edwin Abbott Abbott
 - *Maus* by Art Spiegelman
