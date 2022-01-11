@@ -18,6 +18,9 @@ Undergraduate Lecture and Tutorial
 * Coding for Communicators <br>
 Masters Seminar
 
+* Visualising Data*
+Masters Seminar
+
 * Theories of Communications and New Media <br>
 Undergraduate Tutorial
 
