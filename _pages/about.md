@@ -23,7 +23,7 @@ I am also the co-organizer of the Singapore chapter of the Summer Institutes in 
 
 In a previous life, I wrote code for analytics start-ups in India. I have a Bachelor of Engineering degree in Computer Science and a Master of Science degree in Mathematics from [BITS Pilani](https://www.bits-pilani.ac.in/), India, and a Master of Arts degree in Communication from the University of Pennsylvania.
 
-I make up for not being very physically active by watching sports. I follow [Formula 1](http://formula1.com/), and am a supporter of [Arsenal Football Club](https://www.arsenal.com/). Yes, it's football, not soccer.
+I make up for not being very physically active by watching sports. I follow [Formula 1](http://formula1.com/), and am a supporter of [Arsenal Football Club](https://www.arsenal.com/) with the latter often involving an aching heart. Also, it's football, not soccer.
 
 I love to read, write, cook, and listen to podcasts, not necessarily in that order.
 
