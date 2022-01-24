@@ -9,6 +9,8 @@ author_profile: true
 
 ### 2022
 
+*  **Mukerjee, S**. [Rethinking Audience Fragmentation Using a Theory of News Reading Publics: Online India as a Case Study ](https://journals.sagepub.com/doi/10.1177/19401612211072700). *The International Journal of Press/Politics*. Online first. 1-22.
+
 *  **Mukerjee, S**, Yang, T., Stadler, G., Gonzalez-Bailon, S. [What Counts as a Weak Tie? A Comparison of Filtering Techniques to Analyze Co-Exposure to News](https://www.sciencedirect.com/science/article/pii/S0378873321000836). *Social Networks*. 68, 386-393.
 
 ### 2021
