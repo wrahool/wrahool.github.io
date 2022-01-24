@@ -1,5 +1,5 @@
 ---
-title: 'Publication in Social Networks'
+title: 'Publication in the International Journal of Press/Politics'
 date: 2022-1-13
 permalink: /posts/2022/1/nrp-ijpp-pub/
 tags:
