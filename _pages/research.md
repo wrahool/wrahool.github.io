@@ -6,14 +6,13 @@ author_profile: true
 
 ---
 
-I am a computational social scientist, interested in studying news consumption as a socio-political process. My research areas include the following:
+I am a computational social scientist, and my research interests lie in using data-driven methods to understand the dynamics of audience behaviour online. My research revolves around the following three distinct, but often interrelated pillars.
 
-1. Analysis of online audience behavior.
+1. The analysis of large scale behavioural data to understand collective dynamics of news consumption, as well as the relationship between audience engagement and news production.
 
-2. Developing computational (network science / data driven) methods for better studying audiences.
+2. The development of computational approaches that are grounded in social science theories for better measuring audience behaviour
 
-3. Running online experiments to understand the microdynamics of news selection.
+3. The use of online experiments to understand the micro-dynamics of media consumption, as well as the psychological and behavioural effects of media exposure.
 
-4. Running online experiments to understand the effects of  information consumption on social media.
 
-Check out my publications [here](./../publications).
+A full list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=Y7_E1EIAAAAJ).
