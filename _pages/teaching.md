@@ -11,10 +11,10 @@ author_profile: true
 
 The following are modules that I have taught at NUS. Enclosed within parentheses is the average student rating of me as a teacher.
 
-* NM 6103: Quantative Research Methods <br>
+* NM 6103: Quantitative Research Methods <br>
 PhD seminar (4.4/5)
 
-* NM 2103: Quantative Research Methods <br>
+* NM 2103: Quantitative Research Methods <br>
 Undergraduate Lecture (4/5) and Tutorial (4.4/5)
 
 * NMC 5344: Coding for Communicators <br>
