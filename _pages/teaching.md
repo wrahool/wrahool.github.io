@@ -9,24 +9,29 @@ author_profile: true
 
 ## National University of Singapore
 
-* Quantative Research Methods <br>
-PhD seminar
+The following are modules that I have taught at NUS. Enclosed within parentheses is the average student rating of me as a teacher.
 
-* Quantative Research Methods <br>
-Undergraduate Lecture and Tutorial
+* NM6103: Quantative Research Methods <br>
+PhD seminar (4.4/5)
 
-* Coding for Communicators <br>
-Masters Seminar
+* NM 2103: Quantative Research Methods <br>
+Undergraduate Lecture (4/5) and Tutorial (4.4/5)
 
-* Visualising Data <br>
-Masters Seminar
+* NMC5344: Coding for Communicators <br>
+Masters Seminar (4.9/5)
 
-* Theories of Communications and New Media <br>
-Undergraduate Tutorial
+* NM2101: Theories of Communications and New Media <br>
+Undergraduate Tutorial (4.1/5)
+
+* NMC 5341 Visualising Data <br>
+Masters Seminar (ongoing)
 
 ## University of Pennsylvania
-* Media Industries and Society<br>
+
+The following are courses that I was a TA for, at Penn.
+
+* COMM 130: Media Industries and Society<br>
 Teaching Fellow (undergraduate lecture) for Prof. Joseph Turow
 
-* Understanding Social Networks<br>
+* COMM 407: Understanding Social Networks<br>
 Lab Assistant (undergraduate seminar) for Prof. Sandra Gonzalez-Bailon
