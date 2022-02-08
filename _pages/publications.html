@@ -170,70 +170,21 @@ pre code {
 
 <div id="refereed-publications" class="section level2">
 <h2>Refereed Publications</h2>
-<div id="section" class="section level3">
-<h3>2022</h3>
-<ul>
-<li><strong>Mukerjee, S</strong>, Yang, T., Stadler, G., Gonzalez-Bailon, S. <a href="https://www.sciencedirect.com/science/article/pii/S0378873321000836">What Counts as a Weak Tie? A Comparison of Filtering Techniques to Analyze Co-Exposure to News</a>. <em>Social Networks</em>. 68, 386-393.</li>
-</ul>
-</div>
-<div id="section-1" class="section level3">
-<h3>2021</h3>
-<ul>
-<li><p><strong>Mukerjee, S.</strong> <a href="https://www.nature.com/articles/s41598-021-94724-1">A Systematic Comparison of Community Detection Algo-rithms for Measuring Selective Exposure in Co-exposure Networks</a>. <em>Scientific Reports</em>. 11(1). 1-11.</p></li>
-<li><p><strong>Mukerjee, S.</strong> &amp; Yang, T. <a href="https://www.tandfonline.com/doi/abs/10.1080/10584609.2020.1763531">Choosing to Avoid? A Conjoint Experimental Study to Understand Selective Exposure and Avoidance on Social Media</a>. <em>Political Communication</em>. 38(3), 222-240.</p></li>
-</ul>
-</div>
-<div id="section-2" class="section level3">
-<h3>2018</h3>
-<ul>
-<li><strong>Mukerjee, S.</strong>, Majo-Vazquez, S., &amp; Gonzalez-Bailon, S. <a href="https://academic.oup.com/joc/article-abstract/68/1/26/4858530">Networks of audience overlap in the consumption of digital news</a>. <em>Journal of Communication</em>, 68(1), 26-50.</li>
-</ul>
-</div>
-<div id="section-3" class="section level3">
-<h3>2016</h3>
-<ul>
-<li><strong>Mukerjee, S.</strong>. <a href="https://journals.sagepub.com/doi/abs/10.1177/2057047316665850">Net neutrality, Facebook, and India’s battle to #SaveTheInternet</a>. <em>Communication and the Public</em>, 1(3), 356-361.</li>
-</ul>
-</div>
-</div>
-<div id="under-review" class="section level2">
-<h2>Under Review</h2>
-<ul>
-<li><p><strong>Mukerjee, S.</strong> Rethinking Audience Fragmentation Using a Theory of News Read-ing Publics: India as a Case Study (revise and resubmit)</p></li>
-<li><p><strong>Mukerjee, S.</strong>, Jaidka, L., &amp; Lelkes, Y.The Political Landscape of the U.S. Twitterverse (revise and resubmit)</p></li>
-<li><p><strong>Mukerjee, S.</strong> Digital News Consumption in India (under review)</p></li>
-</ul>
-</div>
-<div id="book-chapters" class="section level2">
-<h2>Book Chapters</h2>
-<div id="section-4" class="section level3">
-<h3>2020</h3>
-<ul>
-<li><strong>Mukerjee. S.</strong> &amp; Gonalez-Bailon, S. <a href="https://methods.sagepub.com/foundations/social-media-data-quantitative-analysis">Social Media Data: Quantitative Analysis</a>. In P. Atkinson, S. Delamont, A. Cernat, J.W. Sakshaug, &amp; R.A. Williams (Eds.), <em>SAGE Research Methods Foundations</em></li>
-</ul>
-</div>
-</div>
-<div id="other-publications" class="section level2">
-<h2>Other Publications</h2>
-<div id="section-5" class="section level3">
-<h3>2019</h3>
-<ul>
-<li><p>Majo-Vazquez, S., <strong>Mukerjee, S</strong>, Ahmed Neyazi T., &amp; Nielsen, R. K. <a href="https://reutersinstitute.politics.ox.ac.uk/our-research/online-audience-engagement-legacy-and-digital-born-news-media-2019-indian-elections">Online Audience Engagement with Legacy and Digital-Born News Media in the 2019 Indian Elections</a>. Reuters Institute for the Study of Journalism Factsheet. <a href="https://indianexpress.com/article/india/online-readers-didnt-polarise-during-lok-sabha-polls-study-5799902/">Media coverage</a>.</p></li>
-<li><p><strong>Mukerjee, S</strong>. &amp; Majo-Vazquez, S. <a href="https://www.niemanlab.org/2019/06/during-the-indian-election-news-audiences-consumed-a-wide-and-diverse-range-of-sources/">During the Indian election, news audiences consumed a wide and diverse range of sources</a>. Nieman Lab blog.</p></li>
-</ul>
-</div>
-<div id="section-6" class="section level3">
-<h3>2018</h3>
-<ul>
-<li><strong>Mukerjee, S.</strong>, Majo-Vazquez, S., &amp; Gonzalez-Bailon, S. <a href="https://academic.oup.com/joc/article-abstract/68/3/E15/5025982.">Response to Webster and Taneja’s Response to Networks of audience overlap in the consumption of digital news</a> <em>Journal of Communication</em>, 68(3), E15-E18.</li>
-</ul>
-</div>
-<div id="section-7" class="section level3">
-<h3>2012</h3>
-<ul>
-<li><strong>Mukerjee, S.</strong> An Open World. <em>Linux For You</em> (June 2012) print issue</li>
-</ul>
-</div>
+<pre class="{r}"><code>library(tinyscholar)
+library(tidyverse)
+library(glue)
+
+sp &lt;- tinyscholar(&quot;Y7_E1EIAAAAJ&quot;, sortby_date = T)
+
+st &lt;- scholar_table(sp)
+
+as.data.frame(st$publications) %&gt;%
+  as_tibble() %&gt;%
+  mutate(formatted_authors = gsub(&quot;S Mukerjee&quot;, &quot;**S Mukerjee**&quot;, authors)) %&gt;%
+  mutate(citation = glue(&quot;{formatted_authors} ({year}) {title}. {venue}&quot;)) %&gt;%
+  select(citation) %&gt;% DT::datatable()
+
+</code></pre>
 </div>
 
 
