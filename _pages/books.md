@@ -17,6 +17,7 @@ Some of my favorite (fiction and non-fiction) books/authors -
 - *The Adventures of Tintin* by Hergé
 - *Asterix and Obelix* by  Albert Uderzo and René Goscinny
 - *Contact* by Carl Sagan
+- *Exhalation* by Ted Chiang
 - *The Secret of our Success* by Joseph Henrich
 - *And Then There Were None* by Agatha Christie
 - *The Black Swan* by Nassim Nicholas Taleb
