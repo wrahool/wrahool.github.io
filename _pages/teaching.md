@@ -23,8 +23,8 @@ Masters Seminar (4.9/5)
 * NM 2101: Theories of Communications and New Media <br>
 Undergraduate Tutorial (4.1/5)
 
-* NMC 5341 Visualising Data <br>
-Masters Seminar (ongoing)
+* NMC 5341: Visualising Data <br>
+Masters Seminar (4.6/5)
 
 ## University of Pennsylvania
 
