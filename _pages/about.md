@@ -25,14 +25,14 @@ In my spare time, I read, write, cook, listen to podcasts, and watch sports. I e
 
 ### Updates:
 
-- [I'm hiring postdocs in computational social science](https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-in-Computational-Social-Science-%282-Positions%29-Kent/9675544/)
+- I'm looking for post-docs in computational social science. [Read more and apply here.](https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-in-Computational-Social-Science-%282-Positions%29-Kent/9675544/)
 
-- [New publication in Political Communication](https://www.subhayan.com/posts/2022/6/twitterverse-polcom-pub/)
+- New publication in Political Communication. [Read more.](https://www.subhayan.com/posts/2022/6/twitterverse-polcom-pub/)
 
-- [Interview and media coverage by La Presse](https://www.subhayan.com/posts/2022/5/lapresse-interview/)
+- Interview and media coverage by La Presse. [Read more.](https://www.subhayan.com/posts/2022/5/lapresse-interview/)
 
-- [New publication in International Journal of Press/Politics](https://www.subhayan.com/posts/2022/1/nrp-ijpp-pub/)
+- New publication in International Journal of Press/Politics. [Read more.](https://www.subhayan.com/posts/2022/1/nrp-ijpp-pub/)
 
-- I'm [co-organizing the Singapore chapter of the Summer Institutes in Computational Social Science (SICSS)](https://www.subhayan.com/posts/2022/1/sicss-singapore-2022/)! If you're a graduate student, postdoc, or an untenured early career faculty and have a more than passing interest in the intersection of social science and data science, [consider applying](https://sicss.io/2022/singapore/)!
+- I'm co-organizing the inagurualk Singapore chapter of the Summer Institutes in Computational Social Science (SICSS). [Read more](https://www.subhayan.com/posts/2022/1/sicss-singapore-2022/) and [consider applying](https://sicss.io/2022/singapore/).
 
-**All views and opinions expressed on this webpage are mine and do not represent the views of any employer, past or present.*
+*All views and opinions expressed on this webpage are mine and do not represent the views of any employer, past or present.*
