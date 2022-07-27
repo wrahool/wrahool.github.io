@@ -23,9 +23,8 @@ In a previous life, I wrote code for analytics start-ups in India. I have a Bach
 
 In my spare time, I read, write, cook, listen to podcasts, and watch sports. I enjoy following [Formula 1](http://formula1.com/), and support [Arsenal Football Club](https://www.arsenal.com/) with an aching heart.
 
-### Updates:
-
-> * *July 2022:* I'm looking for post-docs in computational social science. [Read more...](https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-in-Computational-Social-Science-%282-Positions%29-Kent/9675544/)
+> **Updates:**
+> * July 2022: I'm looking for post-docs in computational social science. [Read more...](https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-in-Computational-Social-Science-%282-Positions%29-Kent/9675544/)
 > * *June 2022:* New publication in Political Communication. [Read more...](https://www.subhayan.com/posts/2022/6/twitterverse-polcom-pub/)
 > * *May 2022:* Interview and media coverage by La Presse. [Read more...](https://www.subhayan.com/posts/2022/5/lapresse-interview/)
 > * *Jan 2022:* New publication in International Journal of Press/Politics. [Read more...](https://www.subhayan.com/posts/2022/1/nrp-ijpp-pub/)
