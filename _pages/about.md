@@ -19,10 +19,21 @@ My interest in the field of computational social science stems largely from my l
 
 Research aside, I teach quantitative methods for undergraduate and graduate students, as well as develop and teach data communication courses for the [MSocSci (Communication) program](https://scale.nus.edu.sg/programmes/graduate/msocsci-(communication)) at NUS. You can check out the [Teaching](./teaching) section of this website for further details.
 
-I am also the co-organizer of the Singapore chapter of the Summer Institutes in Computational Social Science (SICSS) starting from 2022. If you're a graduate student, postdoc, or an untenured early career faculty and have a more than passing interest in the intersection of social science and data science, [consider applying](https://sicss.io/2022/singapore/)!
-
 In a previous life, I wrote code for analytics start-ups in India. I have a Bachelor of Engineering degree in Computer Science and a Master of Science degree in Mathematics from [BITS Pilani](https://www.bits-pilani.ac.in/), India, and a Master of Arts degree in Communication from the University of Pennsylvania.
 
 In my spare time, I read, write, cook, listen to podcasts, and watch sports. I enjoy following [Formula 1](http://formula1.com/), and support [Arsenal Football Club](https://www.arsenal.com/) with an aching heart.
 
 All views and opinions expressed on this webpage are mine and do not represent the views of any employer, past or present.
+
+### Updates:
+
+- [Hiring postdocs in computational social science](https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-in-Computational-Social-Science-%282-Positions%29-Kent/9675544/)
+
+- [Publication in Political Communication](https://www.subhayan.com/posts/2022/6/twitterverse-polcom-pub/)
+
+- [Interveiw and coverage of recent research by La Presse](https://www.subhayan.com/posts/2022/5/lapresse-interview/)
+
+- [New publication in IJPP](https://www.subhayan.com/posts/2022/1/nrp-ijpp-pub/)
+
+- I am [co-organizing the Singapore chapter of the Summer Institutes in Computational Social Science (SICSS)](https://www.subhayan.com/posts/2022/1/sicss-singapore-2022/)! If you're a graduate student, postdoc, or an untenured early career faculty and have a more than passing interest in the intersection of social science and data science, [consider applying](https://sicss.io/2022/singapore/)!
+
