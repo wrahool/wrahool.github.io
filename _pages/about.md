@@ -25,14 +25,14 @@ In my spare time, I read, write, cook, listen to podcasts, and watch sports. I e
 
 ### Updates:
 
-- **July 2022:** I'm looking for post-docs in computational social science. [Read more...](https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-in-Computational-Social-Science-%282-Positions%29-Kent/9675544/)
+> * *July 2022:* I'm looking for post-docs in computational social science. [Read more...](https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-in-Computational-Social-Science-%282-Positions%29-Kent/9675544/)
 
-- **June 2022:** New publication in Political Communication. [Read more...](https://www.subhayan.com/posts/2022/6/twitterverse-polcom-pub/)
+> * *June 2022:* New publication in Political Communication. [Read more...](https://www.subhayan.com/posts/2022/6/twitterverse-polcom-pub/)
 
-- **May 2022:** Interview and media coverage by La Presse. [Read more...](https://www.subhayan.com/posts/2022/5/lapresse-interview/)
+> * *May 2022:* Interview and media coverage by La Presse. [Read more...](https://www.subhayan.com/posts/2022/5/lapresse-interview/)
 
-- **Jan 2022:** New publication in International Journal of Press/Politics. [Read more...](https://www.subhayan.com/posts/2022/1/nrp-ijpp-pub/)
+> * *Jan 2022:* New publication in International Journal of Press/Politics. [Read more...](https://www.subhayan.com/posts/2022/1/nrp-ijpp-pub/)
 
-- **Jan 2022:** I'm co-organizing the inaugural Singapore chapter of the Summer Institutes in Computational Social Science (SICSS). [Read more](https://www.subhayan.com/posts/2022/1/sicss-singapore-2022/) and [consider applying](https://sicss.io/2022/singapore/).
+> * *Jan 2022:* I'm co-organizing the inaugural Singapore chapter of the Summer Institutes in Computational Social Science (SICSS). [Read more](https://www.subhayan.com/posts/2022/1/sicss-singapore-2022/) and [consider applying](https://sicss.io/2022/singapore/).
 
 *All views and opinions expressed on this webpage are mine and do not represent the views of any employer, past or present.*
