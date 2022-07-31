@@ -12,7 +12,7 @@ redirect_from:
 
 ## Welcome to my personal webspace
 
-I am an assistant professor at the [Department of Communications and New Media](https://www.fas.nus.edu.sg/cnm/) and a principal investigator at [Centre for Trusted Internet and Community](https://ctic.nus.edu.sg/) of the [National University of Singapore](http://nus.edu.sg/). [Keep reading...](#./about-me)
+I am an assistant professor at the [Department of Communications and New Media](https://www.fas.nus.edu.sg/cnm/) and a principal investigator at [Centre for Trusted Internet and Community](https://ctic.nus.edu.sg/) of the [National University of Singapore](http://nus.edu.sg/).
 
 > <b>Updates</b>
 > * July 2022: I'm looking for post-docs in computational social science. [Read more...](https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-in-Computational-Social-Science-%282-Positions%29-Kent/9675544/)
