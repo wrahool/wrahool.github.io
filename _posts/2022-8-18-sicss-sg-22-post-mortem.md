@@ -87,7 +87,17 @@ This allows us to segue into the difficulties we faced while coordinating the gr
 ### Photos from the event
 
 ![SICSS-SG-22-01](https://www.subhayan.com/files/images/sicss-sg-22-01.jpg) <br>
-![SICSS-SG-22-02](https://www.subhayan.com/files/images/sicss-sg-22-02.jpg) <br>
-![SICSS-SG-22-03](https://www.subhayan.com/files/images/sicss-sg-22-03.jpg) <br>
-![SICSS-SG-22-04](https://www.subhayan.com/files/images/sicss-sg-22-04.jpg) <br>
-![SICSS-SG-22-05](https://www.subhayan.com/files/images/sicss-sg-22-05.jpg) <br>
+<br>
+
+![SICSS-SG-22-02](https://www.subhayan.com/files/images/sicss-sg-22-02.jpg)
+<br>
+
+![SICSS-SG-22-03](https://www.subhayan.com/files/images/sicss-sg-22-03.jpg)
+<br>
+
+![SICSS-SG-22-04](https://www.subhayan.com/files/images/sicss-sg-22-04.jpg)
+<br>
+
+![SICSS-SG-22-05](https://www.subhayan.com/files/images/sicss-sg-22-05.jpg)
+<br>
+
