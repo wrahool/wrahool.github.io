@@ -11,6 +11,7 @@ tags:
 
 In January, I had announced that I am co-organizing the first edition of [SICSS](https://sicss.io/) (Summer Institute in Computational Social Science) - Singapore. I am glad to report that the event was, by all measures, a success. This is the post-mortem report of the event, drafted by myself and my co-organizer and colleague, Prof. Renwen Zhang.
 
+![SICSS](https://www.subhayan.com/files/images/sicss.png)
 
 ### Outreach and application process
 
