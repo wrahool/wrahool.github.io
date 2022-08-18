@@ -83,3 +83,11 @@ The summary of the survey results is as follows:
 Crucially, there were two respondents who gave a 1/5 rating to their overall level of satisfaction. To the question "What are some ways you think in which SICSS-Singapore can improve?" one of them said "it was hard to have to watch multiple youtube videos every day even though we were meeting in person." The other revealed extreme difficulties in working on the group project that they did not appreciate.
 
 This allows us to segue into the difficulties we faced while coordinating the group projects. One group ended up not submitting a proposal due to disagreement among group members, and another group had some conflicts due to some members being absent from most discussions. Reflecting on this, we think these issues mainly stemmed from participants not being able to work together in person because some of the members had other obligations and prior commitments. As a result, they were not as engaged as we would have liked. In future iterations, we will arrange guest lectures and in-person hands-on sessions in the second week as well, to encourage participants to come to the venue and work together on their group projects. To that end, we will clarify in-person participation expectations during the application process and not accept participants who cannot commit to being physically present at the venue for the full two-week period. 
+
+Here are some images that were clicked during the event
+
+![SICSS-SG-22-01](https://www.subhayan.com/files/images/sicss-sg-22-01.jpg)
+![SICSS-SG-22-02](https://www.subhayan.com/files/images/sicss-sg-22-02.jpg)
+![SICSS-SG-22-03](https://www.subhayan.com/files/images/sicss-sg-22-03.jpg)
+![SICSS-SG-22-04](https://www.subhayan.com/files/images/sicss-sg-22-04.jpg)
+![SICSS-SG-22-05](https://www.subhayan.com/files/images/sicss-sg-22-05.jpg)
