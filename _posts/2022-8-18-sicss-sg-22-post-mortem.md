@@ -12,7 +12,7 @@ tags:
 In January, I had announced that I am co-organizing the first edition of [SICSS](https://sicss.io/) (Summer Institute in Computational Social Science) - Singapore. I am glad to report that the event was, by all measures, a success. This is the post-mortem report of the event, drafted by myself and my co-organizer and colleague, Prof. Renwen Zhang.
 
 
-## Outreach and application process
+### Outreach and application process
 
 SICSS-Singapore 2022 was the first SICSS partner location to be held not just in Singapore, but in the South East Asian region at large. Hosted at the National University of Singapore, and funded by the Centre of Trusted Internet and Community (CTIC) and the Faculty of Arts and Social Sciences (FASS),  the core-organizing committee comprised three standing faculty members at the Department of Communications and New Media at NUS: Professor Jack Qiu, Assistant Professor Renwen Zhang, and Assistant Professor Subhayan Mukerjee.
 
@@ -24,7 +24,7 @@ Since we were organizing SICSS for the first time, we set a modest target of rec
 
 In parallel, we also worked on inviting guest speakers, with a special focus on showcasing practitioners of computational social science from in and around Singapore. We finalized six speakers (3 local, 3 international; 3 male, 3 female; 4 from academia, 2 from industry).
 
-## Pre-arrival and onboarding
+### Pre-arrival and onboarding
 
 Since COVID-19 rules had been relaxed in Singapore, we pivoted to a fully in-person event (barring the international speakers who would be delivering their lectures via Zoom). We shortlisted and invited 22 of the 41 applicants - who we confirmed would be able to be physically present in Singapore.
 One oversight on our part was to not consider the visa requirements of international applicants: since all the participants had said that they would be in Singapore, we had assumed they would be able to enter Singapore without any difficulty. This was largely true, except for one participant (from Malaysia) who held a Yemeni passport, who emailed us the day before SICSS began that he needed a visa to enter Singapore. Even though we sent him a visa letter the next day, he was unable to make it to the event in person.
@@ -37,7 +37,7 @@ We also hired three NUS undergraduate students to assist us in our day-to-day lo
 
 We had one conference room booked for all days for the guest lecture and video sessions, while there was ample space outside the conference room for both catering and group activities on all days. The conference room had large TV screens, and we procured the necessary AV equipment for the in-person guest speakers.
 
-## First week
+### First week
 
 Monday began with an opening (virtual) guest lecture by Prof. Sandra Gonzalez-Bailon from the University of Pennsylvania. While the session itself went smoothly, the timing could have been better. Owing to the time difference between Philadelphia and Singapore, the talk was scheduled for 8:30 AM, which meant the participants had to arrive by 8 AM for logistical debriefing. For future iterations, we will try to have a local speaker deliver the first day's lecture - preferably later in the day.
 
@@ -54,7 +54,7 @@ We largely stuck to the main curriculum except on Friday, when we deviated by in
 
 One recurring problem that we encountered was the microphones running out of batteries during the in-person guest lectures. While they were all resolved eventually, this is something we should plan for in the future
 
-## Second week
+### Second week
 
 The second week was devoted to group projects, with the first day starting with a short and fun quiz (Kahoot!) assessing participants' understanding of the things they learned in the first week. We included two questions for each week's topic covered in the first week, totaling 10 questions. The participants generally did well, with a few students getting full marks. Thus, we believed that the lectures and exercises in the first week had provided a good basis for the group projects. After the quiz, we explained the rubric and requirements of the group projects and then asked participants to work on their own group projects. 
 
@@ -66,7 +66,7 @@ The highlight of the last day was the concluding talk by Dr. Kokil Jadka, follow
 
 We ended SICSS with a social event, where we had beers and dinner and chatted with each about our research, life, hobbies, and potential collaborations. 
 
-## Post-departure
+### Post-departure
 
 Results from an anonymous post-event survey that was administered to the participants revealed very positive feedback. Most of them complimented the arrangement and structure of SICSS and said how it helped them get a solid foundation in CSS and put this knowledge into practice. 
 
@@ -84,7 +84,7 @@ Crucially, there were two respondents who gave a 1/5 rating to their overall lev
 
 This allows us to segue into the difficulties we faced while coordinating the group projects. One group ended up not submitting a proposal due to disagreement among group members, and another group had some conflicts due to some members being absent from most discussions. Reflecting on this, we think these issues mainly stemmed from participants not being able to work together in person because some of the members had other obligations and prior commitments. As a result, they were not as engaged as we would have liked. In future iterations, we will arrange guest lectures and in-person hands-on sessions in the second week as well, to encourage participants to come to the venue and work together on their group projects. To that end, we will clarify in-person participation expectations during the application process and not accept participants who cannot commit to being physically present at the venue for the full two-week period. 
 
-Here are some images that were clicked during the event
+### Photos from the event
 
 ![SICSS-SG-22-01](https://www.subhayan.com/files/images/sicss-sg-22-01.jpg)
 ![SICSS-SG-22-02](https://www.subhayan.com/files/images/sicss-sg-22-02.jpg)
