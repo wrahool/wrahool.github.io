@@ -1,5 +1,5 @@
 ---
-title: 'SICSS-Singapore 2022 Post-Mortem Report'
+title: 'Invited Lecture on ``Data Storytelling for Business'''
 date: 2022-8-17
 permalink: /posts/2022/8/masterclass-nus/
 tags:
