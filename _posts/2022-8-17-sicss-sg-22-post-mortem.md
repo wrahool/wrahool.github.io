@@ -1,6 +1,6 @@
 ---
 title: 'SICSS-Singapore 2022 Post-Mortem Report'
-date: 2022-8-18
+date: 2022-8-17
 permalink: /posts/2022/8/sicss-sg-22-post-mortem/
 tags:
 tags:

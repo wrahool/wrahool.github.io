@@ -15,12 +15,12 @@ redirect_from:
 I am an assistant professor at the [Department of Communications and New Media](https://www.fas.nus.edu.sg/cnm/) and a principal investigator at [Centre for Trusted Internet and Community](https://ctic.nus.edu.sg/) of the [National University of Singapore](http://nus.edu.sg/).
 
 > <b>Updates</b>
-> * August 2022: Invited lecture on Data Storytelling for Business. [Read more...](https://www.subhayan.com/posts/2022/8/masterclass-nus/)
-> * July 2022: I'm hiring post-docs in computational social science. [Read more...](https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-in-Computational-Social-Science-%282-Positions%29-Kent/9675544/)
-> * June 2022: New publication in Political Communication. [Read more...](https://www.subhayan.com/posts/2022/6/twitterverse-polcom-pub/)
+> * Aug 2022: I delivered an invited lecture on Data Storytelling for Business. [Read more...](https://www.subhayan.com/posts/2022/8/masterclass-nus/)
+> * Aug 2022: I co-organized the inaugural Singapore chapter of SICSS (Summer Institutes in Computational Social Science). [Read more...](https://www.subhayan.com/posts/2022/8/sicss-sg-22-post-mortem/)
+> * Jul 2022: I'm hiring post-docs in computational social science. [Read more...](https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-in-Computational-Social-Science-%282-Positions%29-Kent/9675544/)
+> * Jun 2022: New publication in Political Communication. [Read more...](https://www.subhayan.com/posts/2022/6/twitterverse-polcom-pub/)
 > * May 2022: Interview and media coverage by La Presse. [Read more...](https://www.subhayan.com/posts/2022/5/lapresse-interview/)
 > * Jan 2022: New publication in International Journal of Press/Politics. [Read more...](https://www.subhayan.com/posts/2022/1/nrp-ijpp-pub/)
-> * Jan 2022: I'm co-organizing the inaugural Singapore chapter of the Summer Institutes in Computational Social Science (SICSS). [Read more](https://www.subhayan.com/posts/2022/1/sicss-singapore-2022/) and [consider applying](https://sicss.io/2022/singapore/).
 
 ### About Me
 
