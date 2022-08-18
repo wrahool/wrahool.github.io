@@ -15,7 +15,7 @@ redirect_from:
 I am an assistant professor at the [Department of Communications and New Media](https://www.fas.nus.edu.sg/cnm/) and a principal investigator at [Centre for Trusted Internet and Community](https://ctic.nus.edu.sg/) of the [National University of Singapore](http://nus.edu.sg/).
 
 > <b>Updates</b>
-> * July 2022: I'm looking for post-docs in computational social science. [Read more...](https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-in-Computational-Social-Science-%282-Positions%29-Kent/9675544/)
+> * July 2022: I'm hiring post-docs in computational social science. [Read more...](https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-in-Computational-Social-Science-%282-Positions%29-Kent/9675544/)
 > * June 2022: New publication in Political Communication. [Read more...](https://www.subhayan.com/posts/2022/6/twitterverse-polcom-pub/)
 > * May 2022: Interview and media coverage by La Presse. [Read more...](https://www.subhayan.com/posts/2022/5/lapresse-interview/)
 > * Jan 2022: New publication in International Journal of Press/Politics. [Read more...](https://www.subhayan.com/posts/2022/1/nrp-ijpp-pub/)
