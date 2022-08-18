@@ -33,6 +33,7 @@ Some of my favorite (fiction and non-fiction) books/authors -
 - *Maus* by Art Spiegelman
 - *Everything is Obvious* by Duncan Watts
 - *The Last Lecture* by Randy Pausch
+- *Project Hail Mary* by Andy Weir
 - *The Three Body Problem* by Liu Cixin
 - *One, Two, Three ... Infinity* by George Gamow
 - *Physics for Entertainment* by Yakov Perelman
