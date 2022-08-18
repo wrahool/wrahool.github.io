@@ -29,9 +29,10 @@ My interest in the field of computational social science stems largely from my l
 
 Research aside, I teach quantitative methods for undergraduate and graduate students, as well as develop and teach data communication courses for the [MSocSci (Communication) program](https://scale.nus.edu.sg/programmes/graduate/msocsci-(communication)) at NUS. You can check out the [Teaching](./teaching) section of this website for further details.
 
-In a previous life, I wrote code for analytics start-ups in India. I have a Bachelor of Engineering degree in Computer Science and a Master of Science degree in Mathematics from [BITS Pilani](https://www.bits-pilani.ac.in/), India, and a Master of Arts degree in Communication from the University of Pennsylvania.
+In a previous life, I wrote code for analytics start-ups in India. Before my Ph.D., I completed a Bachelor of Engineering degree in Computer Science and a Master of Science degree in Mathematics from [BITS Pilani](https://www.bits-pilani.ac.in/), India, and a Master of Arts degree in Communication from the University of Pennsylvania.
 
 In my spare time, I read, write, cook, listen to podcasts, and watch sports. I enjoy following [Formula 1](http://formula1.com/), and support [Arsenal Football Club](https://www.arsenal.com/) with an aching heart.
 
+--
 
 *All views and opinions expressed on this webpage are mine and do not represent the views of any employer, past or present.*
