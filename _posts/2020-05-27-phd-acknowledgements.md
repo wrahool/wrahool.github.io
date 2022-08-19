@@ -51,5 +51,5 @@ I also love my defense attire, as you can see here.
 
 --
 
-The slide deck of my defense presentation can be found [here](https://www.subhayan.com/files/sm-defense-slides.pdf).
+The slide deck of my defense presentation can be found [here](/assets/files/sm-defense-slides.pdf).
 
