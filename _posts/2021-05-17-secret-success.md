@@ -21,6 +21,6 @@ This remarkable genetic shift was driven by the advent of agriculture -- which w
 Henrich gives dozens of examples of how, more generally, cultural practices have shaped our biology today: from perspiration and the lack of fur on our skin being by-products of our group tracking and hunting activities, to our digestive system adapting to accommodate socially learned cooking practices over generations. The point that he repeatedly makes with all these examples, is that cultural evolution has gone hand-in-hand with biological evolution. Not only have we done what our biology has enabled us to do, but that our extreme capacity to learn *socially and culturally* has also adapted our biology to allow us to harness the full potential of our cultural knowledge. This, Henrich argues, is the secret of our success.
 
 
-![The Secret of Our Success](https://www.subhayan.com/files/images/secret-success.jpg)
+![The Secret of Our Success](/assets/images/secret-success.jpg)
 
 *The Secret of Our Success* by Joseph Henrich. Check it out on [the publisher's webpage](https://press.princeton.edu/books/paperback/9780691178431/the-secret-of-our-success).

@@ -14,7 +14,7 @@ I was recently invited by the [NUS School of Continuing Lifelong Education (SCAL
 
 The audience of my talk comprised industry experts, government officials and academics, some of whom were present physically, while others joined the session online. The recording is now [available for viewing on YouTube](https://www.youtube.com/watch?v=VlyzrF14Z74) (my talk runs from the beginning to about the 30 minute mark).
 
-[![Data Storytelling for Business Masterclass](https://www.subhayan.com/files/images/masterclass-screenshot.png)](https://www.youtube.com/watch?v=VlyzrF14Z74)
+[![Data Storytelling for Business Masterclass](/assets/images/masterclass-screenshot.png)](https://www.youtube.com/watch?v=VlyzrF14Z74)
 
 
 

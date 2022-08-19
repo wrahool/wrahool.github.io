@@ -16,4 +16,4 @@ I also love this paper because at various stages, its pre-print yielded a [bylin
 
 Find it [here](https://www.tandfonline.com/doi/abs/10.1080/10584609.2022.2075061) or if you don't have access to it, check out the [pre-print](https://osf.io/w98ms/).
 
-![polcomm twitterverse screengrab](https://www.subhayan.com/files/images/polcomm-twitterverse.png)
+![polcomm twitterverse screengrab](/assets/images/polcomm-twitterverse.png)

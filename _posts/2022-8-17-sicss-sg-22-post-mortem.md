@@ -11,7 +11,7 @@ tags:
 
 [In January, I had announced](https://www.subhayan.com/posts/2022/1/sicss-singapore-2022/) that I am co-organizing the first edition of [SICSS](https://sicss.io/) (Summer Institute in Computational Social Science) - Singapore. I am glad to report that the event was, by all measures, a success. This is the post-mortem report of the event, drafted by myself and my co-organizer and colleague, Prof. Renwen Zhang.
 
-![SICSS](https://www.subhayan.com/files/images/sicss.png)
+![SICSS](/assets/images/sicss.png)
 
 ### Outreach and application process
 
@@ -87,18 +87,18 @@ This allows us to segue into the difficulties we faced while coordinating the gr
 
 ### Photos from the event
 
-![SICSS-SG-22-01](https://www.subhayan.com/files/images/sicss-sg-22-01.jpg)
+![SICSS-SG-22-01](/assets/images/sicss-sg-22-01.jpg)
 <br>
 
-![SICSS-SG-22-02](https://www.subhayan.com/files/images/sicss-sg-22-02.jpg)
+![SICSS-SG-22-02](/assets/images/sicss-sg-22-02.jpg)
 <br>
 
-![SICSS-SG-22-03](https://www.subhayan.com/files/images/sicss-sg-22-03.jpg)
+![SICSS-SG-22-03](/assets/images/sicss-sg-22-03.jpg)
 <br>
 
-![SICSS-SG-22-04](https://www.subhayan.com/files/images/sicss-sg-22-04.jpg)
+![SICSS-SG-22-04](/assets/images/sicss-sg-22-04.jpg)
 <br>
 
-![SICSS-SG-22-05](https://www.subhayan.com/files/images/sicss-sg-22-05.jpg)
+![SICSS-SG-22-05](/assets/images/sicss-sg-22-05.jpg)
 <br>
 

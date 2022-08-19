@@ -11,5 +11,5 @@ Last week, the theory chapter from my Ph.D. dissertation was published by *The I
 
 Find it [here](https://journals.sagepub.com/doi/10.1177/19401612211072700) (or hit me up for ungated access).
 
-![IJPP screengrab](https://www.subhayan.com/files/images/ijpp-nrp.png)
+![IJPP screengrab](/assets/images/ijpp-nrp.png)
 

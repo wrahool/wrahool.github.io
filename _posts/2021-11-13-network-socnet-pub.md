@@ -11,4 +11,4 @@ Last month, I (along with my co-authors, Tian Yang, Sandra Gonzalez-Bailon, and 
 
 Find it [here](https://www.sciencedirect.com/sdfe/reader/pii/S0378873321000836/pdf). (open access)
 
-![Socnet networks screengrab](https://www.subhayan.com/files/images/socnet-weak-ties.png)
+![Socnet networks screengrab](/assets/images/socnet-weak-ties.png)

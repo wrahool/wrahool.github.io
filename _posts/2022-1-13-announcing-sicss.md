@@ -11,5 +11,5 @@ I am excited to co-organize the inaugural edition of SICSS-Singapore! [SICSS](ht
 
 Graciously funded by the Centre for Trusted Internet and Community and the Faculty of Arts and Social Sciences at NUS, SICSS-Singapore is aimed at those who wish to explore the intersection of social science and data science. For details visit the [SICSS-Singapore website](https://sicss.io/2022/singapore/).
 
-![SICSS](https://www.subhayan.com/files/images/sicss.png)
+![SICSS](/assets/images/sicss.png)
 

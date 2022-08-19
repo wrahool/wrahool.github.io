@@ -11,4 +11,4 @@ I was recently invited to deliver a (virtual) guest lecture for [SICSS-Beijing](
 
 The recording of the talk can be viewed on Zoom [here](https://mit.zoom.us/rec/share/NFMZFMzwvlUqNad_-udqlcHUrW5QCxExUiD-yn0PkCd-mM6aqtccY143ZiOa5UUG.Y6Wce6g_o8AstXWZ?startTime=1623762366000).
 
-[![Subhayan Mukerjee at SICSS-Beijing](https://www.subhayan.com/files/images/sicss-beijing-screenshot.png)](https://mit.zoom.us/rec/share/NFMZFMzwvlUqNad_-udqlcHUrW5QCxExUiD-yn0PkCd-mM6aqtccY143ZiOa5UUG.Y6Wce6g_o8AstXWZ?startTime=1623762366000)
+[![Subhayan Mukerjee at SICSS-Beijing](/assets/images/sicss-beijing-screenshot.png)](https://mit.zoom.us/rec/share/NFMZFMzwvlUqNad_-udqlcHUrW5QCxExUiD-yn0PkCd-mM6aqtccY143ZiOa5UUG.Y6Wce6g_o8AstXWZ?startTime=1623762366000)
