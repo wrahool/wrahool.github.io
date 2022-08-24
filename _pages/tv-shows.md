@@ -27,7 +27,6 @@ TV shows that I have enjoyed (and enjoy) watching -
 - Fawlty Towers
 - Top Gear
 - The Grand Tour
-- Formula 1: Drive to Survive
 - The Handmaid's Tale
 - Ozark
 - Black Mirror
