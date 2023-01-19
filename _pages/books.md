@@ -6,7 +6,7 @@ redirect_from:
 ---
 ## Books
 
-Some of my favorite (fiction and non-fiction) books/authors -
+I love reading both non-fiction (popular science and history) as well as fiction (sci-fi, fantasy, thrillers). Some of my favorite books/authors -
 
 - *Foundation trilogy* by Issac Asimov
 - *Logicomix* by Apostolos Doxiadis and Christos Papadimitriou
