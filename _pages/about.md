@@ -15,6 +15,8 @@ redirect_from:
 I am an assistant professor at the [Department of Communications and New Media](https://www.fas.nus.edu.sg/cnm/) and a principal investigator at [Centre for Trusted Internet and Community](https://ctic.nus.edu.sg/) of the [National University of Singapore](http://nus.edu.sg/).
 
 > <b>Updates</b>
+> * Jan 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/1/joc-shadowban/)
+> * Sep 2022: New publication in Cyberpsychology, Behaviour, and Social Networking. [Read more...](https://www.subhayan.com/posts/2022/9/cyberpsych-pub/)
 > * Aug 2022: I delivered an invited lecture on Data Storytelling for Business. [Read more...](https://www.subhayan.com/posts/2022/8/masterclass-nus/)
 > * Aug 2022: I co-organized the inaugural Singapore chapter of SICSS (Summer Institutes in Computational Social Science). [Read more...](https://www.subhayan.com/posts/2022/8/sicss-sg-22-post-mortem/)
 > * Jul 2022: I'm hiring post-docs in computational social science. [Read more...](https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-in-Computational-Social-Science-%282-Positions%29-Kent/9675544/)
