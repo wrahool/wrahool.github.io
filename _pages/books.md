@@ -11,6 +11,7 @@ I love reading both non-fiction (popular science and history) as well as fiction
 - *Foundation trilogy* by Issac Asimov
 - *Logicomix* by Apostolos Doxiadis and Christos Papadimitriou
 - *The Emperor of all Maladies* by Siddhartha Mukherjee
+- *The Lost River: On the Trail of the Sarasvati* by Michel Danino
 - *Genome* by Matt Ridley
 - *Gene* by Siddhartha Mukherjee
 - *The Harry Potter Series* by J. K. Rowling
