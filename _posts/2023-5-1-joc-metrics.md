@@ -1,7 +1,7 @@
 ---
 title: '(Another) Publication in Journal of Communication!'
-date: 2023-3-20
-permalink: /posts/2023/5/joc-metrics/
+date: 2023-4-30
+permalink: /posts/2023/4/joc-metrics/
 tags:
   - research
   - personal

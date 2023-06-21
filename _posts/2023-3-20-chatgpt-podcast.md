@@ -1,7 +1,7 @@
 ---
 title: 'Appearance on the CNM Podcast'
 date: 2023-3-20
-permalink: /posts/2023/2/freethink-interview/
+permalink: /posts/2023/3/chatgpt-podcast/
 tags:
   - personal
   - research
