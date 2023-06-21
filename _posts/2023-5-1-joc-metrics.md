@@ -8,7 +8,7 @@ tags:
   - publication
 ---
 
-Super excited to announce (another!) publication in the Journal of Communication - this time in a Special Issue (Social Media: Good, Bad, and the Ugly) with my collaborators Tian Yang (at CUHK) and Yilang Peng (at UGeorgia).
+Super excited to announce (another!) publication in the Journal of Communication - this time in a Special Issue ([Social Media: The Good, The Bad, The Ugly](https://academic.oup.com/joc/pages/cfp-si-social-media-gbu)) with my collaborators Tian Yang (at CUHK) and Yilang Peng (at UGeorgia).
 
 We use a large (N ~ 2.23M) longitudinal dataset of Facebook posts published by American media outlets to understand the effects of  audience engagement (as measured by Facebook metrics) with news topics on the *future* production of news of that topic in subsequent news cycles. Methodologically, this was one of the most demanding papers I've worked on as it required careful statistical controls and a slew of robustness tests to ensure any effects we were estimating captured the signal amid the noise.
 
