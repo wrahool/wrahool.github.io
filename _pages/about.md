@@ -15,6 +15,7 @@ redirect_from:
 I am an assistant professor at the [Department of Communications and New Media](https://www.fas.nus.edu.sg/cnm/) and a principal investigator at [Centre for Trusted Internet and Community](https://ctic.nus.edu.sg/) of the [National University of Singapore](http://nus.edu.sg/).
 
 > <b>Updates</b>
+> * Aug 2023: I delivered an invited webinar on AI and Data Analytics for Positive Change. [Read more...](https://www.subhayan.com/posts/2023/8/snt-webinar/)
 > * Apr 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/4/joc-metrics/)
 > * Mar 2023: Talking about ChatGPT on the CNM Podcast. [Read more...](https://www.subhayan.com/posts/2023/3/chatgpt-podcast)
 > * Feb 2023: Interview by Freethink about nostr and Web 3.0. [Read more...](https://www.subhayan.com/posts/2023/2/freethink-interview/)

@@ -1,5 +1,5 @@
 ---
-title: 'Invited Lecture AI and Dana Analytics'
+title: 'Invited Lecture on AI and Data Analytics for Positive Change'
 date: 2023-8-1
 permalink: /posts/2023/8/snt-webinar/
 tags:
