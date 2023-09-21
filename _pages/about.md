@@ -15,14 +15,19 @@ redirect_from:
 I am an assistant professor at the [Department of Communications and New Media](https://www.fas.nus.edu.sg/cnm/) and a principal investigator at [Centre for Trusted Internet and Community](https://ctic.nus.edu.sg/) of the [National University of Singapore](http://nus.edu.sg/).
 
 > <b>Updates</b>
+> * Sep 2023: Researching computational methods X Journalism? Apply for our ICA preconference and visit us in Singapore on the way to ICA. [Read more...](https://bit.ly/computational-journalism-ica-preconf)
+> * Sep 2023: I delivered an invited webinar on AI and Society. [Read more...](https://www.subhayan.com/posts/2023/9/iimb-webinar/)
 > * Aug 2023: I delivered an invited webinar on AI and Data Analytics for Positive Change. [Read more...](https://www.subhayan.com/posts/2023/8/snt-webinar/)
 > * Apr 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/4/joc-metrics/)
 > * Mar 2023: Talking about ChatGPT on the CNM Podcast. [Read more...](https://www.subhayan.com/posts/2023/3/chatgpt-podcast)
 > * Feb 2023: Interview by Freethink about nostr and Web 3.0. [Read more...](https://www.subhayan.com/posts/2023/2/freethink-interview/)
 > * Jan 2023: SICSS (Summer Institute Computational Social Science)-Singapore returns. Grad students, postdocs, early career faculty are welcome to [apply](https://www.subhayan.com/posts/2022/1/sicss-singapore-2023/)!
 > * Jan 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/1/joc-shadowban/)
+
+<!---
 > * Sep 2022: New publication in Cyberpsychology, Behaviour, and Social Networking. [Read more...](https://www.subhayan.com/posts/2022/9/cyberpsych-pub/)
 > * Aug 2022: I delivered an invited lecture on Data Storytelling for Business. [Read more...](https://www.subhayan.com/posts/2022/8/masterclass-nus/)
+-->
 
 ### About Me
 
