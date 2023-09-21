@@ -15,7 +15,6 @@ I was invited by the [Mizuho India Japan Study Centre)](https://www.iimb.ac.in/c
 
 We delved into the nuances of AI technology, exploring its distinctive characteristics as well as similarities to other emerging technologies we've witnessed in the past. We also pondered its potential implications on trust, creativity, education, and the future job market, fostering a rich dialogue. The recording is now [available for viewing on YouTube](https://www.youtube.com/live/3wgN4etg_sw?feature=share).
 
-![Meijin Samvad Poster](/assets/images/iimb-webinar.jpeg)](https://www.youtube.com/live/3wgN4etg_sw?feature=share)
-
+![Meijin Samvad Poster](/assets/images/iimb-webinar.jpeg)(https://www.youtube.com/live/3wgN4etg_sw?feature=share)
 
 
