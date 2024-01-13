@@ -15,9 +15,10 @@ redirect_from:
 I am an assistant professor at the [Department of Communications and New Media](https://www.fas.nus.edu.sg/cnm/) and a principal investigator at [Centre for Trusted Internet and Community](https://ctic.nus.edu.sg/) of the [National University of Singapore](http://nus.edu.sg/).
 
 > <b>Updates</b>
-> * Oct 2023: I delivered an invited seminar at the NUS Centre for Trusted Internet and Community. [Read more...](https://www.subhayan.com/posts/2023/10/ctic-seminar/)
+> * Nov 2023: I delivered an invited webinar at A*STAR (Agency for Science and Technology Research). [Read more...](https://www.subhayan.com/posts/2023/11/astar-seminar/)
+> * Oct 2023: I delivered a seminar at the NUS Centre for Trusted Internet and Community. [Read more...](https://www.subhayan.com/posts/2023/10/ctic-seminar/)
 > * Sep 2023: Researching computational methods X Journalism? Apply for our ICA preconference and visit us in Singapore on the way to ICA. [Read more...](https://fass.nus.edu.sg/cnm/ica-2024/)
-> * Sep 2023: I delivered an invited webinar on AI and Society. [Read more...](https://www.subhayan.com/posts/2023/9/iimb-webinar/)
+> * Sep 2023: I delivered an invited webinar on AI and Society at IIM-Bangalore. [Read more...](https://www.subhayan.com/posts/2023/9/iimb-webinar/)
 > * Aug 2023: I delivered an invited webinar on AI and Data Analytics for Positive Change. [Read more...](https://www.subhayan.com/posts/2023/8/snt-webinar/)
 > * Apr 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/4/joc-metrics/)
 > * Mar 2023: Talking about ChatGPT on the CNM Podcast. [Read more...](https://www.subhayan.com/posts/2023/3/chatgpt-podcast)
