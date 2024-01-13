@@ -1,5 +1,5 @@
 ---
-title: 'Invited Seminar at the Agency for Science, Technology and Research (A*STAR'
+title: 'Invited Seminar at the Agency for Science, Technology and Research (A*STAR)'
 date: 2023-11-20
 permalink: /posts/2023/11/astar-seminar/
 tags:
