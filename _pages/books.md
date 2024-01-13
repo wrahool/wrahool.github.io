@@ -24,6 +24,7 @@ I love reading both non-fiction (popular science and history) as well as fiction
 - *The Black Swan* by Nassim Nicholas Taleb
 - *1984* by George Orwell
 - *Fahrenheit 451* by Ray Bradbury
+- *The Scout Mindset* by Julia Galef
 - *Siddhartha* by Hermann Hesse
 - *A World Without Time* by Palle Yourgrau
 - *The Murder on the Orient Express* by Agatha Christie

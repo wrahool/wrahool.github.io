@@ -15,6 +15,7 @@ Here are some podcasts I follow (in no particular order) -
 - [Science Podcast - Quanta Magazine](https://www.quantamagazine.org/tag/podcast)
 - [You're Dead to Me - BBC](https://www.bbc.co.uk/sounds/brand/p07mdbhg)
 - [The Joy of x Podcast - Quanta Magazine](https://www.quantamagazine.org/tag/the-joy-of-x)
+- [The Joy of Why Podcast - Quanta Magazine](https://www.quantamagazine.org/tag/the-joy-of-why/)
 - [Science Vs - Gimlet](https://gimletmedia.com/shows/science-vs)
 - [Throughline - NPR](https://www.npr.org/podcasts/510333/throughline)
 - [The Infinite Monkey Cage - BBC](https://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads)
