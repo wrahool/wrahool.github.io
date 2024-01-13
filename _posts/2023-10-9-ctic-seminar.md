@@ -15,7 +15,7 @@ I delivered a public seminar at the [NUS Centre for Trusted Internet and Communi
 
 The session was moderated by my NUS colleague [Dr. Shangyuan Wu](https://profile.nus.edu.sg/fass/cnmws/) and attended by students, other NUS staff, and members of the public.
 
-[![CTIC Seminar](/assets/images/ctic-metrics.jpg)]
+![CTIC Seminar](/assets/images/ctic-metrics.jpg)
 
 
 
