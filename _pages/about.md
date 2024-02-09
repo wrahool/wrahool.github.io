@@ -15,6 +15,7 @@ redirect_from:
 I am an assistant professor at the [Department of Communications and New Media](https://www.fas.nus.edu.sg/cnm/) and a principal investigator at [Centre for Trusted Internet and Community](https://ctic.nus.edu.sg/) of the [National University of Singapore](http://nus.edu.sg/).
 
 > <b>Updates</b>
+> * Feb 2024: SICSS (Summer Institute Computational Social Science)-Singapore returns. Grad students, postdocs, early career faculty are welcome to [apply](https://www.subhayan.com/posts/2024/2/sicss-singapore-2024/)!
 > * Feb 2024: Talking about the power of platforms on the Computational Communication Science podcast. [Read more...](https://www.subhayan.com/posts/2024/2/ccs-podcast/)
 > * Jan 2024: I am co-organising a one day ICA preconference on Journalism and Computation. [Read more...](https://www.subhayan.com/posts/2024/1/ica-preconf/)
 > * Nov 2023: I delivered an invited webinar at A*STAR (Agency for Science and Technology Research). [Read more...](https://www.subhayan.com/posts/2023/11/astar-seminar/)
@@ -25,10 +26,10 @@ I am an assistant professor at the [Department of Communications and New Media](
 > * Apr 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/4/joc-metrics/)
 > * Mar 2023: Talking about ChatGPT on the CNM Podcast. [Read more...](https://www.subhayan.com/posts/2023/3/chatgpt-podcast)
 > * Feb 2023: Interview by Freethink about nostr and Web 3.0. [Read more...](https://www.subhayan.com/posts/2023/2/freethink-interview/)
-> * Jan 2023: SICSS (Summer Institute Computational Social Science)-Singapore returns. Grad students, postdocs, early career faculty are welcome to [apply](https://www.subhayan.com/posts/2022/1/sicss-singapore-2023/)!
-> * Jan 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/1/joc-shadowban/)
+> * Jan 2023: SICSS (Summer Institute Computational Social Science)-Singapore returns. Grad students, postdocs, early career faculty are welcome to [apply](https://www.subhayan.com/posts/2023/2/sicss-singapore-2023/)!
 
 <!---
+> * Jan 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/1/joc-shadowban/)
 > * Sep 2022: New publication in Cyberpsychology, Behaviour, and Social Networking. [Read more...](https://www.subhayan.com/posts/2022/9/cyberpsych-pub/)
 > * Aug 2022: I delivered an invited lecture on Data Storytelling for Business. [Read more...](https://www.subhayan.com/posts/2022/8/masterclass-nus/)
 -->

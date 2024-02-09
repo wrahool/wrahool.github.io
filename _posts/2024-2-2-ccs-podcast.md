@@ -1,6 +1,6 @@
 ---
 title: 'Appearance on the CCS Podcast'
-date: 2024-2-10
+date: 2024-2-2
 permalink: /posts/2024/2/ccs-podcast/
 tags:
 tags:
