@@ -15,6 +15,8 @@ redirect_from:
 I am an assistant professor at the [Department of Communications and New Media](https://www.fas.nus.edu.sg/cnm/) and a principal investigator at [Centre for Trusted Internet and Community](https://ctic.nus.edu.sg/) of the [National University of Singapore](http://nus.edu.sg/).
 
 > <b>Updates</b>
+> * Feb 2024: Talking about the power of platforms on the Computational Communication Science podcast. [Read more...](https://www.subhayan.com/posts/2024/2/ccs-podcast/)
+> * Jan 2024: I am co-organising a one day ICA preconference on Journalism and Computation. [Read more...](https://www.subhayan.com/posts/2024/1/ica-preconf/)
 > * Nov 2023: I delivered an invited webinar at A*STAR (Agency for Science and Technology Research). [Read more...](https://www.subhayan.com/posts/2023/11/astar-seminar/)
 > * Oct 2023: I delivered a seminar at the NUS Centre for Trusted Internet and Community. [Read more...](https://www.subhayan.com/posts/2023/10/ctic-seminar/)
 > * Sep 2023: Researching computational methods X Journalism? Apply for our ICA preconference and visit us in Singapore on the way to ICA. [Read more...](https://fass.nus.edu.sg/cnm/ica-2024/)
@@ -33,7 +35,7 @@ I am an assistant professor at the [Department of Communications and New Media](
 
 ### About Me
 
-A computational social scientist by training, I study the dynamics of audience behavior on online platforms, and the effects they have on audiences at both, a macro, as well as a micro-level. I hold a Ph.D. from the [Annenberg School for Communication](https://www.asc.upenn.edu) of the [University of Pennsylvania](https://www.upenn.edu/) where I was advised by [Dr. Sandra Gonzalez-Bailon](https://www.asc.upenn.edu/people/faculty/sandra-gonzalez-bailon-phd). My research has appeared in international social science journals such as *Journal of Communication*,  *Political Communication*, *The International Journal of Press/Politics* as well as interdisciplinary venues such as *Scientific Reports*, and *Social Networks*. I have written about my research for popular media such as *The Washington Post* and *The Indian Express*, and I've ben quoted in international media as well. To learn more, check out the [Research](./research) section of this website. For a full list of my publications, visit my [Google Scholar page](https://scholar.google.com/citations?user=Y7_E1EIAAAAJ&hl=en).
+A computational social scientist by training, I study the dynamics of audience behavior on online platforms, and the effects they have on audiences at both, a macro, as well as a micro-level. I hold a Ph.D. from the [Annenberg School for Communication](https://www.asc.upenn.edu) of the [University of Pennsylvania](https://www.upenn.edu/) where I was advised by [Dr. Sandra Gonzalez-Bailon](https://www.asc.upenn.edu/people/faculty/sandra-gonzalez-bailon-phd). My research has appeared in international social science journals such as *Journal of Communication*,  *Political Communication*, *The International Journal of Press/Politics*, *Information, Communication and Society* as well as interdisciplinary venues such as *Scientific Reports*, and *Social Networks*. For a full list of my publications, visit my [Google Scholar page](https://scholar.google.com/citations?user=Y7_E1EIAAAAJ&hl=en).
 
 My interest in the field of computational social science stems largely from my love for Isaac Asimov's *Foundation* trilogy from a very young age. As a result, I generally tend to ponder ways in which large scale social phenomena can be usefully and formally modeled.
 
