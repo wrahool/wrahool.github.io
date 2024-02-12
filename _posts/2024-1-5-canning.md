@@ -6,7 +6,6 @@ tags:
   - history
   - India
   - Singapore
-  
 ---
 
 Fort Canning is perhaps one of Singapore's best known landmarks. A verdant hill in Central Singapore steeped in centuries of history, it served as seat of Malay royalty in the medieval ages, was the site of the signing of the Singapore Treaty in the 1819, and the setting of what was, according to Churchill, the most ignominious surrender in the history of the British empire, in 1942.
