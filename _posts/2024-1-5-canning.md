@@ -3,7 +3,6 @@ title: 'From Fort Canning to the Ledikeni'
 date: 2024-1-5
 permalink: /posts/2024/1/canning/
 tags:
-tags:
   - history
   - India
   - Singapore

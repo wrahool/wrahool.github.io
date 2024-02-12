@@ -3,7 +3,6 @@ title: 'ICA Pre-Conference on Journalism and Computation in Singapore!'
 date: 2024-1-10
 permalink: /posts/2024/1/ica-preconf/
 tags:
-tags:
   - journalism
   - preconference
   - computational social science
