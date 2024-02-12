@@ -16,6 +16,7 @@ I love reading both non-fiction (popular science and history) as well as fiction
 - *Gene* by Siddhartha Mukherjee
 - *The Harry Potter Series* by J. K. Rowling
 - *The Adventures of Tintin* by Hergé
+- *The Man Who Knew Infinity* Robert Kanigel
 - *Asterix and Obelix* by  Albert Uderzo and René Goscinny
 - *Contact* by Carl Sagan
 - *Exhalation* by Ted Chiang
