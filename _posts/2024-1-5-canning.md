@@ -1,7 +1,7 @@
 ---
 title: 'Chicago: An Incomplete Ode'
 date: 2024-02-02
-permalink: /posts/2022/02/ode-to-chicago/
+permalink: /posts/2024/02/ode-to-chicago/
 tags:
   - personal
 ---
