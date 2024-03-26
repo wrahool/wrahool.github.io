@@ -1,7 +1,7 @@
 ---
 title: 'New Publication in Information, Communication & Society'
 date: 2024-2-27
-permalink: /posts/2023/4/ics-india-news/
+permalink: /posts/2024/2/ics-india-news/
 tags:
   - research
   - personal

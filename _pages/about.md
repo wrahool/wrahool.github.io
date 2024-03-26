@@ -25,9 +25,9 @@ I am an assistant professor at the [Department of Communications and New Media](
 > * Aug 2023: I delivered an invited webinar on AI and Data Analytics for Positive Change. [Read more...](https://www.subhayan.com/posts/2023/8/snt-webinar/)
 > * Apr 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/4/joc-metrics/)
 > * Mar 2023: Talking about ChatGPT on the CNM Podcast. [Read more...](https://www.subhayan.com/posts/2023/3/chatgpt-podcast)
-> * Feb 2023: Interview by Freethink about nostr and Web 3.0. [Read more...](https://www.subhayan.com/posts/2023/2/freethink-interview/)
 
 <!---
+> * Feb 2023: Interview by Freethink about nostr and Web 3.0. [Read more...](https://www.subhayan.com/posts/2023/2/freethink-interview/)
 > * Jan 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/1/joc-shadowban/)
 > * Sep 2022: New publication in Cyberpsychology, Behaviour, and Social Networking. [Read more...](https://www.subhayan.com/posts/2022/9/cyberpsych-pub/)
 > * Aug 2022: I delivered an invited lecture on Data Storytelling for Business. [Read more...](https://www.subhayan.com/posts/2022/8/masterclass-nus/)
@@ -35,7 +35,7 @@ I am an assistant professor at the [Department of Communications and New Media](
 
 ### About Me
 
-A computational social scientist by training, I study the dynamics of audience behavior on online platforms, and the effects they have on audiences at both, a macro, as well as a micro-level. I hold a Ph.D. from the [Annenberg School for Communication](https://www.asc.upenn.edu) of the [University of Pennsylvania](https://www.upenn.edu/) where I was advised by [Dr. Sandra Gonzalez-Bailon](https://www.asc.upenn.edu/people/faculty/sandra-gonzalez-bailon-phd). My research has appeared in international social science journals such as *Journal of Communication*,  *Political Communication*, *The International Journal of Press/Politics*, *Information, Communication and Society* as well as interdisciplinary venues such as *Scientific Reports*, and *Social Networks*. For a full list of my publications, visit my [Google Scholar page](https://scholar.google.com/citations?user=Y7_E1EIAAAAJ&hl=en).
+A computational social scientist by training, I study the dynamics of audience behavior on online platforms, and the effects they have on audiences at both, a macro, as well as a micro-level. I hold a Ph.D. from the [Annenberg School for Communication](https://www.asc.upenn.edu) of the [University of Pennsylvania](https://www.upenn.edu/) where I was advised by [Dr. Sandra Gonzalez-Bailon](https://www.asc.upenn.edu/people/faculty/sandra-gonzalez-bailon-phd). My research has appeared in reputed social science journals such as *Journal of Communication*,  *Political Communication*, *The International Journal of Press/Politics*, *Information, Communication and Society* as well as interdisciplinary venues such as *Scientific Reports*, and *Social Networks*. For a full list of my publications, visit my [Google Scholar page](https://scholar.google.com/citations?user=Y7_E1EIAAAAJ&hl=en).
 
 My interest in the field of computational social science stems largely from my love for Isaac Asimov's *Foundation* trilogy from a very young age. As a result, I generally tend to ponder ways in which large scale social phenomena can be usefully and formally modeled.
 
