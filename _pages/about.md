@@ -14,7 +14,7 @@ redirect_from:
 I am an assistant professor at the [Department of Communications and New Media](https://www.fas.nus.edu.sg/cnm/) and a principal investigator at [Centre for Trusted Internet and Community](https://ctic.nus.edu.sg/) of the [National University of Singapore](http://nus.edu.sg/).
 
 > <b>Updates</b>
-> * Mar 2024: I delivered an invited lecture at Academia Sinica, Taiwan [Read more...]
+> * Mar 2024: I delivered an invited lecture at Academia Sinica, Taiwan [Read more...](https://www.subhayan.com/posts/2024/3/computing-society-taiwan/)
 > * Feb 2024: New publication in Information, Communication & Society. [Read more...](https://www.subhayan.com/posts/2024/2/ics-india-news/)
 > * Feb 2024: SICSS (Summer Institute Computational Social Science)-Singapore returns. Grad students, postdocs, early career faculty are welcome to [apply](https://www.subhayan.com/posts/2024/2/sicss-singapore-2024/)!
 > * Feb 2024: Talking about the power of platforms on the Computational Communication Science podcast. [Read more...](https://www.subhayan.com/posts/2024/2/ccs-podcast/)
