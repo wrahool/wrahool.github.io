@@ -25,9 +25,9 @@ I am an assistant professor at the [Department of Communications and New Media](
 > * Sep 2023: I delivered an invited webinar on AI and Society at IIM-Bangalore. [Read more...](https://www.subhayan.com/posts/2023/9/iimb-webinar/)
 > * Aug 2023: I delivered an invited webinar on AI and Data Analytics for Positive Change. [Read more...](https://www.subhayan.com/posts/2023/8/snt-webinar/)
 > * Apr 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/4/joc-metrics/)
-> * Mar 2023: Talking about ChatGPT on the CNM Podcast. [Read more...](https://www.subhayan.com/posts/2023/3/chatgpt-podcast)
 
 <!---
+> * Mar 2023: Talking about ChatGPT on the CNM Podcast. [Read more...](https://www.subhayan.com/posts/2023/3/chatgpt-podcast)
 > * Feb 2023: Interview by Freethink about nostr and Web 3.0. [Read more...](https://www.subhayan.com/posts/2023/2/freethink-interview/)
 > * Jan 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/1/joc-shadowban/)
 > * Sep 2022: New publication in Cyberpsychology, Behaviour, and Social Networking. [Read more...](https://www.subhayan.com/posts/2022/9/cyberpsych-pub/)
