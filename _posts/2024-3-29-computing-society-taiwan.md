@@ -17,6 +17,4 @@ It was my first time visiting Taiwan, and I had a lovely couple of days there, a
 
 ![Computing Society 2](/assets/images/sinica-2.jpg)
 
-![Computing Society 3](/assets/images/sinica-3.jpg)
-
 ![Taipei skyline](/assets/images/taiwan.jpg)
