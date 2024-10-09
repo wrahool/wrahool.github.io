@@ -51,3 +51,5 @@ In my spare time, I read, write, cook, listen to podcasts, and watch sports. I e
 --
 
 *All views and opinions expressed on this webpage are mine and do not represent the views of any employer, past or present.*
+
+*The header image features a mosaic of eight distinct photos captured by NASA's Landsat satellite. See [https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/)*
