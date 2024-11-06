@@ -18,7 +18,7 @@ Some photos from the event below:
 <span style="font-size: 14px; line-height: 1;">The program committee of the conference. From left: Yilang Peng (U of Georgia), Subhayan Mukerjee (NUS), Tian Yang (CUHK), Thorsten Quandt (U of Munster), and Shangyuan Wu (NUS) </span>
 
 ![preconference 2](/assets/images/preconf2.jpg)
-<span style="font-size: 14px; line-height: 1;">Attendees at the event</span>
+<span style="font-size: 14px; line-height: 1;">Attendees at the event engaged in discussions</span>
 
 ![preconference 3](/assets/images/preconf3.jpg)
 <span style="font-size: 14px; line-height: 1;">Edson Tandoc Jr (NTU) delivering his keynote</span>
