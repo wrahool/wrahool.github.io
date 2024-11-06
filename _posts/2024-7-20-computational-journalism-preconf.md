@@ -15,24 +15,19 @@ Last month, we successfully organised an [International Communication Associatio
 Some photos from the event below:
 
 ![preconference 1](/assets/images/preconf1.jpg)
-<span style="font-size: 14px; line-height: 1;">Your text here</span>
-<br>
+<span style="font-size: 14px; line-height: 1;">The program committee of the conference</span>
 
 ![preconference 2](/assets/images/preconf2.jpg)
-<font size="3"> Attendees at the event </font>
-<br>
+<span style="font-size: 14px; line-height: 1;">Attendees at the event</span>
 
 ![preconference 3](/assets/images/preconf3.jpg)
-<font size="3"> Edson Tandoc delivering his keynote </font>
-<br>
+<span style="font-size: 14px; line-height: 1;">Edson Tandoc Jr (NTU) delivering his keynote</span>
 
 ![preconference 4](/assets/images/preconf4.jpg)
-<font size="3"> The ground organising team including the student assistants who helped make the event a success </font>
-<br>
+<span style="font-size: 14px; line-height: 1;">The ground organising team</span>
 
 ![preconference 5](/assets/images/preconf5.jpg)
-<font size="3"> Magdalena Wojcieszak delivering her keynote </font>
-<br>
+<span style="font-size: 14px; line-height: 1;">Magdalena Wojcieszak (UC Davis) delivering her keynote</span>
 
 ![preconference 6](/assets/images/preconf6.jpg)
-<font size="3"> A full house of in-person attendees. </font>
+<span style="font-size: 14px; line-height: 1;">A full house of in-person attendees</span>
