@@ -15,19 +15,19 @@ Last month, we successfully organised an [International Communication Associatio
 Some photos from the event below:
 
 ![preconference 1](/assets/images/preconf1.jpg)
-<font size="1">  The organising team/program committee </font>
+<font size="3"> The organising team/program committee </font>
 
 ![preconference 2](/assets/images/preconf2.jpg)
-<font size="2"> Attendees at the event </font>
+<font size="3"> Attendees at the event </font>
 
 ![preconference 3](/assets/images/preconf3.jpg)
-Edson Tandoc delivering his keynote
+<font size="3"> Edson Tandoc delivering his keynote </font>
 
 ![preconference 4](/assets/images/preconf4.jpg)
-The ground organising team including the student assistants who helped make the event a success
+<font size="3"> The ground organising team including the student assistants who helped make the event a success </font>
 
 ![preconference 5](/assets/images/preconf5.jpg)
-Magdalena Wojcieszak delivering her keynote
+<font size="3"> Magdalena Wojcieszak delivering her keynote </font>
 
 
 ![preconference 6](/assets/images/preconf6.jpg)
