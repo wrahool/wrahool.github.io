@@ -15,7 +15,7 @@ Last month, we successfully organised an [International Communication Associatio
 Some photos from the event below:
 
 ![preconference 1](/assets/images/preconf1.jpg)
-<font size="3"> The organising team/program committee </font>
+<span style="font-size: 14px; line-height: 1;">Your text here</span>
 <br>
 
 ![preconference 2](/assets/images/preconf2.jpg)
@@ -35,4 +35,4 @@ Some photos from the event below:
 <br>
 
 ![preconference 6](/assets/images/preconf6.jpg)
-A full house of in-person attendees.
+<font size="3"> A full house of in-person attendees. </font>
