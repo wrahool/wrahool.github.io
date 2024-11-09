@@ -1,14 +1,14 @@
-/* _styles.scss */
 .image-caption-container {
   display: inline-block;
-  margin: 0;
+  width: 500px; /* Default width for larger screens */
+  max-width: 100%; /* Allows the container to shrink on smaller screens */
+  margin: 0 auto; /* Center the container on the page */
   padding: 0;
 }
 
 .image-caption-container img {
-  width: 500px; /* Fixed image width */
-  max-width: 100%; /* Optional: Ensures it doesn't exceed container width on small screens */
-  margin-bottom: 5px; /* Adds space between image and caption */
+  width: 100%; /* Image takes full width of the container */
+  margin-bottom: 5px; /* Space between image and caption */
 }
 
 .image-caption-container span {
@@ -17,5 +17,5 @@
   line-height: 1.4; /* Improves readability for wrapped text */
   font-style: italic; /* Makes caption italic */
   margin-top: 0;
-  margin-bottom: 15px; /* Adds space below the caption */
+  margin-bottom: 15px; /* Extra space below the caption */
 }
