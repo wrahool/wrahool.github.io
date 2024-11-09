@@ -18,7 +18,7 @@ tags:
 }
 .image-caption-container img {
   width: 500px;
-  margin-bottom: 0;
+  margin-bottom: 5px;
 }
 .image-caption-container span {
   display: block;
