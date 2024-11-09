@@ -25,7 +25,7 @@ tags:
 .image-caption-container span {
   display: block;
   font-size: 14px;
-  max-width: 400px; /* Set a specific width for caption wrapping */
+  max-width: 500px; /* Set a specific width for caption wrapping */
   line-height: 1.4; /* Increased line spacing for readability */
   font-style: italic; /* Makes the caption italic */
   margin-top: 0;
