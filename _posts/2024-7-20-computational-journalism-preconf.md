@@ -17,4 +17,35 @@ Some photos from the event below:
 {% include image_caption.html
   src="/assets/images/preconf1.jpg"
   alt="preconference 1"
-  caption="The program committee of the conference. From left: Yilang Peng (U of Georgia), Subhayan Mukerjee (NUS), Tian Yang (CUHK), Thorsten Quandt (U of Munster), and Shangyuan Wu (NUS)a" %}
+  caption="The program committee of the conference. From left: Yilang Peng (U of Georgia), Subhayan Mukerjee (NUS), Tian Yang (CUHK), Thorsten Quandt (U of Munster), and Shangyuan Wu (NUS)"
+%}
+
+{% include image_caption.html
+  src="/assets/images/preconf2.jpg"
+  alt="preconference 2"
+  caption="Attendees at the event engaged in discussions"
+%}
+
+{% include image_caption.html
+  src="/assets/images/preconf3.jpg"
+  alt="preconference 3"
+  caption="Edson Tandoc Jr (NTU) delivering his keynote"
+%}
+
+{% include image_caption.html
+  src="/assets/images/preconf4.jpg"
+  alt="preconference 4"
+  caption="The ground organising team. From left: Shangyuan Wu, Subhayan Mukerjee, Rongxin Ouyang, Clara Shen, Nur Nadiah Bte Mohamed Hashim, Jo Anna Wong"
+%}
+
+{% include image_caption.html
+  src="/assets/images/preconf5.jpg"
+  alt="preconference 5"
+  caption="Magdalena Wojcieszak (UC Davis) delivering her keynote"
+%}
+
+{% include image_caption.html
+  src="/assets/images/preconf6.jpg"
+  alt="preconference 6"
+  caption="A full house of in-person attendees"
+%}
