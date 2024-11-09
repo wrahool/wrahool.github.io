@@ -22,14 +22,14 @@ I am an assistant professor at the [Department of Communications and New Media](
 > * Feb 2024: SICSS (Summer Institute Computational Social Science)-Singapore returns. Grad students, postdocs, early career faculty are welcome to [apply](https://www.subhayan.com/posts/2024/2/sicss-singapore-2024/)!
 > * Feb 2024: Talking about the power of platforms on the Computational Communication Science podcast. [Read more...](https://www.subhayan.com/posts/2024/2/ccs-podcast/)
 > * Jan 2024: I am co-organising a one day ICA preconference on Journalism and Computation. [Read more...](https://www.subhayan.com/posts/2024/1/ica-preconf/)
+
+<!---
 > * Nov 2023: I delivered an invited webinar at A*STAR (Agency for Science and Technology Research). [Read more...](https://www.subhayan.com/posts/2023/11/astar-seminar/)
 > * Oct 2023: I delivered a seminar at the NUS Centre for Trusted Internet and Community. [Read more...](https://www.subhayan.com/posts/2023/10/ctic-seminar/)
 > * Sep 2023: Researching computational methods X Journalism? Apply for our ICA preconference and visit us in Singapore on the way to ICA. [Read more...](https://fass.nus.edu.sg/cnm/ica-2024/)
 > * Sep 2023: I delivered an invited webinar on AI and Society at IIM-Bangalore. [Read more...](https://www.subhayan.com/posts/2023/9/iimb-webinar/)
 > * Aug 2023: I delivered an invited webinar on AI and Data Analytics for Positive Change. [Read more...](https://www.subhayan.com/posts/2023/8/snt-webinar/)
 > * Apr 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/4/joc-metrics/)
-
-<!---
 > * Mar 2023: Talking about ChatGPT on the CNM Podcast. [Read more...](https://www.subhayan.com/posts/2023/3/chatgpt-podcast)
 > * Feb 2023: Interview by Freethink about nostr and Web 3.0. [Read more...](https://www.subhayan.com/posts/2023/2/freethink-interview/)
 > * Jan 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/1/joc-shadowban/)
