@@ -13,7 +13,7 @@ redirect_from:
 
 ## Welcome to my personal webspace
 
-I am an assistant professor at the [Department of Communications and New Media](https://www.fas.nus.edu.sg/cnm/) and a principal investigator at [Centre for Trusted Internet and Community](https://ctic.nus.edu.sg/) of the [National University of Singapore](http://nus.edu.sg/).
+I am an assistant professor at the [Department of Communications and New Media](https://www.fas.nus.edu.sg/cnm/) and a principal investigator at [Centre for Trusted Internet and Community](https://ctic.nus.edu.sg/) of the [National University of Singapore](http://nus.edu.sg/). I am also affiliated with the [NUS Centre for Computational Social Science and Humanities](https://cssh.nus.edu.sg/).
 
 > <b>Updates</b>
 > * Nov 2024: I am guest co-editing a special issue for Computational Communication Research on Generative AI. [Read more...](https://www.subhayan.com/posts/2024/11/ccr-genai-si/)
@@ -39,7 +39,7 @@ I am an assistant professor at the [Department of Communications and New Media](
 
 ### About Me
 
-A computational social scientist by training, I study the dynamics of audience behavior on online platforms, and the effects they have on audiences at both, a macro, as well as a micro-level. I hold a Ph.D. from the [Annenberg School for Communication](https://www.asc.upenn.edu) of the [University of Pennsylvania](https://www.upenn.edu/) where I was advised by [Dr. Sandra Gonzalez-Bailon](https://www.asc.upenn.edu/people/faculty/sandra-gonzalez-bailon-phd). My research has appeared in reputed social science journals such as *Journal of Communication*,  *Political Communication*, *The International Journal of Press/Politics*, *Information, Communication and Society* as well as interdisciplinary venues such as *Scientific Reports*, and *Social Networks*. For a full list of my publications, visit my [Google Scholar page](https://scholar.google.com/citations?user=Y7_E1EIAAAAJ&hl=en).
+A computational social scientist by training, I study the dynamics of audience behavior on online platforms, and the effects they have on audiences at both, a macro, as well as a micro-level. I hold a Ph.D. from the [Annenberg School for Communication](https://www.asc.upenn.edu) of the [University of Pennsylvania](https://www.upenn.edu/) where I was advised by [Dr. Sandra Gonzalez-Bailon](https://www.asc.upenn.edu/people/faculty/sandra-gonzalez-bailon-phd). My research has appeared in reputed social science journals such as *Journal of Communication*,  *Political Communication*, *The International Journal of Press/Politics*, *Information, Communication and Society* as well as interdisciplinary venues such as *Scientific Reports*, and *Social Networks*. For a full list of my publications, visit my [Google Scholar page](https://scholar.google.com/citations?user=Y7_E1EIAAAAJ&hl=en). My faculty page on the NUS website can be found [here](https://discovery.nus.edu.sg/19113-subhayan-mukerjee).
 
 My interest in the field of computational social science stems largely from my love for Isaac Asimov's *Foundation* trilogy from a very young age. As a result, I generally tend to ponder ways in which large scale social phenomena can be usefully and formally modeled.
 
