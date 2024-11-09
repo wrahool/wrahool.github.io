@@ -1,0 +1,20 @@
+/* styles.scss or styles.css */
+.image-caption-container {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+.image-caption-container img {
+  width: 100%; /* Makes image width responsive within container */
+  margin-bottom: 5px; /* Adds space between image and caption */
+}
+
+.image-caption-container span {
+  display: block;
+  font-size: 14px; /* Caption font size */
+  line-height: 1.4; /* Improves readability for wrapped text */
+  font-style: italic; /* Makes caption italic */
+  margin-top: 0;
+  margin-bottom: 15px; /* Adds space below the caption */
+}
