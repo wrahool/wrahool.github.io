@@ -1,4 +1,4 @@
-/* styles.scss or styles.css */
+/* _styles.scss */
 .image-caption-container {
   display: inline-block;
   margin: 0;
@@ -6,7 +6,8 @@
 }
 
 .image-caption-container img {
-  width: 500px; /* Makes image width responsive within container */
+  width: 500px; /* Fixed image width */
+  max-width: 100%; /* Optional: Ensures it doesn't exceed container width on small screens */
   margin-bottom: 5px; /* Adds space between image and caption */
 }
 
