@@ -9,6 +9,7 @@ tags:
   - computational methods
 output:
   html_document:
+    css: "styles.css"
     keep_md: true
 ---
 

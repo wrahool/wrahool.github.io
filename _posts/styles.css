@@ -1,0 +1,16 @@
+/* styles.css */
+.image-caption-container {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+.image-caption-container img {
+  width: 500px;
+  margin-bottom: 0;
+}
+.image-caption-container span {
+  display: block;
+  font-size: 14px;
+  line-height: 1;
+  margin-top: 0;
+}
