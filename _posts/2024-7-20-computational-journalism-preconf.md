@@ -28,7 +28,7 @@ tags:
   line-height: 1;
   font-style: italic; /* Makes the caption italic */
   margin-top: 0;
-  margin-bottom: 15px; /* Adds more space below the caption */
+  margin-bottom: 25px; /* Adds more space below the caption */
 }
 </style>
 
@@ -36,21 +36,28 @@ Last month, we successfully organised an [International Communication Associatio
 
 Some photos from the event below:
 
-<img src="/assets/images/preconf1.jpg" alt="preconference 1" width="500"/>
+<div class="image-caption-container">
+  <img src="/assets/images/preconf1.jpg" alt="preconference 1" />
+  <span>The program committee of the conference. From left: Yilang Peng (U of Georgia), Subhayan Mukerjee (NUS), Tian Yang (CUHK), Thorsten Quandt (U of Munster), and Shangyuan Wu (NUS)</span>
+</div>
 
-<span style="font-size: 14px; line-height: 1;">The program committee of the conference. From left: Yilang Peng (U of Georgia), Subhayan Mukerjee (NUS), Tian Yang (CUHK), Thorsten Quandt (U of Munster), and Shangyuan Wu (NUS) </span>
 
-<img src="/assets/images/preconf2.jpg" alt="preconference 2" width="500"/>
+<div class="image-caption-container">
+  <img src="/assets/images/preconf2.jpg" alt="preconference 2" />
+  <span>Attendees at the event engaged in discussions</span>
+</div>
 
-<span style="font-size: 14px; line-height: 1;">Attendees at the event engaged in discussions</span>
 
-<img src="/assets/images/preconf3.jpg" alt="preconference 3" width="500"/>
+<div class="image-caption-container">
+  <img src="/assets/images/preconf3.jpg" alt="preconference 3" />
+  <span>Edson Tandoc Jr (NTU) delivering his keynote</span>
+</div>
 
-<span style="font-size: 14px; line-height: 1;">Edson Tandoc Jr (NTU) delivering his keynote</span>
 
-<img src="/assets/images/preconf4.jpg" alt="preconference 4" width="500"/>
-
-<span style="font-size: 14px; line-height: 1;">The ground organising team. From left: Shangyuan Wu, Subhayan Mukerjee, Rongxin Ouyang, Clara Shen, Nur Nadiah Bte Mohamed Hashim, Jo Anna Wong</span>
+<div class="image-caption-container">
+  <img src="/assets/images/preconf4.jpg" alt="preconference 4" />
+  <span>The ground organising team. From left: Shangyuan Wu, Subhayan Mukerjee, Rongxin Ouyang, Clara Shen, Nur Nadiah Bte Mohamed Hashim, Jo Anna Wong</span>
+</div>
 
 <div class="image-caption-container">
   <img src="/assets/images/preconf5.jpg" alt="preconference 5" />
@@ -58,6 +65,7 @@ Some photos from the event below:
 </div>
 
 
-<img src="/assets/images/preconf6.jpg" alt="preconference 6" width="500"/>
-
-<span style="font-size: 14px; line-height: 1;">A full house of in-person attendees</span>
+<div class="image-caption-container">
+  <img src="/assets/images/preconf6.jpg" alt="preconference 6" />
+  <span>A full house of in-person attendees</span>
+</div>
