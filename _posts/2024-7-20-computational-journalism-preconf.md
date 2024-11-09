@@ -13,7 +13,8 @@ Last month, we successfully organised an [International Communication Associatio
 
 Some photos from the event below:
 
-![preconference 1](/assets/images/preconf1.jpg)
+<img src="/assets/images/preconf1.jpg" alt="preconference 1" width="300"/>
+
 <span style="font-size: 14px; line-height: 1;">The program committee of the conference. From left: Yilang Peng (U of Georgia), Subhayan Mukerjee (NUS), Tian Yang (CUHK), Thorsten Quandt (U of Munster), and Shangyuan Wu (NUS) </span>
 
 ![preconference 2](/assets/images/preconf2.jpg)
