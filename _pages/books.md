@@ -16,10 +16,12 @@ I love reading both non-fiction (popular science and history) as well as fiction
 - *Gene* by Siddhartha Mukherjee
 - *The Harry Potter Series* by J. K. Rowling
 - *The Adventures of Tintin* by Hergé
+- *Science Fictions* by Stuart Ritchie
 - *The Man Who Knew Infinity* Robert Kanigel
 - *Asterix and Obelix* by  Albert Uderzo and René Goscinny
 - *Contact* by Carl Sagan
 - *Exhalation* by Ted Chiang
+- *How to Build a Car* by Adrian Newey
 - *The Secret of our Success* by Joseph Henrich
 - *And Then There Were None* by Agatha Christie
 - *The Black Swan* by Nassim Nicholas Taleb
@@ -33,6 +35,7 @@ I love reading both non-fiction (popular science and history) as well as fiction
 - *Entanglement* by Amir Aczel
 - *Brave New World* by Aldous Huxley
 - *Flatland* by Edwin Abbott Abbott
+- *The Chronos Trilogy* by Prithwis Mukerjee
 - *Maus* by Art Spiegelman
 - *Everything is Obvious* by Duncan Watts
 - *The Last Lecture* by Randy Pausch
@@ -41,7 +44,6 @@ I love reading both non-fiction (popular science and history) as well as fiction
 - *One, Two, Three ... Infinity* by George Gamow
 - *Physics for Entertainment* by Yakov Perelman
 - *The Count of Monte Cristo* by Alexandre Dumas
-- *Chronotantra* by Prithwis Mukerjee
 
 This list would be incomplete without mentioning some writers whose books and stories I enjoy in general. These include:
 
@@ -52,3 +54,4 @@ This list would be incomplete without mentioning some writers whose books and st
 - Roald Dahl
 - Arthur Clarke
 - P. G. Wodehouse
+- Ted Chiang
