@@ -33,9 +33,11 @@ Some photos from the event below:
 
 <span style="font-size: 14px; line-height: 1;">The ground organising team. From left: Shangyuan Wu, Subhayan Mukerjee, Rongxin Ouyang, Clara Shen, Nur Nadiah Bte Mohamed Hashim, Jo Anna Wong</span>
 
-<img src="/assets/images/preconf5.jpg" alt="preconference 5" width="500"/>
+<div class="image-caption-container">
+  <img src="/assets/images/preconf5.jpg" alt="preconference 5" />
+  <span>Magdalena Wojcieszak (UC Davis) delivering her keynote</span>
+</div>
 
-<span style="font-size: 14px; line-height: 1;">Magdalena Wojcieszak (UC Davis) delivering her keynote</span>
 
 <img src="/assets/images/preconf6.jpg" alt="preconference 6" width="500"/>
 
