@@ -4,7 +4,7 @@ date: 2024-11-09
 permalink: /posts/2024/11/ccr-genai-si/
 tags:
   - genAI
-  - comuptational methods
+  - computational methods
   - call for papers
 ---
 
